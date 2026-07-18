@@ -1,0 +1,83 @@
+[
+  {
+    "id": "nd80_2021",
+    "title": "Nghị định 80/2021/NĐ-CP",
+    "category": "legal",
+    "url": "https://vanban.chinhphu.vn/default.aspx?docid=203941&pageid=27160",
+    "expected_keywords": ["80/2021", "doanh nghiệp nhỏ và vừa"],
+    "demo_status": "Còn hiệu lực",
+    "notes": "Nguồn chính cho phân loại DNNVV và hỗ trợ DNNVV."
+  },
+  {
+    "id": "law_sme_2017",
+    "title": "Luật Hỗ trợ DNNVV 2017",
+    "category": "legal",
+    "url": "https://vanban.chinhphu.vn/default.aspx?docid=190283&pageid=27160",
+    "expected_keywords": ["04/2017", "doanh nghiệp nhỏ và vừa"],
+    "demo_status": "Hết hiệu lực một phần",
+    "notes": "Cổng Chính phủ cung cấp văn bản gốc; CSDL VBPL đã được dùng để kiểm tra trạng thái hết hiệu lực một phần."
+  },
+  {
+    "id": "tt06_2022",
+    "title": "Thông tư 06/2022/TT-BKHĐT",
+    "category": "legal",
+    "url": "https://vanban.chinhphu.vn/?docid=205807&pageid=27160",
+    "expected_keywords": ["06/2022", "doanh nghiệp nhỏ và vừa"],
+    "demo_status": "Còn hiệu lực",
+    "notes": "Hướng dẫn hỗ trợ tư vấn cho DNNVV."
+  },
+  {
+    "id": "qd844",
+    "title": "Quyết định 844/QĐ-TTg",
+    "category": "grant",
+    "url": "https://vanban.chinhphu.vn/default.aspx?docid=184702&pageid=27160",
+    "expected_keywords": ["844/QĐ-TTg", "đến năm 2025"],
+    "demo_status": "Đề án đến năm 2025 - cần xác minh đợt mới",
+    "notes": "Văn bản gốc phê duyệt Đề án 844 đến năm 2025."
+  },
+  {
+    "id": "tt45_2019",
+    "title": "Thông tư 45/2019/TT-BTC",
+    "category": "grant",
+    "url": "https://chinhphu.vn/default.aspx?docid=197478&pageid=27160",
+    "expected_keywords": ["45/2019", "khởi nghiệp đổi mới sáng tạo"],
+    "demo_status": "Còn hiệu lực",
+    "notes": "Quy định quản lý tài chính thực hiện Đề án 844."
+  },
+  {
+    "id": "smedf_vay_von",
+    "title": "SMEDF chương trình vay vốn",
+    "category": "grant",
+    "url": "https://smedf.gov.vn/chuong-trinh-vay-von/",
+    "expected_keywords": ["SMEDF", "Chương trình vay vốn"],
+    "demo_status": "Còn hiệu lực",
+    "notes": "Nguồn chương trình vay vốn chính thức của Quỹ Phát triển DNNVV."
+  },
+  {
+    "id": "law_investment_2020",
+    "title": "Luật Đầu tư 2020",
+    "category": "legal",
+    "url": "https://vanban.chinhphu.vn/default.aspx?docid=200449&pageid=27160",
+    "expected_keywords": ["61/2020", "Luật Đầu tư"],
+    "demo_status": "Cần cập nhật theo Luật Đầu tư 2025/2026",
+    "notes": "Dùng làm căn cứ lịch sử/roadmap; không nên coi là căn cứ cuối cùng cho hồ sơ nộp năm 2026."
+  },
+  {
+    "id": "nd31_2021",
+    "title": "Nghị định 31/2021/NĐ-CP",
+    "category": "legal",
+    "url": "https://vanban.chinhphu.vn/?docid=202988&pageid=27160",
+    "expected_keywords": ["31/2021", "Luật Đầu tư"],
+    "demo_status": "Đã được sửa đổi/bổ sung - cần rà soát theo Luật Đầu tư 2025",
+    "notes": "Danh mục ngành nghề ưu đãi đầu tư cần cập nhật theo khung luật mới."
+  },
+  {
+    "id": "hanoi_startup_ecosystem",
+    "title": "Hà Nội startup ecosystem",
+    "category": "local_context",
+    "url": "https://vienktxh.hanoi.gov.vn/nghien-cuu-trao-doi/thuc-tien-he-sinh-thai-khoi-nghiep-doi-moi-sang-tao-tren-dia-ban-thanh-pho-ha-noi-126761.html",
+    "expected_keywords": ["Hà Nội", "khởi nghiệp đổi mới sáng tạo"],
+    "demo_status": "Seed demo - cần xác minh khi nộp thật",
+    "notes": "Nguồn bối cảnh hệ sinh thái, chưa phải thông báo nhận hồ sơ."
+  }
+]

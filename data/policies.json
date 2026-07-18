@@ -1,0 +1,235 @@
+[
+  {
+    "id": "p_nd80_startup",
+    "title": "Hỗ trợ DNNVV khởi nghiệp sáng tạo theo Nghị định 80",
+    "program": "Nghị định 80/2021/NĐ-CP",
+    "scope": "Toàn quốc",
+    "status": "Còn hiệu lực",
+    "source": "https://vanban.chinhphu.vn/default.aspx?docid=203941&pageid=27160",
+    "summary": "Hỗ trợ tư vấn, sở hữu trí tuệ, tiêu chuẩn chất lượng, thử nghiệm, hoàn thiện sản phẩm mới và sử dụng cơ sở ươm tạo/kỹ thuật.",
+    "benefits": ["Tư vấn chuyên sâu", "Hỗ trợ cơ sở kỹ thuật và ươm tạo", "Hỗ trợ hoàn thiện sản phẩm mới"],
+    "eligibility": {
+      "requires_sme": true,
+      "requires_startup_innovation": true,
+      "industries": ["Phần mềm / AI", "Công nghệ cao", "Sản xuất", "Dịch vụ đổi mới sáng tạo"],
+      "provinces": ["Tất cả"]
+    },
+    "citations": [
+      {
+        "document": "Nghị định 80/2021/NĐ-CP",
+        "clause": "Điều 22",
+        "status": "Còn hiệu lực",
+        "source": "https://vanban.chinhphu.vn/default.aspx?docid=203941&pageid=27160"
+      },
+      {
+        "document": "Luật Hỗ trợ DNNVV 2017",
+        "clause": "Điều 17",
+        "status": "Hết hiệu lực một phần",
+        "source": "https://vanban.chinhphu.vn/default.aspx?docid=190283&pageid=27160"
+      }
+    ],
+    "checklist": ["Giấy chứng nhận đăng ký doanh nghiệp", "Bản mô tả sản phẩm/dịch vụ đổi mới sáng tạo", "Tài liệu chứng minh quy mô DNNVV", "Đề xuất nội dung hỗ trợ"]
+  },
+  {
+    "id": "p_dean844",
+    "title": "Đề án 844 - Hỗ trợ hệ sinh thái khởi nghiệp đổi mới sáng tạo",
+    "program": "Quyết định 844/QĐ-TTg",
+    "scope": "Toàn quốc",
+    "status": "Đề án đến năm 2025 - cần xác minh đợt mới",
+    "source": "https://vanban.chinhphu.vn/default.aspx?docid=184702&pageid=27160",
+    "summary": "Hỗ trợ nhiệm vụ phát triển hệ sinh thái khởi nghiệp đổi mới sáng tạo, kết nối cố vấn, đào tạo, truyền thông, sự kiện và hoàn thiện năng lực tổ chức.",
+    "benefits": ["Checklist hồ sơ nhiệm vụ", "Kết nối hệ sinh thái", "Hỗ trợ đào tạo/cố vấn/sự kiện"],
+    "eligibility": {
+      "requires_sme": false,
+      "requires_startup_innovation": true,
+      "industries": ["Phần mềm / AI", "Công nghệ cao", "Dịch vụ đổi mới sáng tạo"],
+      "provinces": ["Tất cả"]
+    },
+    "citations": [
+      {
+        "document": "Quyết định 844/QĐ-TTg",
+        "clause": "Mục I",
+        "status": "Đề án đến năm 2025 - cần xác minh đợt mới",
+        "source": "https://vanban.chinhphu.vn/default.aspx?docid=184702&pageid=27160"
+      },
+      {
+        "document": "Quyết định 188/QĐ-TTg (sửa đổi, bổ sung QĐ 844/QĐ-TTg)",
+        "clause": "Điều 1",
+        "status": "Còn hiệu lực",
+        "source": "https://vanban.chinhphu.vn/default.aspx?docid=202651&pageid=27160"
+      },
+      {
+        "document": "Thông tư 45/2019/TT-BTC",
+        "clause": "Điều 6",
+        "status": "Còn hiệu lực",
+        "source": "https://chinhphu.vn/default.aspx?docid=197478&pageid=27160"
+      }
+    ],
+    "checklist": ["Thuyết minh nhiệm vụ", "Dự toán kinh phí", "Hồ sơ năng lực đơn vị", "Cam kết đối ứng hoặc phối hợp", "Tài liệu mô tả sản phẩm, thị trường, đội ngũ"]
+  },
+  {
+    "id": "p_smedf",
+    "title": "Vay vốn Quỹ Phát triển DNNVV (SMEDF)",
+    "program": "SMEDF",
+    "scope": "Toàn quốc",
+    "status": "Còn hiệu lực",
+    "source": "https://smedf.gov.vn/chuong-trinh-vay-von/",
+    "summary": "Nguồn vốn vay ưu tiên cho DNNVV có phương án sản xuất kinh doanh khả thi, minh bạch tài chính và thuộc nhóm khởi nghiệp sáng tạo, cụm liên kết ngành hoặc chuỗi giá trị.",
+    "benefits": ["Nguồn vay ưu tiên", "Checklist năng lực tài chính", "Phù hợp doanh nghiệp sản xuất mở rộng"],
+    "eligibility": {
+      "requires_sme": true,
+      "requires_startup_innovation": false,
+      "industries": ["Phần mềm / AI", "Sản xuất", "Công nghệ cao", "Dịch vụ đổi mới sáng tạo"],
+      "provinces": ["Tất cả"]
+    },
+    "citations": [
+      {
+        "document": "Quỹ Phát triển DNNVV",
+        "clause": "Điều kiện vay vốn",
+        "status": "Còn hiệu lực",
+        "source": "https://smedf.gov.vn/chuong-trinh-vay-von/"
+      },
+      {
+        "document": "Nghị định 39/2019/NĐ-CP",
+        "clause": "Điều kiện cho vay (Chương II)",
+        "status": "Còn hiệu lực - đã được sửa đổi, bổ sung bởi Nghị định 45/2024/NĐ-CP",
+        "source": "https://vanban.chinhphu.vn/default.aspx?docid=196965&pageid=27160"
+      },
+      {
+        "document": "Nghị định 45/2024/NĐ-CP (sửa đổi, bổ sung NĐ 39/2019/NĐ-CP)",
+        "clause": "Điều 1",
+        "status": "Còn hiệu lực (từ 10/06/2024)",
+        "source": "https://vanban.chinhphu.vn/?docid=210143&pageid=27160"
+      }
+    ],
+    "checklist": ["Báo cáo tài chính gần nhất", "Phương án sản xuất kinh doanh", "Tài liệu chứng minh tiêu chí DNNVV", "Hồ sơ tài sản bảo đảm hoặc bảo lãnh nếu có"]
+  },
+  {
+    "id": "p_investment_software",
+    "title": "Ưu đãi đầu tư cho sản phẩm phần mềm, công nghệ thông tin",
+    "program": "Luật Đầu tư 2020 và Nghị định 31/2021/NĐ-CP",
+    "scope": "Toàn quốc",
+    "status": "Luật Đầu tư 2020 hết hiệu lực từ 01/03/2026 - áp dụng Luật Đầu tư 143/2025/QH15, chờ nghị định hướng dẫn mới thay NĐ 31/2021",
+    "source": "https://vanban.chinhphu.vn/default.aspx?docid=200449&pageid=27160",
+    "summary": "Luồng demo dùng căn cứ lịch sử về ưu đãi đầu tư cho phần mềm/CNTT; khi nộp thật cần rà soát Luật Đầu tư 2025 và nghị định hướng dẫn mới vì Luật Đầu tư 2020 đã hết hiệu lực từ 01/03/2026.",
+    "benefits": ["Cơ sở rà soát ưu đãi thuế/đất đai", "Luận cứ ngành nghề ưu đãi", "Phù hợp startup phần mềm"],
+    "eligibility": {
+      "requires_sme": false,
+      "requires_startup_innovation": false,
+      "industries": ["Phần mềm / AI", "Công nghệ cao"],
+      "provinces": ["Tất cả"]
+    },
+    "citations": [
+      {
+        "document": "Luật Đầu tư 2020",
+        "clause": "Điều 15",
+        "status": "Hết hiệu lực từ 01/03/2026 - thay thế bởi Luật Đầu tư 143/2025/QH15",
+        "source": "https://vanban.chinhphu.vn/default.aspx?docid=200449&pageid=27160"
+      },
+      {
+        "document": "Luật Đầu tư 2025 (143/2025/QH15)",
+        "clause": "Hiệu lực và chuyển tiếp",
+        "status": "Còn hiệu lực (từ 01/03/2026)",
+        "source": "https://thuvienphapluat.vn/van-ban/Dau-tu/Luat-Dau-tu-2025-so-143-2025-QH15-681550.aspx"
+      },
+      {
+        "document": "Nghị định 31/2021/NĐ-CP",
+        "clause": "Phụ lục II",
+        "status": "Đã được sửa đổi/bổ sung - cần rà soát theo Luật Đầu tư 2025",
+        "source": "https://vanban.chinhphu.vn/?docid=202988&pageid=27160"
+      }
+    ],
+    "checklist": ["Giấy chứng nhận đăng ký doanh nghiệp", "Mã ngành/hoạt động phần mềm", "Mô tả sản phẩm CNTT/phần mềm", "Hồ sơ dự án đầu tư nếu có"]
+  },
+  {
+    "id": "p_hanoi_startup",
+    "title": "Hỗ trợ hệ sinh thái khởi nghiệp đổi mới sáng tạo Hà Nội",
+    "program": "Chương trình địa phương",
+    "scope": "Hà Nội",
+    "status": "Seed demo - cần xác minh khi nộp thật",
+    "source": "https://vienktxh.hanoi.gov.vn/nghien-cuu-trao-doi/thuc-tien-he-sinh-thai-khoi-nghiep-doi-moi-sang-tao-tren-dia-ban-thanh-pho-ha-noi-126761.html",
+    "summary": "Các hoạt động địa phương về đào tạo, cố vấn, kết nối đầu tư, truyền thông và không gian thử nghiệm cho startup đổi mới sáng tạo tại Hà Nội.",
+    "benefits": ["Cố vấn và đào tạo", "Kết nối đầu tư", "Sự kiện hệ sinh thái tại Hà Nội"],
+    "eligibility": {
+      "requires_sme": false,
+      "requires_startup_innovation": true,
+      "industries": ["Phần mềm / AI", "Công nghệ cao", "Dịch vụ đổi mới sáng tạo"],
+      "provinces": ["Hà Nội"]
+    },
+    "citations": [
+      {
+        "document": "Nguồn chương trình khởi nghiệp Hà Nội",
+        "clause": "Nhóm nhiệm vụ hỗ trợ hệ sinh thái",
+        "status": "Seed demo - cần xác minh",
+        "source": "https://vienktxh.hanoi.gov.vn/nghien-cuu-trao-doi/thuc-tien-he-sinh-thai-khoi-nghiep-doi-moi-sang-tao-tren-dia-ban-thanh-pho-ha-noi-126761.html"
+      }
+    ],
+    "checklist": ["Hồ sơ doanh nghiệp tại Hà Nội", "Pitch deck", "Mô tả sản phẩm/dịch vụ", "Nhu cầu hỗ trợ cụ thể"]
+  },
+  {
+    "id": "p_manufacturing_value_chain",
+    "title": "Hỗ trợ DNNVV tham gia cụm liên kết ngành, chuỗi giá trị",
+    "program": "Nghị định 80/2021/NĐ-CP",
+    "scope": "Toàn quốc",
+    "status": "Còn hiệu lực",
+    "source": "https://vanban.chinhphu.vn/default.aspx?docid=203941&pageid=27160",
+    "summary": "Hỗ trợ đào tạo, tư vấn, tiêu chuẩn, đo lường chất lượng và kết nối cho DNNVV tham gia cụm liên kết ngành hoặc chuỗi giá trị.",
+    "benefits": ["Tư vấn tiêu chuẩn chất lượng", "Đào tạo quản trị sản xuất", "Kết nối chuỗi cung ứng"],
+    "eligibility": {
+      "requires_sme": true,
+      "requires_startup_innovation": false,
+      "industries": ["Sản xuất"],
+      "provinces": ["Tất cả"]
+    },
+    "citations": [
+      {
+        "document": "Nghị định 80/2021/NĐ-CP",
+        "clause": "Chương IV",
+        "status": "Còn hiệu lực",
+        "source": "https://vanban.chinhphu.vn/default.aspx?docid=203941&pageid=27160"
+      }
+    ],
+    "checklist": ["Tài liệu chứng minh DNNVV", "Mô tả chuỗi giá trị/cụm liên kết", "Nhu cầu đào tạo hoặc tư vấn", "Báo cáo năng lực sản xuất"]
+  },
+  {
+    "id": "p_hd145_bkhcn",
+    "title": "Tài trợ Đổi mới Sáng tạo & Ưu đãi thuế (HD 145/2026/HD-BKHCN)",
+    "program": "Hướng dẫn 145/2026/HD-BKHCN",
+    "scope": "Toàn quốc",
+    "status": "Còn hiệu lực",
+    "source": "https://most.gov.vn/HD145",
+    "summary": "Tài trợ tiền mặt tới 3 tỷ đồng cho khâu thử nghiệm (MVP)/thương mại hóa và ưu đãi thuế (miễn 4 năm, giảm 50% trong 9 năm) cho doanh nghiệp công nghệ cao (AI, IoT, Big Data, Smart City) thỏa mãn quy mô DNNVV, chi R&D tối thiểu 10% doanh thu.",
+    "benefits": [
+      "Gói hỗ trợ tiền mặt (Grant) lên tới 3 tỷ đồng cho thử nghiệm MVP và thương mại hóa",
+      "Ưu đãi thuế TNDN (miễn 4 năm, giảm 50% số thuế phải nộp trong 9 năm tiếp theo)",
+      "Hỗ trợ vay vốn lãi suất 0% năm đầu tiên thông qua Quỹ Phát triển DNNVV (SMEDF)"
+    ],
+    "eligibility": {
+      "requires_sme": true,
+      "requires_startup_innovation": true,
+      "industries": ["Phần mềm / AI", "Công nghệ cao", "Phân tích dữ liệu"],
+      "provinces": ["Tất cả"]
+    },
+    "citations": [
+      {
+        "document": "Hướng dẫn 145/2026/HD-BKHCN",
+        "clause": "Mục I (Tiêu chí xét duyệt)",
+        "status": "Còn hiệu lực",
+        "source": "https://most.gov.vn/HD145"
+      },
+      {
+        "document": "Hướng dẫn 145/2026/HD-BKHCN",
+        "clause": "Mục III (Mức hỗ trợ và giải ngân)",
+        "status": "Còn hiệu lực",
+        "source": "https://most.gov.vn/HD145"
+      }
+    ],
+    "checklist": [
+      "Tờ trình đề nghị hưởng ưu đãi và tài trợ (Theo mẫu số 01/BKHCN)",
+      "Hồ sơ Năng lực Doanh nghiệp (Company Profile)",
+      "Báo cáo tài chính 2 năm gần nhất",
+      "Thuyết minh dự án công nghệ",
+      "Bảng kê khai chi phí R&D"
+    ]
+  }
+]

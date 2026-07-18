@@ -1,0 +1,1 @@
+"""GrantPilot AI demo package."""

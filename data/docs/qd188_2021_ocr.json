@@ -1,0 +1,883 @@
+{
+  "document_id": "qd188_2021",
+  "source_url": "https://vanban.chinhphu.vn/default.aspx?docid=202651&pageid=27160",
+  "pdf_download_url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2021/02/188.signed.pdf",
+  "page_count": 4,
+  "text_layer_chars": 0,
+  "ocr_engine": "rapidocr-onnxruntime",
+  "ocr_quality": "draft_unaccented_needs_human_review",
+  "pages": [
+    {
+      "page": 1,
+      "image": "tmp/pdfs/qd188_2021/page-1.png",
+      "elapsed": [
+        1.2375155999907292,
+        0.07888460159301758,
+        9.316219806671143
+      ],
+      "rows": [
+        {
+          "x": 314.08,
+          "y": 33.56,
+          "text": "VGP",
+          "confidence": 0.9953
+        },
+        {
+          "x": 565.34,
+          "y": 34.85,
+          "text": "Nguoi ky: Cong Thong tin dien tir Chinh phu",
+          "confidence": 0.9822
+        },
+        {
+          "x": 565.34,
+          "y": 64.54,
+          "text": "Email:thongtinchinhphu@chinhphu.vn",
+          "confidence": 0.9851
+        },
+        {
+          "x": 1669.09,
+          "y": 91.65,
+          "text": "TTDT",
+          "confidence": 0.7091
+        },
+        {
+          "x": 562.77,
+          "y": 92.94,
+          "text": "Co quan: Van phong Chinh phu",
+          "confidence": 0.9813
+        },
+        {
+          "x": 558.93,
+          "y": 117.47,
+          "text": "Thoi gian ky:09.02.2021 16:47:15 +07:00",
+          "confidence": 0.9606
+        },
+        {
+          "x": 311.51,
+          "y": 139.41,
+          "text": "CHINHPHU.VN",
+          "confidence": 0.9909
+        },
+        {
+          "x": 869.16,
+          "y": 203.95,
+          "text": "CONG HOA XA HQI CHU NGHIA VIET NAM",
+          "confidence": 0.9794
+        },
+        {
+          "x": 273.05,
+          "y": 207.82,
+          "text": "THU TUONG CHINH PHU",
+          "confidence": 0.9509
+        },
+        {
+          "x": 1017.86,
+          "y": 258.17,
+          "text": "Doc Iap - Ty do - Hanh phuc",
+          "confidence": 0.9485
+        },
+        {
+          "x": 367.92,
+          "y": 344.65,
+          "text": "S6: 188 /QD-TTg",
+          "confidence": 0.9388
+        },
+        {
+          "x": 970.43,
+          "y": 353.69,
+          "text": "Ha Noi, ngay09thang 02 nam 2021",
+          "confidence": 0.9556
+        },
+        {
+          "x": 1214.0,
+          "y": 436.3,
+          "text": "CONGTHONGTIN DIEN TUCHINH PHU",
+          "confidence": 0.9425
+        },
+        {
+          "x": 1205.03,
+          "y": 478.9,
+          "text": "DEN Gir...C.",
+          "confidence": 0.8446
+        },
+        {
+          "x": 1288.35,
+          "y": 533.11,
+          "text": "Ngay...O.f.3 /n1....",
+          "confidence": 0.7175
+        },
+        {
+          "x": 855.06,
+          "y": 567.96,
+          "text": "QUYET DINH",
+          "confidence": 0.9984
+        },
+        {
+          "x": 440.99,
+          "y": 615.72,
+          "text": "Sira d6i, b6 sung mot s6 dieu cua Quyet dinh s6 844/QD-TTg",
+          "confidence": 0.9643
+        },
+        {
+          "x": 344.84,
+          "y": 666.07,
+          "text": "ngay 18 thang 5 nam 2016 cua Thu tuong Chinh phu ye viec phe duyet",
+          "confidence": 0.9737
+        },
+        {
+          "x": 321.77,
+          "y": 720.28,
+          "text": "De an H6 trg he sinh thai khoi nghiep doi moi sang tao quoc gia den nam 2025",
+          "confidence": 0.9595
+        },
+        {
+          "x": 734.55,
+          "y": 903.58,
+          "text": "THU TUONG CHINH PHU",
+          "confidence": 0.9897
+        },
+        {
+          "x": 406.38,
+          "y": 1002.97,
+          "text": "Can cur Luat T6 chirc Chinh phu ngay 19 thang 6 nam 2015; Luat sira",
+          "confidence": 0.9578
+        },
+        {
+          "x": 319.2,
+          "y": 1052.02,
+          "text": "doi, bo sung mot so dieu cuia Luat To chirc Chinh phi va Luat To chirc chinh",
+          "confidence": 0.9351
+        },
+        {
+          "x": 319.2,
+          "y": 1106.24,
+          "text": "quyen dia phuong ngay 22 thang 11 nam 2019:",
+          "confidence": 0.982
+        },
+        {
+          "x": 408.94,
+          "y": 1188.85,
+          "text": "Can cir Luat Khoa hoc va cong nghe ngay 18 thang 6 nam 2013;",
+          "confidence": 0.9685
+        },
+        {
+          "x": 410.22,
+          "y": 1270.17,
+          "text": "Can cur Nghi quyet s6 01/NQ-CP ngay 01 thang 01 nam 2019 cua Chinh",
+          "confidence": 0.9597
+        },
+        {
+          "x": 316.64,
+          "y": 1316.64,
+          "text": "phi ve nhiem vu, giai phap chi yeu thuc hien ke hoach phat trien kinh te - xa",
+          "confidence": 0.9342
+        },
+        {
+          "x": 323.05,
+          "y": 1374.73,
+          "text": "hoi va du toan ngan sach nha nuoc nam 2019;",
+          "confidence": 0.954
+        },
+        {
+          "x": 410.22,
+          "y": 1454.76,
+          "text": "Can cur Nghi quyet so 50/NQ-CP ngay 17 thang 4 nam 2020 cia Chinh",
+          "confidence": 0.9546
+        },
+        {
+          "x": 320.49,
+          "y": 1506.39,
+          "text": "phubanhanh Chuongtrinh hanh dongcia Chinhphi thuchien Nghiquyet",
+          "confidence": 0.9407
+        },
+        {
+          "x": 320.49,
+          "y": 1551.57,
+          "text": "s6 52-NQ/TW ngay 27 thang 9 nam 2019 cia Bo Chinh tri ve mot s0 chu",
+          "confidence": 0.9606
+        },
+        {
+          "x": 320.49,
+          "y": 1601.92,
+          "text": "truong, chinh sach chu dong tham gia cuoc cach mang cong nghiep lan thir tu;",
+          "confidence": 0.9744
+        },
+        {
+          "x": 408.94,
+          "y": 1681.95,
+          "text": "Theo de nghi cuia Bo truong Bo Khoa hoc va Cong nghe,",
+          "confidence": 0.9661
+        },
+        {
+          "x": 852.49,
+          "y": 1827.81,
+          "text": "QUYET DINH:",
+          "confidence": 0.9993
+        },
+        {
+          "x": 405.09,
+          "y": 1918.17,
+          "text": "Dieu 1. Sura doi, b6 sung mot s6 dieu cua Quyet dinh s6 844/QD-TTg",
+          "confidence": 0.9522
+        },
+        {
+          "x": 325.61,
+          "y": 1974.96,
+          "text": "ngay 18 thang 5 nam 2016 cuia Thu turong. Chinh phu vé viéc phe duyét",
+          "confidence": 0.9481
+        },
+        {
+          "x": 319.2,
+          "y": 2021.43,
+          "text": "De an Ho tro he sinh thai khoi nghiep doi moi sang tao quoc gia dén",
+          "confidence": 0.9588
+        },
+        {
+          "x": 324.33,
+          "y": 2080.81,
+          "text": "nam 2025 nhu sau:",
+          "confidence": 0.9714
+        },
+        {
+          "x": 411.5,
+          "y": 2140.19,
+          "text": "1. Bo sung Muc I Dieu 1 nhu sau:",
+          "confidence": 0.9541
+        },
+        {
+          "x": 408.94,
+          "y": 2213.77,
+          "text": "\"Xay dung he thong Trung tam doi moi sang tao h6 tro nghien curu phat",
+          "confidence": 0.9472
+        },
+        {
+          "x": 323.05,
+          "y": 2267.98,
+          "text": "trién, khoi nghiep sang tao, dam bao van hanh thanh cong cac Trung tam voi",
+          "confidence": 0.9865
+        },
+        {
+          "x": 324.33,
+          "y": 2317.03,
+          "text": "cac co ché, chinh sach dac thu, vuot troi, canh tranh so voi khu vyc va quoc te;",
+          "confidence": 0.9781
+        }
+      ]
+    },
+    {
+      "page": 2,
+      "image": "tmp/pdfs/qd188_2021/page-2.png",
+      "elapsed": [
+        1.5982530000037514,
+        0.12106204032897949,
+        9.925653457641602
+      ],
+      "rows": [
+        {
+          "x": 978.46,
+          "y": 110.62,
+          "text": "2",
+          "confidence": 0.9992
+        },
+        {
+          "x": 307.44,
+          "y": 195.52,
+          "text": "gud qu so ien eia sonb on sues dyu sou on gy un sun un seud",
+          "confidence": 0.5626
+        },
+        {
+          "x": 307.44,
+          "y": 245.68,
+          "text": "u i  o a y y  gd  a un ia N 1",
+          "confidence": 0.5423
+        },
+        {
+          "x": 311.27,
+          "y": 294.56,
+          "text": "doi moi sang tao tai cac bo, nganh, dia phuong, to churc co tiem nang ve khoi",
+          "confidence": 0.9606
+        },
+        {
+          "x": 311.27,
+          "y": 351.16,
+          "text": "nghiep doi moi sang tao;",
+          "confidence": 0.9636
+        },
+        {
+          "x": 392.91,
+          "y": 427.05,
+          "text": "Phat trien Mang luroi khoi nghiep doi moi sang tao quoc gia khuyén",
+          "confidence": 0.9709
+        },
+        {
+          "x": 309.99,
+          "y": 486.22,
+          "text": "khich sy tuong tac, ket noi nguon lurc trong he thong cac Trung tam khoi",
+          "confidence": 0.9646
+        },
+        {
+          "x": 312.55,
+          "y": 540.24,
+          "text": "nghiep doi moi sang tao va cac chu the trong he sinh thai khoi nghiep doi moi",
+          "confidence": 0.977
+        },
+        {
+          "x": 309.99,
+          "y": 595.55,
+          "text": "sang tao trong nuoc, nuoc ngoai; dén nam 2025 co chuong trinh hop tac voi",
+          "confidence": 0.9914
+        },
+        {
+          "x": 313.82,
+          "y": 653.44,
+          "text": "d6i tac quoc té tai it nhat 05 he sinh thai khoi nghiep doi moi sang tao c6 uy",
+          "confidence": 0.9589
+        },
+        {
+          "x": 307.44,
+          "y": 699.74,
+          "text": "tin tren the gioi;",
+          "confidence": 0.9366
+        },
+        {
+          "x": 396.74,
+          "y": 793.64,
+          "text": "Tam nhin dén nam 2030 he sinh thai khoi nghiep doi moi sang tao quoc",
+          "confidence": 0.971
+        },
+        {
+          "x": 309.99,
+          "y": 843.81,
+          "text": "gia dat xep hang trong 15 he sinh thai khoi nghiep doi moi sang tao moi noi",
+          "confidence": 0.9667
+        },
+        {
+          "x": 311.27,
+          "y": 901.69,
+          "text": "cua khu vurc Chau A - Thai Binh Duong.\".",
+          "confidence": 0.9539
+        },
+        {
+          "x": 412.05,
+          "y": 991.73,
+          "text": "2. Sura doi, bo sung tieu de khoan 2 Muc III Dieu 1 nhu sau:",
+          "confidence": 0.9496
+        },
+        {
+          "x": 399.29,
+          "y": 1079.2,
+          "text": "\"2. H6 tro phat trien cac Trung tam khoi nghiep doi moi sang tao theo",
+          "confidence": 0.9799
+        },
+        {
+          "x": 311.27,
+          "y": 1138.37,
+          "text": "wud o o us you yop dnulu you on gu sunn den na yoip n yuy o",
+          "confidence": 0.5785
+        },
+        {
+          "x": 311.27,
+          "y": 1188.53,
+          "text": "quoc gia, vung, dia phuong, nganh, linh vuc, tai cac to chuc co tiem nang phat",
+          "confidence": 0.9794
+        },
+        {
+          "x": 312.55,
+          "y": 1245.13,
+          "text": "trien he sinh thai khoi nghiep doi moi sang tao, trong do:\".",
+          "confidence": 0.9838
+        },
+        {
+          "x": 401.84,
+          "y": 1333.88,
+          "text": "3. Sura doi, b6 sung khoan 4 Muc IHI Dieu 1 nhu sau:",
+          "confidence": 0.9567
+        },
+        {
+          "x": 398.02,
+          "y": 1418.78,
+          "text": "\"4. Hinh thanh va h6 trg phat trien Mang luoi khoi nghiep doi moi sang",
+          "confidence": 0.971
+        },
+        {
+          "x": 313.82,
+          "y": 1483.09,
+          "text": "tao quoc gia voi cac noi dung h6 trg kinh phi cho cac hoat dong sau:",
+          "confidence": 0.9856
+        },
+        {
+          "x": 398.02,
+          "y": 1565.42,
+          "text": "a) Xay dung, phat trien mang luroi to chuc, ca nhan khoi nghiep doi moi",
+          "confidence": 0.976
+        },
+        {
+          "x": 312.55,
+          "y": 1620.73,
+          "text": "sang tao, dau tu, chuyen gia, to chuc tu van, huan luyen, dao tao, truyen thong,",
+          "confidence": 0.9667
+        },
+        {
+          "x": 313.82,
+          "y": 1676.04,
+          "text": "cung cap dich vu cho khoi nghiep doi moi sang tao tai dia phuong, vung,",
+          "confidence": 0.9775
+        },
+        {
+          "x": 311.27,
+          "y": 1730.06,
+          "text": "0 sni su oo eno sup roy oa una q yoo  ta 1ia u i sonb",
+          "confidence": 0.5183
+        },
+        {
+          "x": 309.99,
+          "y": 1781.51,
+          "text": "dau lou ouo on gu gn oonb sni uonau nq nu oia gu ea ona nu la uud",
+          "confidence": 0.563
+        },
+        {
+          "x": 315.1,
+          "y": 1838.11,
+          "text": "doi moi sang tao trong nuoc;",
+          "confidence": 0.987
+        },
+        {
+          "x": 396.74,
+          "y": 1926.86,
+          "text": "b) Hoat dong hop tac voi chuyen gia, to churc quoc te trong dao tao, huan",
+          "confidence": 0.9728
+        },
+        {
+          "x": 311.27,
+          "y": 1983.46,
+          "text": "luyén; truyén thong; to chuc hoi thao khoa hoc, hoi nghi, hanh trinh khoi",
+          "confidence": 0.9829
+        },
+        {
+          "x": 311.27,
+          "y": 2034.91,
+          "text": "nghiep doi moi sang tao trong nuoc va ngoai nuoc; tu van chuyén giao cong",
+          "confidence": 0.9781
+        },
+        {
+          "x": 309.99,
+          "y": 2090.22,
+          "text": "nghe, dau tu, phat trien' tri truong; nghien curu, khao sat, bao cao danh gia, tu",
+          "confidence": 0.9774
+        },
+        {
+          "x": 311.27,
+          "y": 2137.81,
+          "text": "van hoan thien the che, chinh sach h6 tro khoi nghiep doi moi sang tao; moi",
+          "confidence": 0.954
+        },
+        {
+          "x": 313.82,
+          "y": 2196.98,
+          "text": "chuyen gia, co van, nguoi Viet Nam thanh cong ? nuoc ngoai den lam viec, tu",
+          "confidence": 0.9764
+        },
+        {
+          "x": 311.27,
+          "y": 2247.15,
+          "text": "van thuong xuyen, cung cap dich vu cho cac khu dich vu tap trung ho tro khoi",
+          "confidence": 0.9712
+        },
+        {
+          "x": 313.82,
+          "y": 2307.6,
+          "text": "nghiep d6i moi sang tao ? pham vi nganh, vung, dia phuong, co so;",
+          "confidence": 0.9752
+        }
+      ]
+    },
+    {
+      "page": 3,
+      "image": "tmp/pdfs/qd188_2021/page-3.png",
+      "elapsed": [
+        1.9801314999931492,
+        0.06648564338684082,
+        8.617989778518677
+      ],
+      "rows": [
+        {
+          "x": 977.18,
+          "y": 121.91,
+          "text": "3",
+          "confidence": 0.9983
+        },
+        {
+          "x": 401.84,
+          "y": 211.39,
+          "text": "c) To chirc hoi nghi, hoi thao khoa hoc, Dien dan cap cao Mang luoi",
+          "confidence": 0.9688
+        },
+        {
+          "x": 313.82,
+          "y": 267.16,
+          "text": "khoi nghiep doi moi sang tao hang nam, 0 quy mo quoc gia, quoc te.\".",
+          "confidence": 0.9584
+        },
+        {
+          "x": 401.84,
+          "y": 357.94,
+          "text": "4. Sura doi, bo sung tieu de khoan 1 Dieu 2 nhu sau:",
+          "confidence": 0.9849
+        },
+        {
+          "x": 396.74,
+          "y": 448.72,
+          "text": "\"1. Bo Khoa hoc va Cong nghe la co quan dau moi quan ly nha nuoc ve",
+          "confidence": 0.9801
+        },
+        {
+          "x": 315.1,
+          "y": 510.97,
+          "text": "cac hoat dong khoi nghiep doi moi sang tao, co trach nhiem:\".",
+          "confidence": 0.9736
+        },
+        {
+          "x": 403.12,
+          "y": 604.34,
+          "text": "5. Sura doi, bo sung diem c khoan 1 Dieu 2 nhu sau:",
+          "confidence": 0.9668
+        },
+        {
+          "x": 399.29,
+          "y": 693.83,
+          "text": "\"c) Xay dung he thong thong tin ho trg quan ly De an; xay dung, nang",
+          "confidence": 0.9706
+        },
+        {
+          "x": 316.37,
+          "y": 753.48,
+          "text": "cap va van hanh Cong thong tin khoi nghiep doi moi sang tao quoc gia, cac",
+          "confidence": 0.9838
+        },
+        {
+          "x": 309.99,
+          "y": 807.95,
+          "text": "nen tang ket noi he sinh thai khoi nghiep doi moi sang tao; phat trien Trung",
+          "confidence": 0.9748
+        },
+        {
+          "x": 311.27,
+          "y": 865.02,
+          "text": "BA SugN ta 1oN 8H 1en oa oony ena sonb oe Sues da!yau louy on Qy u",
+          "confidence": 0.6612
+        },
+        {
+          "x": 312.55,
+          "y": 918.19,
+          "text": "Thanh pho Ho Chi Minh, huong dan hinh thanh va phat trien trung tam ho tro",
+          "confidence": 0.9718
+        },
+        {
+          "x": 312.55,
+          "y": 977.84,
+          "text": "khoi nghiep doi moi sang tao tai bo, nganh, dia phuong, to chuc co tiem nang",
+          "confidence": 0.9745
+        },
+        {
+          "x": 309.99,
+          "y": 1031.02,
+          "text": "phat trien khoi nghiep doi moi sang tao; to churc Ngay hoi khoi nghiep doi",
+          "confidence": 0.9629
+        },
+        {
+          "x": 313.82,
+          "y": 1088.08,
+          "text": "moi sang tao quoc gia; thanh lap Ban dieu hanh Mang luoi khoi nghiep doi",
+          "confidence": 0.9756
+        },
+        {
+          "x": 315.1,
+          "y": 1150.33,
+          "text": "moi sang tao quoc gia.\".",
+          "confidence": 0.948
+        },
+        {
+          "x": 406.95,
+          "y": 1238.52,
+          "text": "6. B6 sung diem h sau diém g khoan 1 Dieu 2 nhu sau:",
+          "confidence": 0.9785
+        },
+        {
+          "x": 403.12,
+          "y": 1326.7,
+          "text": "\"h) Phoi hop voi Bo Ké hoach va Dau tu trinh Chinh phu xem xét, quyet",
+          "confidence": 0.9561
+        },
+        {
+          "x": 320.2,
+          "y": 1390.25,
+          "text": "dinh cac Trung tam khoi nghiep doi moi sang tao cua bo, nganh, dia phuong,",
+          "confidence": 0.9707
+        },
+        {
+          "x": 312.55,
+          "y": 1440.83,
+          "text": "t0 churc khac dugc phep ap dung mot phan hoac toan bo co che, chinh sach",
+          "confidence": 0.9732
+        },
+        {
+          "x": 312.55,
+          "y": 1496.59,
+          "text": "eno 0z07 wgu 8 Busq 17 Keau d-aN0z07/t6 9s quip jyaN 1en quip Xnb",
+          "confidence": 0.6951
+        },
+        {
+          "x": 317.65,
+          "y": 1554.95,
+          "text": "Chinh phu quy dinh chinh sach uu dai d6i voi Trung tam doi moi sang tao",
+          "confidence": 0.9602
+        },
+        {
+          "x": 316.37,
+          "y": 1609.42,
+          "text": "Quoc gia.\".",
+          "confidence": 0.9658
+        },
+        {
+          "x": 406.95,
+          "y": 1701.5,
+          "text": "7. Sua doi, b6 sung khoan 5 Dieu 2 nhu sau:",
+          "confidence": 0.9646
+        },
+        {
+          "x": 400.57,
+          "y": 1793.58,
+          "text": "\"5. Cac Bo: Ké hoach va Dau tu, Giao duc va Dao tao, Thong tin va",
+          "confidence": 0.9836
+        },
+        {
+          "x": 315.1,
+          "y": 1848.05,
+          "text": "Truyen thong, Trung uong Doan Thanh nien Cong san Ho Chi Minh, Hoi",
+          "confidence": 0.985
+        },
+        {
+          "x": 313.82,
+          "y": 1903.81,
+          "text": "Lien hiep Phu nt Viet Nam va cac Bo, nganh, dia phuong to chtrc trien khai",
+          "confidence": 0.9622
+        },
+        {
+          "x": 315.1,
+          "y": 1960.88,
+          "text": "cac Chuong trinh, De an ve khoi nghiep doi moi sang tao, hang nam phoi hop",
+          "confidence": 0.9737
+        },
+        {
+          "x": 313.82,
+          "y": 2012.75,
+          "text": "voi Bo Khoa hoc va Cong nghe bao cao tinh hinh trien khai két qua Churong",
+          "confidence": 0.9731
+        },
+        {
+          "x": 316.37,
+          "y": 2073.7,
+          "text": "trinh, De an va van de phat sinh can giai quyét cho Bo Khoa hoc va Cong",
+          "confidence": 0.9894
+        },
+        {
+          "x": 317.65,
+          "y": 2135.95,
+          "text": "nghe de tong hop, bao cao Thu tuong Chinh phu.\".",
+          "confidence": 0.9802
+        },
+        {
+          "x": 406.95,
+          "y": 2228.03,
+          "text": "Dieu 2. Hieu luc thi hanh",
+          "confidence": 0.9688
+        },
+        {
+          "x": 408.22,
+          "y": 2322.7,
+          "text": "uy uq y eau m oni nty oo Keu quip zn",
+          "confidence": 0.6484
+        }
+      ]
+    },
+    {
+      "page": 4,
+      "image": "tmp/pdfs/qd188_2021/page-4.png",
+      "elapsed": [
+        1.6954725999967195,
+        0.07683253288269043,
+        6.016920328140259
+      ],
+      "rows": [
+        {
+          "x": 392.74,
+          "y": 206.2,
+          "text": "Cac Bo truong, Thu truong co quan ngang Bo, Thu truong co quan",
+          "confidence": 0.9857
+        },
+        {
+          "x": 304.6,
+          "y": 254.19,
+          "text": "thuoc Chinh phu, Chu tich Uy ban nhan dan cac tinh, thanh ph6 truc thuoc",
+          "confidence": 0.9783
+        },
+        {
+          "x": 303.3,
+          "y": 300.88,
+          "text": "Trung uong, cac to churc chinh tri - xa hoi - nghe nghiep va cac to chuc lien",
+          "confidence": 0.9768
+        },
+        {
+          "x": 303.3,
+          "y": 355.34,
+          "text": "quan chiu trach nhiem thi hanh Quyet dinh nay./.",
+          "confidence": 0.9847
+        },
+        {
+          "x": 1227.47,
+          "y": 496.7,
+          "text": "KT. THU TUONG",
+          "confidence": 0.9952
+        },
+        {
+          "x": 320.15,
+          "y": 501.89,
+          "text": "Noi nhan:",
+          "confidence": 0.9832
+        },
+        {
+          "x": 320.15,
+          "y": 545.98,
+          "text": "- Thu tuong, cac Pho Thu tuong Chinh phu;",
+          "confidence": 0.9787
+        },
+        {
+          "x": 1311.72,
+          "y": 551.17,
+          "text": "THU TUONG",
+          "confidence": 0.9642
+        },
+        {
+          "x": 1222.28,
+          "y": 552.47,
+          "text": "PHO",
+          "confidence": 0.9254
+        },
+        {
+          "x": 1123.77,
+          "y": 579.7,
+          "text": "C",
+          "confidence": 0.7242
+        },
+        {
+          "x": 320.15,
+          "y": 584.89,
+          "text": "- Cac bo, co quan ngang bo, co quan thuoc Chinh phuy",
+          "confidence": 0.969
+        },
+        {
+          "x": 318.86,
+          "y": 621.2,
+          "text": "- UBND cac tinh, thanh ph6 tryc thuoc trung uong;",
+          "confidence": 0.974
+        },
+        {
+          "x": 320.15,
+          "y": 660.11,
+          "text": "- Van phong trung uong Dang;",
+          "confidence": 0.958
+        },
+        {
+          "x": 320.15,
+          "y": 696.42,
+          "text": "- Van phong Tong Bi thu;",
+          "confidence": 0.991
+        },
+        {
+          "x": 320.15,
+          "y": 735.33,
+          "text": "- Van phong Chu tich nuoc;",
+          "confidence": 0.9613
+        },
+        {
+          "x": 321.45,
+          "y": 776.83,
+          "text": "- Van phong Quoc hoi;",
+          "confidence": 0.9905
+        },
+        {
+          "x": 1337.64,
+          "y": 804.06,
+          "text": "Murc Dam",
+          "confidence": 0.835
+        },
+        {
+          "x": 318.86,
+          "y": 811.84,
+          "text": "- Toa an nhan dan toi cao;",
+          "confidence": 0.9531
+        },
+        {
+          "x": 320.15,
+          "y": 850.75,
+          "text": "- Vien kiem sat nhan dan toi cao;",
+          "confidence": 0.971
+        },
+        {
+          "x": 320.15,
+          "y": 889.66,
+          "text": "- Kiem toan nha nuoc;",
+          "confidence": 0.9649
+        },
+        {
+          "x": 318.86,
+          "y": 924.67,
+          "text": "- Uy ban Giam sat tai chinh Quoc gia;",
+          "confidence": 0.9938
+        },
+        {
+          "x": 321.45,
+          "y": 968.77,
+          "text": "- Ngan hang Chinh sach xa hoi;",
+          "confidence": 0.972
+        },
+        {
+          "x": 321.45,
+          "y": 1008.97,
+          "text": "- Ngan hang Phat trien Viet Nam;",
+          "confidence": 0.9605
+        },
+        {
+          "x": 318.86,
+          "y": 1041.39,
+          "text": "- Uy ban trung uong Mat tran To quoc Viet Nam;",
+          "confidence": 0.9688
+        },
+        {
+          "x": 317.56,
+          "y": 1081.59,
+          "text": "- Co quan trung uong cua cac doan the;",
+          "confidence": 0.9897
+        },
+        {
+          "x": 317.56,
+          "y": 1120.5,
+          "text": "- VPCP: BTCN, cac PCN, Tro ly TTg, TGD Cong TTDT,",
+          "confidence": 0.9724
+        },
+        {
+          "x": 338.3,
+          "y": 1159.41,
+          "text": "cac Vu, Cuc;",
+          "confidence": 0.9887
+        },
+        {
+          "x": 318.86,
+          "y": 1197.02,
+          "text": "- Luu: VT, KGVX (2b).26",
+          "confidence": 0.9878
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+Ten doanh nghiep: Cong ty TNHH Co khi An Phat
+Ma so thue: 3701234567
+Tinh: Binh Duong
+Linh vuc: San xuat
+Nganh nghe: San xuat linh kien co khi chinh xac cho chuoi cung ung cong nghiep
+Lao dong: 80
+Doanh thu: 45
+Von: 20
+Startup doi moi sang tao: khong

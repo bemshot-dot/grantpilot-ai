@@ -1,0 +1,35 @@
+{
+  "name": "grantpilot-ai",
+  "version": "0.2.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "data:crawl": "python scripts/crawl_verified_sources.py",
+    "data:build": "python scripts/build_database.py",
+    "data:embed": "node scripts/build-embeddings.mjs",
+    "data:refresh": "python scripts/crawl_verified_sources.py && python scripts/build_database.py && node scripts/build-embeddings.mjs"
+  },
+  "dependencies": {
+    "@fontsource/be-vietnam-pro": "^5.2.8",
+    "@fontsource/lora": "^5.2.8",
+    "@google/genai": "^2.12.0",
+    "docx": "^9.5.1",
+    "lucide-react": "^0.468.0",
+    "mammoth": "^1.12.0",
+    "next": "^15.1.0",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "server-only": "^0.0.1"
+  },
+  "devDependencies": {
+    "@types/node": "^22.10.2",
+    "@types/react": "^19.0.2",
+    "@types/react-dom": "^19.0.2",
+    "eslint": "^9.17.0",
+    "eslint-config-next": "^15.1.0",
+    "typescript": "^5.7.2"
+  }
+}

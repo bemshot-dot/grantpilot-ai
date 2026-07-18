@@ -1,0 +1,6528 @@
+{
+  "document_id": "nd80_2021",
+  "source_url": "https://vanban.chinhphu.vn/default.aspx?docid=203941&pageid=27160",
+  "pdf_download_url": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2021/08/80.signed_01.pdf",
+  "page_count": 29,
+  "text_layer_chars": 0,
+  "ocr_engine": "rapidocr-onnxruntime",
+  "ocr_quality": "draft_unaccented_needs_human_review",
+  "pages": [
+    {
+      "page": 1,
+      "image": "tmp/pdfs/nd80_2021/page-01.png",
+      "elapsed": [
+        1.2928220000030706,
+        0.03359222412109375,
+        4.572733402252197
+      ],
+      "rows": [
+        {
+          "x": 484.76,
+          "y": 62.25,
+          "text": "VGP",
+          "confidence": 0.9957
+        },
+        {
+          "x": 715.66,
+          "y": 64.84,
+          "text": "Nguoi ky: Cong Thong tin dien tur Chinh phu",
+          "confidence": 0.9938
+        },
+        {
+          "x": 715.66,
+          "y": 95.97,
+          "text": "Email: thongtinchinhphu@chinhphu.vn",
+          "confidence": 0.9795
+        },
+        {
+          "x": 1599.72,
+          "y": 106.34,
+          "text": "pBr(e)",
+          "confidence": 0.6405
+        },
+        {
+          "x": 714.39,
+          "y": 124.5,
+          "text": "Co quan: Van phong Chinh phu",
+          "confidence": 0.9719
+        },
+        {
+          "x": 478.39,
+          "y": 151.73,
+          "text": "C HIN H P HU.VNThoi gian ky: 27.08.2021 10:37:19 +07:00",
+          "confidence": 0.9377
+        },
+        {
+          "x": 830.48,
+          "y": 207.5,
+          "text": "CONG HOA XA HQI CHU NGHIA VIET NAM",
+          "confidence": 0.9846
+        },
+        {
+          "x": 410.77,
+          "y": 210.09,
+          "text": "CHINH PHU",
+          "confidence": 0.9952
+        },
+        {
+          "x": 978.46,
+          "y": 263.27,
+          "text": "Doc Iap - Ty do - Hanh phuc",
+          "confidence": 0.953
+        },
+        {
+          "x": 938.91,
+          "y": 359.23,
+          "text": "Ha Noi, ngay 26 thang 8 nam 2021",
+          "confidence": 0.9815
+        },
+        {
+          "x": 364.85,
+          "y": 361.83,
+          "text": "S6: 80/2021/ND-CP",
+          "confidence": 0.9882
+        },
+        {
+          "x": 862.37,
+          "y": 531.72,
+          "text": "NGHI DINH",
+          "confidence": 0.9947
+        },
+        {
+          "x": 90.57,
+          "y": 565.44,
+          "text": "CONGTHONGTIN DIEN TU CHINH PHU",
+          "confidence": 0.9565
+        },
+        {
+          "x": 501.35,
+          "y": 570.62,
+          "text": "Quy dinh chi tiét va huong dan thi hanh mot s6 dieu",
+          "confidence": 0.9723
+        },
+        {
+          "x": 84.2,
+          "y": 609.53,
+          "text": "DEN Gio....",
+          "confidence": 0.8574
+        },
+        {
+          "x": 595.75,
+          "y": 626.39,
+          "text": "cua Luat H6 trg doanh nghiep nho va vira",
+          "confidence": 0.9522
+        },
+        {
+          "x": 167.12,
+          "y": 665.3,
+          "text": "Ngay: 27.1.8.1.20 24. .",
+          "confidence": 0.9069
+        },
+        {
+          "x": 395.47,
+          "y": 761.27,
+          "text": "Can cir Luat To chirc Chinh phu ngay 19 thang 6 nam 2015;",
+          "confidence": 0.9788
+        },
+        {
+          "x": 395.47,
+          "y": 848.16,
+          "text": "Can cir Luat T0 chirc chinh quyen dia phuong ngay 19 thang 6 nam 2015;",
+          "confidence": 0.9731
+        },
+        {
+          "x": 395.47,
+          "y": 933.75,
+          "text": "Can cir Luat sira doi, bo sung mot so dieu cua Luat To chirc Chinh phi",
+          "confidence": 0.9545
+        },
+        {
+          "x": 307.44,
+          "y": 985.62,
+          "text": ":610z upu I1 Bupyi 77 Apau Buonyd pip uaKnb yuryo onyo gI zpnT p4",
+          "confidence": 0.7615
+        },
+        {
+          "x": 399.29,
+          "y": 1076.41,
+          "text": "Can cir Luat Ngan sach nha nuoc ngay 25 thang 6 nam 2015;",
+          "confidence": 0.9727
+        },
+        {
+          "x": 398.02,
+          "y": 1160.7,
+          "text": "Can cir Luat Dau tu cong ngay 13 thang 6 nam 2019;",
+          "confidence": 0.9831
+        },
+        {
+          "x": 396.74,
+          "y": 1246.3,
+          "text": "Can cir Luat Ho tro doanh nghiep nho va vira ngay 12 thang 6 nam 2017;",
+          "confidence": 0.9545
+        },
+        {
+          "x": 399.29,
+          "y": 1334.48,
+          "text": "Theo de nghi cia Bo truong Bo Ke hoach va Dau tu;",
+          "confidence": 0.9549
+        },
+        {
+          "x": 398.02,
+          "y": 1420.08,
+          "text": "yupy jyl upp suony pa ig! jyo yuip Anb yuip iyan yupy unq nyd yuny",
+          "confidence": 0.735
+        },
+        {
+          "x": 309.99,
+          "y": 1471.95,
+          "text": "mot so dieu cia Luat Ho tro doanh nghiep nho va vira.",
+          "confidence": 0.9563
+        },
+        {
+          "x": 895.54,
+          "y": 1586.08,
+          "text": "Chuong I",
+          "confidence": 0.9939
+        },
+        {
+          "x": 700.36,
+          "y": 1631.47,
+          "text": "NHUNG QUY DINH CHUNG",
+          "confidence": 0.9784
+        },
+        {
+          "x": 394.19,
+          "y": 1726.14,
+          "text": "Dieu 1. Pham vi dieu chinh",
+          "confidence": 0.953
+        },
+        {
+          "x": 391.64,
+          "y": 1796.17,
+          "text": "Nghi dinh nay quy dinh chi tiet va huong dan thi hanh mot so dieu cua",
+          "confidence": 0.9735
+        },
+        {
+          "x": 304.89,
+          "y": 1850.64,
+          "text": "Luat H6 tro doanh nghiep nho va vua vé tieu chi xac dinh doanh nghiep nh?",
+          "confidence": 0.9529
+        },
+        {
+          "x": 304.89,
+          "y": 1897.33,
+          "text": "va vira, h8 tro cong nghe, h6 tro thong tin, h6 tro tu van, h6 tro phat trien",
+          "confidence": 0.937
+        },
+        {
+          "x": 301.06,
+          "y": 1945.31,
+          "text": "nguon nhan lyc, ho trg doanh nghiep nho va vira chuyen doi tu ho kinh",
+          "confidence": 0.9588
+        },
+        {
+          "x": 304.89,
+          "y": 1998.48,
+          "text": "doanh, doanh nghiép nho va vura khoi nghiep sang tao, doanh nghiep nho va",
+          "confidence": 0.9763
+        },
+        {
+          "x": 306.17,
+          "y": 2047.77,
+          "text": "vura tham gia cum lien ket nganh, chuoi gia tri; trach nhiém cua cac co quan,",
+          "confidence": 0.9681
+        },
+        {
+          "x": 303.62,
+          "y": 2094.45,
+          "text": "'a na ouu du quop on g u on oi uon ono g",
+          "confidence": 0.5411
+        },
+        {
+          "x": 392.91,
+          "y": 2165.78,
+          "text": "Dieu 2. Doi tuong ap dung",
+          "confidence": 0.9391
+        },
+        {
+          "x": 392.91,
+          "y": 2243.59,
+          "text": "1. Doanh nghiep dugc thanh lap, to churc va hoat dong theo quy dinh cua",
+          "confidence": 0.9777
+        },
+        {
+          "x": 306.17,
+          "y": 2294.17,
+          "text": "phap luat ve doanh nghiep, dap irng cac tieu chi xac dinh doanh nghiep nho va",
+          "confidence": 0.9859
+        },
+        {
+          "x": 307.44,
+          "y": 2344.75,
+          "text": "vua theo quy dinh tai Dieu 5 Nghi dinh nay.",
+          "confidence": 0.9716
+        }
+      ]
+    },
+    {
+      "page": 2,
+      "image": "tmp/pdfs/nd80_2021/page-02.png",
+      "elapsed": [
+        1.195988599996781,
+        0.030991315841674805,
+        5.764859914779663
+      ],
+      "rows": [
+        {
+          "x": 963.05,
+          "y": 84.69,
+          "text": "2",
+          "confidence": 0.9989
+        },
+        {
+          "x": 384.96,
+          "y": 205.86,
+          "text": "2. Co quan, to churc va ca nhan lien quan dén ho tro doanh nghiep nho",
+          "confidence": 0.965
+        },
+        {
+          "x": 299.41,
+          "y": 268.4,
+          "text": "va vura.",
+          "confidence": 0.8813
+        },
+        {
+          "x": 388.85,
+          "y": 351.79,
+          "text": "Dieu 3. Giai thich tur ngur",
+          "confidence": 0.9459
+        },
+        {
+          "x": 390.15,
+          "y": 436.48,
+          "text": "1. De an ho tro doanh nghiep nho va vira: La mot tap hop cac noi dung",
+          "confidence": 0.9705
+        },
+        {
+          "x": 303.3,
+          "y": 485.99,
+          "text": "c6 lien quan den nhau, su dung cac nguon luc nham dat dugc muc tieu ho tro",
+          "confidence": 0.9598
+        },
+        {
+          "x": 300.71,
+          "y": 536.8,
+          "text": "doanh nghiep nho va vira hang nam, trung han hoac dai han. De an bao gom",
+          "confidence": 0.9778
+        },
+        {
+          "x": 303.3,
+          "y": 587.62,
+          "text": "cac noi dung: muc tieu; d6i tuong va dieu kien h6 tro; trinh tu, thu tuc lya",
+          "confidence": 0.9683
+        },
+        {
+          "x": 302.01,
+          "y": 639.74,
+          "text": "chon; noi dung ho tro; nguon luc thuc hien; co che quan ly, giam sat va danh",
+          "confidence": 0.9714
+        },
+        {
+          "x": 302.01,
+          "y": 691.85,
+          "text": "gia ket qua thyc hien; thoi gian thyc hien De an; cac noi dung khac (neu co). \"",
+          "confidence": 0.9639
+        },
+        {
+          "x": 391.44,
+          "y": 780.45,
+          "text": "2. Chuong trinh h6 tro doanh nghiep nho va vua: La mot tap hop cac noi",
+          "confidence": 0.9743
+        },
+        {
+          "x": 305.89,
+          "y": 831.27,
+          "text": "dung, nhiem vu h6 tro doanh nghiep nho va vura do mot co quan, t? churc chu",
+          "confidence": 0.9514
+        },
+        {
+          "x": 307.19,
+          "y": 889.9,
+          "text": "tri thyc hien trong mot thoi han nhat dinh.",
+          "confidence": 0.9864
+        },
+        {
+          "x": 394.03,
+          "y": 970.68,
+          "text": "nu oo doy d no p :na 1a ouu datyu quop on qy yoioy  'e",
+          "confidence": 0.5598
+        },
+        {
+          "x": 305.89,
+          "y": 1021.49,
+          "text": "tiéu, giai phap va kinh phi thuc hien ho tro doanh nghiep nho va vira duoc",
+          "confidence": 0.9686
+        },
+        {
+          "x": 307.19,
+          "y": 1071.0,
+          "text": "tong hop, can doi trong ke hoach phat trien kinh té - xa hoi hang nam va 05",
+          "confidence": 0.9571
+        },
+        {
+          "x": 305.89,
+          "y": 1125.73,
+          "text": "nam cua cac bo, co quan ngang bo, co quan thuoc Chinh phu, Uy ban nhan",
+          "confidence": 0.9873
+        },
+        {
+          "x": 311.08,
+          "y": 1189.57,
+          "text": "dan cap tinh va cua quoc gia.",
+          "confidence": 0.9729
+        },
+        {
+          "x": 394.03,
+          "y": 1258.62,
+          "text": "4. Co quan, to chuc ho tro doanh nghiep nho va vira: La cac co quan, to",
+          "confidence": 0.9742
+        },
+        {
+          "x": 308.49,
+          "y": 1310.74,
+          "text": "churc dugc cap c6 tham quyen giao nhiem vu to churc trién khai hoat dong ho",
+          "confidence": 0.9525
+        },
+        {
+          "x": 309.78,
+          "y": 1377.19,
+          "text": "trg doanh nghiép nho va vira.",
+          "confidence": 0.9757
+        },
+        {
+          "x": 396.63,
+          "y": 1452.76,
+          "text": "5. Cong thong tin quoc gia ho trg doanh nghiep nho va vua (sau day goi",
+          "confidence": 0.9694
+        },
+        {
+          "x": 311.08,
+          "y": 1506.18,
+          "text": "tat la Cong thong tin): La diem truy cap tren moi truong mang tai dia chi",
+          "confidence": 0.9851
+        },
+        {
+          "x": 309.78,
+          "y": 1556.99,
+          "text": "www.business.gov.vn de ho trg doanh nghiep nho va vira thong qua viec tich",
+          "confidence": 0.9707
+        },
+        {
+          "x": 311.08,
+          "y": 1605.2,
+          "text": "hop thong tin ve mang luoi tu van vien ho tro doanh nghiep nho va vura; ké",
+          "confidence": 0.9555
+        },
+        {
+          "x": 312.38,
+          "y": 1661.23,
+          "text": "hoach, chuong trinh, dy an, de an, hoat dong h6 tro doanh nghiep nho va vura;",
+          "confidence": 0.9654
+        },
+        {
+          "x": 313.67,
+          "y": 1713.34,
+          "text": "chi dan kinh doanh, tin dung, thi truong, san pham, cong nghe, uom tao",
+          "confidence": 0.9803
+        },
+        {
+          "x": 313.67,
+          "y": 1765.46,
+          "text": "doanh nghiep va cac thong tin khac nham cung cap thong tin, dich vu phuc vu",
+          "confidence": 0.9743
+        },
+        {
+          "x": 313.67,
+          "y": 1814.97,
+          "text": "cho hoat dong cua doanh nghiep nho va vira, nhiem vu quan ly nha nuoc vé",
+          "confidence": 0.9816
+        },
+        {
+          "x": 313.67,
+          "y": 1865.79,
+          "text": "h6 tro, phat trien doanh nghiep va theo nhu cau cua cac to churc, ca nhan duoc",
+          "confidence": 0.974
+        },
+        {
+          "x": 314.97,
+          "y": 1916.6,
+          "text": "Xeu quip juoN pa ena ea oqu datugu queop on QH nenT jen yuip Anb",
+          "confidence": 0.7075
+        },
+        {
+          "x": 400.51,
+          "y": 2005.2,
+          "text": "u 'ne! !en doy dei eT :ena pa quu daiyau yuop on qy ne! np os o '9",
+          "confidence": 0.7455
+        },
+        {
+          "x": 318.86,
+          "y": 2056.01,
+          "text": "thuc, kinh nghiem, thong tin ve doanh nghiep nho va vua theo tiéu chi tai",
+          "confidence": 0.9736
+        },
+        {
+          "x": 316.26,
+          "y": 2108.13,
+          "text": "Luat Ho tro doanh nghiep nho va vira va Dieu 5 Nghi dinh nay. Co so du liéu",
+          "confidence": 0.9598
+        },
+        {
+          "x": 316.26,
+          "y": 2157.64,
+          "text": "h8 tro doanh nghiep nho va vira dong thoi la mot nen tang thong tin thong",
+          "confidence": 0.9795
+        },
+        {
+          "x": 318.86,
+          "y": 2207.15,
+          "text": "nhat dap ung nhu cau ve tiép can, khai thac thong tin, du lieu, xay dung chien",
+          "confidence": 0.9823
+        },
+        {
+          "x": 316.26,
+          "y": 2254.06,
+          "text": "lugc, hoach dinh chinh sach va quan ly nha nuoc ve ho trg doanh nghiep do",
+          "confidence": 0.9656
+        },
+        {
+          "x": 318.86,
+          "y": 2308.78,
+          "text": "Bo Ké hoach va Dau tu quan ly, van hanh. Co so du lieu h6 trg doanh nghiep",
+          "confidence": 0.9495
+        }
+      ]
+    },
+    {
+      "page": 3,
+      "image": "tmp/pdfs/nd80_2021/page-03.png",
+      "elapsed": [
+        0.8590085000032559,
+        0.052316904067993164,
+        6.204172372817993
+      ],
+      "rows": [
+        {
+          "x": 298.77,
+          "y": 192.83,
+          "text": "nho va vua co sy ket noi, tich hop, lien thong va trao doi du lieu voi cac he",
+          "confidence": 0.9614
+        },
+        {
+          "x": 300.08,
+          "y": 246.25,
+          "text": "thong c6 lien quan cua Bo Ké hoach va Dau tu, cac bo, co quan ngang bo, co",
+          "confidence": 0.9755
+        },
+        {
+          "x": 301.38,
+          "y": 307.49,
+          "text": "quan thuoc Chinh phu va Uy ban nhan dan cap tinh.",
+          "confidence": 0.9841
+        },
+        {
+          "x": 388.8,
+          "y": 379.15,
+          "text": "7. Mang luoi tur van vien: La tap hop cac to churc tu van va ca nhan tu",
+          "confidence": 0.9799
+        },
+        {
+          "x": 306.6,
+          "y": 433.87,
+          "text": "van, co chuyen mon thuoc cac linh vyc khac nhau dap ung nhu cau cua doanh",
+          "confidence": 0.9838
+        },
+        {
+          "x": 305.3,
+          "y": 483.38,
+          "text": "uqu buoo uanb ugy oo oq gueu uenb oo gq ono sonp 'ena ea oqu dnuau",
+          "confidence": 0.6175
+        },
+        {
+          "x": 302.69,
+          "y": 530.29,
+          "text": "tren co so cac tiéu chi duoc ban hanh va dugc cong b6 cong khai de ho tro",
+          "confidence": 0.9604
+        },
+        {
+          "x": 309.21,
+          "y": 601.95,
+          "text": "doanh nghiep nho va vua.",
+          "confidence": 0.988
+        },
+        {
+          "x": 391.41,
+          "y": 659.28,
+          "text": "8. Doanh nghiep nho va vura sur dung nhieu lao dong nu: La doanh",
+          "confidence": 0.9737
+        },
+        {
+          "x": 305.3,
+          "y": 714.0,
+          "text": "nghiep co s6 lao dong nu chiem tur 50% tro lén tren tong s6 lao dong trong",
+          "confidence": 0.951
+        },
+        {
+          "x": 305.3,
+          "y": 760.91,
+          "text": "trrong hop doanh nghiep su dung duoi 100 lao dong; chiém tur 30% tro 1én",
+          "confidence": 0.966
+        },
+        {
+          "x": 305.3,
+          "y": 813.02,
+          "text": "tren tong s0 lao dong trong truong hop doanh nghiep su dung tir 100 lao dong",
+          "confidence": 0.9606
+        },
+        {
+          "x": 306.6,
+          "y": 875.56,
+          "text": "tr? len.",
+          "confidence": 0.9018
+        },
+        {
+          "x": 394.02,
+          "y": 942.01,
+          "text": "9. Dao tao truc tiép tai doanh nghiep nho va vua: La hinh thuc dao tao",
+          "confidence": 0.9736
+        },
+        {
+          "x": 309.21,
+          "y": 988.92,
+          "text": "tai doanh nghiep, dugc thiét ke theo nhu cau nham ho tro giai quyet, khac",
+          "confidence": 0.9699
+        },
+        {
+          "x": 310.52,
+          "y": 1044.94,
+          "text": "phuc cac van de ton tai cu the cua doanh nghiep.",
+          "confidence": 0.978
+        },
+        {
+          "x": 396.62,
+          "y": 1117.91,
+          "text": "10. Dao tao tryc tuyen cho doanh nghiep nho va vira: La hinh thuc dao",
+          "confidence": 0.9726
+        },
+        {
+          "x": 309.21,
+          "y": 1168.72,
+          "text": "tao thong qua moi truong mang, su dung cong nghe thong tin, truyen thong da",
+          "confidence": 0.9791
+        },
+        {
+          "x": 310.52,
+          "y": 1219.54,
+          "text": "phuong tien de truyen dat, cung cap cac ky nang, kién thuc cho doanh nghiep.",
+          "confidence": 0.9857
+        },
+        {
+          "x": 401.84,
+          "y": 1300.32,
+          "text": "11. Doanh nghiep dau chuoi: La cac doanh nghiep ? quy mo khac nhau",
+          "confidence": 0.9699
+        },
+        {
+          "x": 311.82,
+          "y": 1351.13,
+          "text": "co moi lien ket thuong mai voi cac doanh nghiep nho va vira trong chuoi gia",
+          "confidence": 0.9683
+        },
+        {
+          "x": 314.43,
+          "y": 1398.04,
+          "text": "tri; dinh huong, kiem soat toan bo hoac cac cong doan khac nhau cua chuoi",
+          "confidence": 0.9801
+        },
+        {
+          "x": 313.12,
+          "y": 1447.55,
+          "text": "gia tri nham tao ra gia tri tang them cho san pham, dich vu va thyc hien ban",
+          "confidence": 0.9743
+        },
+        {
+          "x": 314.43,
+          "y": 1503.57,
+          "text": "san pham, dich vy ? thi truong trong nuoc va nuoc ngoai.",
+          "confidence": 0.9738
+        },
+        {
+          "x": 401.84,
+          "y": 1583.05,
+          "text": "Dieu 4. Nguyen tac thrc hien ho tro",
+          "confidence": 0.9511
+        },
+        {
+          "x": 403.15,
+          "y": 1654.71,
+          "text": "on qy uan nn guony yuip ea oni uongu lop ugo Bueu euy onA no ueo ‘1",
+          "confidence": 0.7374
+        },
+        {
+          "x": 314.43,
+          "y": 1706.83,
+          "text": "trong tung thoi ky, co quan, t? chuc h6 tro doanh nghiép nho va vua quyét",
+          "confidence": 0.9539
+        },
+        {
+          "x": 317.04,
+          "y": 1755.04,
+          "text": "dinh so luong doanh nghiep du dieu kien dugc nhan ho tro dam bao nguyen",
+          "confidence": 0.9666
+        },
+        {
+          "x": 315.73,
+          "y": 1811.06,
+          "text": "tac nhu sau:",
+          "confidence": 0.9988
+        },
+        {
+          "x": 403.15,
+          "y": 1877.51,
+          "text": "a) Doanh nghiep nho va vira nop ho so truoc duoc ho tro truoc;",
+          "confidence": 0.9626
+        },
+        {
+          "x": 403.15,
+          "y": 1962.2,
+          "text": "b) Doanh nghiep nho va vira do phu nur lam chu, doanh nghiep nho va",
+          "confidence": 0.9648
+        },
+        {
+          "x": 319.65,
+          "y": 2015.62,
+          "text": "via sur dung nhieu lao dong nu va doanh nghiep nho va viua la doanh nghiep",
+          "confidence": 0.9581
+        },
+        {
+          "x": 315.73,
+          "y": 2065.13,
+          "text": "'oonn on gy oonp heni deud eno yuip Anb oay oy ex",
+          "confidence": 0.8005
+        },
+        {
+          "x": 405.76,
+          "y": 2142.01,
+          "text": "2. Truong hop doanh nghiep nho va vua dong thoi dap ung dieu kien cua",
+          "confidence": 0.9736
+        },
+        {
+          "x": 318.34,
+          "y": 2192.82,
+          "text": "eno quip Xnb oau on qu Sunp you jou guno Buon nequ soguy on qy onu ono",
+          "confidence": 0.7792
+        },
+        {
+          "x": 319.65,
+          "y": 2243.63,
+          "text": "Nghi dinh nay va quy dinh khac cua phap luat c6 lien quan thi doanh nghiep",
+          "confidence": 0.9884
+        },
+        {
+          "x": 322.26,
+          "y": 2297.05,
+          "text": "duoc lya chon mot murc h6 trg c6 loi nhat.",
+          "confidence": 0.9371
+        }
+      ]
+    },
+    {
+      "page": 4,
+      "image": "tmp/pdfs/nd80_2021/page-04.png",
+      "elapsed": [
+        0.9022229999973206,
+        0.02884960174560547,
+        5.723639726638794
+      ],
+      "rows": [
+        {
+          "x": 386.26,
+          "y": 198.04,
+          "text": "3. Ngoai cac noi dung ho trg rieng theo quy mo doanh nghiep siéu nho,",
+          "confidence": 0.9494
+        },
+        {
+          "x": 298.12,
+          "y": 247.56,
+          "text": "doanh nghiep nho va doanh nghiep vua quy dinh chi tiét tai Nghi dinh nay,",
+          "confidence": 0.993
+        },
+        {
+          "x": 299.41,
+          "y": 302.28,
+          "text": "cac noi dung h6 trg chung cho doanh nghiep nho va vira dugc ap dung cho ca",
+          "confidence": 0.973
+        },
+        {
+          "x": 298.12,
+          "y": 350.49,
+          "text": "doanh nghiep sieu nho, doanh nghiep nho va doanh nghiep vua dap urng dieu",
+          "confidence": 0.9783
+        },
+        {
+          "x": 298.12,
+          "y": 413.03,
+          "text": "kien h6 tro quy dinh tai Nghi dinh nay.",
+          "confidence": 0.9546
+        },
+        {
+          "x": 386.26,
+          "y": 492.51,
+          "text": "4. Doanh nghiep nho va vura chuyen doi tiu ho kinh doanh, doanh nghiep",
+          "confidence": 0.9572
+        },
+        {
+          "x": 299.41,
+          "y": 545.92,
+          "text": "nho va vua khoi nghiep sang tao, doanh nghiep nho va via tham gia cum lien",
+          "confidence": 0.9745
+        },
+        {
+          "x": 299.41,
+          "y": 598.04,
+          "text": "két nganh, chuoi gia tri dugc huong cac noi dung ho tro theo quy dinh tai",
+          "confidence": 0.9778
+        },
+        {
+          "x": 302.01,
+          "y": 650.16,
+          "text": "Chuong IV va cac noi dung ho trq khac khong trung lap quy dinh tai Chuong II",
+          "confidence": 0.9737
+        },
+        {
+          "x": 304.6,
+          "y": 714.0,
+          "text": "Nghi dinh nay.",
+          "confidence": 0.9988
+        },
+        {
+          "x": 390.15,
+          "y": 792.18,
+          "text": "5. Can cur churc nang, nhiém vu va tren co so nang luc thuc hien, co",
+          "confidence": 0.9531
+        },
+        {
+          "x": 299.41,
+          "y": 835.17,
+          "text": "quan, to chuc ho trq doanh nghiep nh? va vura tryc tiep cung cap dich vu ho",
+          "confidence": 0.9624
+        },
+        {
+          "x": 303.3,
+          "y": 892.5,
+          "text": "trg hoac phoi hop voi cac co quan, to churc, ca nhan c6 nang luc de cung cap",
+          "confidence": 0.9541
+        },
+        {
+          "x": 302.01,
+          "y": 943.32,
+          "text": "dich vu ho tro cho doanh nghiep nho va vura du dieu kien.",
+          "confidence": 0.9653
+        },
+        {
+          "x": 885.28,
+          "y": 1068.4,
+          "text": "Chuong H",
+          "confidence": 0.9871
+        },
+        {
+          "x": 448.47,
+          "y": 1104.88,
+          "text": "TIEU CHI XAC DINH DOANH NGHIEP NHO VA VUA",
+          "confidence": 0.9828
+        },
+        {
+          "x": 395.33,
+          "y": 1211.72,
+          "text": "Dicu 5. Tieu chi xac dinh doanh nghiep nho va vira",
+          "confidence": 0.9624
+        },
+        {
+          "x": 397.92,
+          "y": 1300.32,
+          "text": "1. Doanh nghiep siéu nho trong linh vurc nong nghiep, lam nghiep, thuy",
+          "confidence": 0.9756
+        },
+        {
+          "x": 308.49,
+          "y": 1349.83,
+          "text": "oq eie ueu oo guop oep gunp ns gunp Aex pa daau Buoo ona qu cues",
+          "confidence": 0.6268
+        },
+        {
+          "x": 307.19,
+          "y": 1400.64,
+          "text": "hiem xa hoi binh quan nam khong qua 10 nguoi va tong doanh thu cua nam",
+          "confidence": 0.9802
+        },
+        {
+          "x": 305.89,
+          "y": 1450.15,
+          "text": "khong qua 3 ty dong hoac tong nguon von cua nam khong qua 3 ty dong.",
+          "confidence": 0.9913
+        },
+        {
+          "x": 396.63,
+          "y": 1541.36,
+          "text": "Doanh nghiep siéu nho trong linh vyc thuong mai va dich vu sur dung lao",
+          "confidence": 0.9743
+        },
+        {
+          "x": 311.08,
+          "y": 1590.87,
+          "text": "dong co tham gia bao hiem xa hoi binh quan nam khong qua 10 nguoi va tong",
+          "confidence": 0.9893
+        },
+        {
+          "x": 308.49,
+          "y": 1644.29,
+          "text": "doanh thu cua nam khong qua 10 ty dong hoac tong nguon von cua nam",
+          "confidence": 0.975
+        },
+        {
+          "x": 309.78,
+          "y": 1699.01,
+          "text": "khong qua 3 ty dong.",
+          "confidence": 0.9966
+        },
+        {
+          "x": 311.08,
+          "y": 1834.52,
+          "text": "linh vyc cong nghiep va xay dung sur dung lao dong co tham gia bao hiem xa",
+          "confidence": 0.9778
+        },
+        {
+          "x": 311.08,
+          "y": 1885.33,
+          "text": "hoi binh quan nam khong qua 100 nguoi va tong doanh thu cua nam khong",
+          "confidence": 0.9881
+        },
+        {
+          "x": 313.67,
+          "y": 1937.45,
+          "text": "qua 50 ty dong hoac tong nguon von cua nam khong qua 20 ty dong, nhung",
+          "confidence": 0.9945
+        },
+        {
+          "x": 313.67,
+          "y": 1989.56,
+          "text": "khong phai la doanh nghiep sieu nho theo quy dinh tai khoan 1 Dieu nay.",
+          "confidence": 0.9798
+        },
+        {
+          "x": 400.51,
+          "y": 2076.86,
+          "text": "Doanh nghiep nho trong linh vyc thurong mai va dich vu su dung lao",
+          "confidence": 0.9926
+        },
+        {
+          "x": 313.67,
+          "y": 2126.37,
+          "text": "dong co tham gia bao hiem xa hoi binh quan nam khong qua 50 nguoi va tong",
+          "confidence": 0.9878
+        },
+        {
+          "x": 314.97,
+          "y": 2179.79,
+          "text": "doanh thu cua nam khong qua 1o0 ty dong hoac tong nguon von cua nam",
+          "confidence": 0.9831
+        },
+        {
+          "x": 316.26,
+          "y": 2231.91,
+          "text": "khong qua 50 ty dong, nhung khong phai la doanh nghiep siéu nho theo quy",
+          "confidence": 0.9759
+        },
+        {
+          "x": 318.86,
+          "y": 2282.72,
+          "text": "dinh tai khoan 1 Dieu nay.",
+          "confidence": 0.9907
+        }
+      ]
+    },
+    {
+      "page": 5,
+      "image": "tmp/pdfs/nd80_2021/page-05.png",
+      "elapsed": [
+        0.7915225000033388,
+        0.025512218475341797,
+        5.380892515182495
+      ],
+      "rows": [
+        {
+          "x": 961.87,
+          "y": 76.52,
+          "text": "5",
+          "confidence": 0.9954
+        },
+        {
+          "x": 383.98,
+          "y": 195.83,
+          "text": "3. Doanh nghiep vura trong linh virc nong nghiep, lam nghiep, thuy san;",
+          "confidence": 0.9708
+        },
+        {
+          "x": 298.51,
+          "y": 243.81,
+          "text": "linh vyc cong nghiep va xay dung sur dung lao dong co tham gia bao hiém xa",
+          "confidence": 0.9797
+        },
+        {
+          "x": 298.51,
+          "y": 291.8,
+          "text": "hoi binh quan nam khong qua 200 nguoi va tong doanh thu cua nam khong",
+          "confidence": 0.9933
+        },
+        {
+          "x": 295.96,
+          "y": 337.19,
+          "text": "qua 200 ty dong hoac tong nguon von cua nam khong qua 100 ty dong, nhung",
+          "confidence": 0.9824
+        },
+        {
+          "x": 298.51,
+          "y": 392.95,
+          "text": "khong phai la doanh nghiep siéu nho, doanh nghiep nho theo quy dinh tai",
+          "confidence": 0.9835
+        },
+        {
+          "x": 299.79,
+          "y": 453.91,
+          "text": "khoan 1, khoan 2 Diéu nay.",
+          "confidence": 0.9864
+        },
+        {
+          "x": 386.54,
+          "y": 527.83,
+          "text": "Doanh nghiep vua trong linh vyc thuong mai va dich vu sur dung lao",
+          "confidence": 0.9789
+        },
+        {
+          "x": 302.34,
+          "y": 575.81,
+          "text": "dong c6 tham gia bao hiem xa hoi binh quan nam khong qua 100 nguoi va",
+          "confidence": 0.9844
+        },
+        {
+          "x": 298.51,
+          "y": 625.09,
+          "text": "tong doanh thu cua nam khong qua 300 ty dong hoac tong nguon von cua nam",
+          "confidence": 0.9955
+        },
+        {
+          "x": 301.06,
+          "y": 674.38,
+          "text": "khong qua 100 ty dong, nhung khong phai la doanh nghiep siéu nho, doanh",
+          "confidence": 0.9843
+        },
+        {
+          "x": 301.06,
+          "y": 727.55,
+          "text": "nghiep nho theo quy dinh tai khoan 1, khoan 2 Dieu nay.",
+          "confidence": 0.9774
+        },
+        {
+          "x": 389.09,
+          "y": 811.84,
+          "text": "Dieu 6. Xac dinh linh vyc hoat dong cua doanh nghiep nho va vira",
+          "confidence": 0.9735
+        },
+        {
+          "x": 389.09,
+          "y": 896.14,
+          "text": "Linh vuc hoat dong cua doanh nghiep nho va viura duoc xac dinh can cu",
+          "confidence": 0.9614
+        },
+        {
+          "x": 307.44,
+          "y": 948.02,
+          "text": "vao nganh, nghe kinh doanh chinh ma doanh nghiép da dang ky voi co quan",
+          "confidence": 0.9852
+        },
+        {
+          "x": 307.44,
+          "y": 1006.38,
+          "text": "dang ky kinh doanh.",
+          "confidence": 0.9787
+        },
+        {
+          "x": 389.09,
+          "y": 1079.0,
+          "text": "Dieu 7. Xac dinh so lao dong sur dung co tham gia bao hiem xa hoi",
+          "confidence": 0.97
+        },
+        {
+          "x": 307.44,
+          "y": 1138.66,
+          "text": "binh quan nam cua doanh nghiep nho va vira",
+          "confidence": 0.9673
+        },
+        {
+          "x": 391.64,
+          "y": 1209.98,
+          "text": "1. S6 lao dong sur dung co tham gia bao hiem xa hoi la toan bo s6 lao",
+          "confidence": 0.9833
+        },
+        {
+          "x": 307.44,
+          "y": 1265.75,
+          "text": "dong do doanh nghiep quan ly, sur dung va tra lurong, tra cong tham gia bao",
+          "confidence": 0.9859
+        },
+        {
+          "x": 391.64,
+          "y": 1401.92,
+          "text": "2. S6 lao dong sur dung c6 tham gia bao hiém xa hoi binh quan nam duroc",
+          "confidence": 0.9764
+        },
+        {
+          "x": 308.72,
+          "y": 1448.61,
+          "text": "tinh bang tong so lao dong sur dung co tham gia bao hiem xa hoi cua tat ca cac",
+          "confidence": 0.9836
+        },
+        {
+          "x": 308.72,
+          "y": 1504.38,
+          "text": "thang trong nam truoc lien ke chia cho 12 thang.",
+          "confidence": 0.9816
+        },
+        {
+          "x": 401.84,
+          "y": 1582.19,
+          "text": "S6 lao dong sir dung co tham gia bao hiem xa hoi cua thang dugc xac",
+          "confidence": 0.9693
+        },
+        {
+          "x": 312.55,
+          "y": 1635.36,
+          "text": "dinh tai thoi diém cuoi thang va can cu tren chung tir nop bao hiem xa hoi cua",
+          "confidence": 0.9694
+        },
+        {
+          "x": 308.72,
+          "y": 1685.94,
+          "text": "thang d6 ma doanh nghiep nop cho co quan bao hiém xa hoi.",
+          "confidence": 0.9531
+        },
+        {
+          "x": 392.91,
+          "y": 1761.16,
+          "text": "3. Truong hop doanh nghiep hoat dong duoi 01 nam, so lao dong sur",
+          "confidence": 0.9806
+        },
+        {
+          "x": 312.55,
+          "y": 1816.92,
+          "text": "dung c6 tham gia bao hiem xa hoi binh quan nam duoc tinh bang tong so lao",
+          "confidence": 0.9743
+        },
+        {
+          "x": 309.99,
+          "y": 1866.2,
+          "text": "dong sur dung co tham gia bao hiem xa hoi cua cac thang hoat dong chia cho",
+          "confidence": 0.9816
+        },
+        {
+          "x": 309.99,
+          "y": 1918.08,
+          "text": "so thang hoat dong.",
+          "confidence": 0.9949
+        },
+        {
+          "x": 395.47,
+          "y": 1999.78,
+          "text": "Dieu 8. Xac dinh tong nguon von cua doanh nghiep nho va vura",
+          "confidence": 0.9745
+        },
+        {
+          "x": 398.02,
+          "y": 2081.48,
+          "text": "1. Tong nguon von cua nam durgc xac dinh trong bang can doi ké toan",
+          "confidence": 0.9803
+        },
+        {
+          "x": 315.1,
+          "y": 2141.14,
+          "text": "the hien tren Bao cao tai chinh cua nam truoc lien ke ma doanh nghiep nop",
+          "confidence": 0.9728
+        },
+        {
+          "x": 312.55,
+          "y": 2185.23,
+          "text": "lu 1en yuip oex sonp ureu eno uoa uongu Suoi gny fi uenb uenb oo oyo",
+          "confidence": 0.7904
+        },
+        {
+          "x": 313.82,
+          "y": 2242.3,
+          "text": "diem cuoi nam.",
+          "confidence": 0.9839
+        }
+      ]
+    },
+    {
+      "page": 6,
+      "image": "tmp/pdfs/nd80_2021/page-06.png",
+      "elapsed": [
+        0.7685751999961212,
+        0.03232407569885254,
+        5.001714468002319
+      ],
+      "rows": [
+        {
+          "x": 957.87,
+          "y": 77.81,
+          "text": "6",
+          "confidence": 0.9994
+        },
+        {
+          "x": 378.48,
+          "y": 191.94,
+          "text": "2. Truong hop doanh nghiep hoat dong duoi 01 nam, tong nguon von",
+          "confidence": 0.9869
+        },
+        {
+          "x": 292.93,
+          "y": 243.81,
+          "text": "dugc xac dinh trong bang can doi ke toan cua doanh nghiep tai thoi diem cuoi",
+          "confidence": 0.9762
+        },
+        {
+          "x": 292.93,
+          "y": 293.09,
+          "text": "quy lien ke thoi diem doanh nghiep dang ky huong noi dung ho tro.",
+          "confidence": 0.9798
+        },
+        {
+          "x": 383.66,
+          "y": 370.91,
+          "text": "Dieu 9. Xac dinh tong doanh thu cua doanh nghiep nho va vira",
+          "confidence": 0.9731
+        },
+        {
+          "x": 383.66,
+          "y": 442.23,
+          "text": "1. Tong doanh thu cua nam la tong doanh thu ban hang hoa, cung cap",
+          "confidence": 0.9889
+        },
+        {
+          "x": 299.41,
+          "y": 495.41,
+          "text": "dich vu cua doanh nghiep va duoc xac dinh tren Bao cao tai chinh cua nam",
+          "confidence": 0.9877
+        },
+        {
+          "x": 296.82,
+          "y": 544.69,
+          "text": "truoc lien ke ma doanh nghiep nop cho co quan quan ly thue.",
+          "confidence": 0.9875
+        },
+        {
+          "x": 384.96,
+          "y": 618.61,
+          "text": "2. Truong hop doanh nghiep hoat dong duoi 01 nam hoac tren 01 nam",
+          "confidence": 0.982
+        },
+        {
+          "x": 298.12,
+          "y": 666.59,
+          "text": "nhung chua phat sinh doanh thu thi doanh nghiep can cu vao tieu chi tong",
+          "confidence": 0.9772
+        },
+        {
+          "x": 296.82,
+          "y": 714.58,
+          "text": "nguon von quy dinh tai Dieu 8 Nghi dinh nay de xac dinh doanh nghiep nho",
+          "confidence": 0.9788
+        },
+        {
+          "x": 300.71,
+          "y": 782.02,
+          "text": "va vura.",
+          "confidence": 0.902
+        },
+        {
+          "x": 388.85,
+          "y": 846.86,
+          "text": "Dieu 10. Xac dinh va ke khai doanh nghiep nho va vira",
+          "confidence": 0.9599
+        },
+        {
+          "x": 390.15,
+          "y": 913.0,
+          "text": "1. Doanh nghiep nho va vura can cur vao mau quy dinh tai Phu luc ban",
+          "confidence": 0.9765
+        },
+        {
+          "x": 300.71,
+          "y": 963.58,
+          "text": "hanh kem theo Nghi dinh nay dé tu xac dinh va ke khai quy mo la doanh",
+          "confidence": 0.9788
+        },
+        {
+          "x": 303.3,
+          "y": 1010.27,
+          "text": "unb o ouo dou ea ena dnru quop oqu dnuau yuo ou nans danuu",
+          "confidence": 0.526
+        },
+        {
+          "x": 302.01,
+          "y": 1060.84,
+          "text": "chuc h6 tro doanh nghiep nho va vua. Doanh nghiep nho va vira chiu trach",
+          "confidence": 0.9744
+        },
+        {
+          "x": 303.3,
+          "y": 1116.61,
+          "text": "nhiem truoc phap luat ve viec ke khai.",
+          "confidence": 0.9838
+        },
+        {
+          "x": 390.15,
+          "y": 1187.94,
+          "text": "x   o  g  s  d  d",
+          "confidence": 0.5927
+        },
+        {
+          "x": 307.19,
+          "y": 1234.62,
+          "text": "doanh nghiep chu dong thyc hien dieu chinh va ke khai lai. Viec ke khai lai",
+          "confidence": 0.9774
+        },
+        {
+          "x": 304.6,
+          "y": 1286.5,
+          "text": "phai dugc thuc hien truoc thoi diem doanh nghiep nho va via dugc huong",
+          "confidence": 0.9601
+        },
+        {
+          "x": 304.6,
+          "y": 1338.38,
+          "text": "noi dung ho trg.",
+          "confidence": 0.9454
+        },
+        {
+          "x": 390.15,
+          "y": 1400.62,
+          "text": "3. Truong hop doanh nghiep co y ke khai khong trung thuc ve quy mo de",
+          "confidence": 0.9774
+        },
+        {
+          "x": 307.19,
+          "y": 1456.39,
+          "text": "dugc huong ho tro thi doanh nghiep phai chiu trach nhiém truoc phap luat va",
+          "confidence": 0.9658
+        },
+        {
+          "x": 305.89,
+          "y": 1512.16,
+          "text": "hoan tra toan bo kinh phi da nhan ho tro.",
+          "confidence": 0.9775
+        },
+        {
+          "x": 388.85,
+          "y": 1573.11,
+          "text": "4. Can cir vao thoi diem doanh nghiep de xuat h6 tro, co quan, to churc",
+          "confidence": 0.9733
+        },
+        {
+          "x": 303.3,
+          "y": 1624.98,
+          "text": "h6 tro doanh nghiep nho va vira doi chiéu thong tin ve doanh nghiep tren",
+          "confidence": 0.9542
+        },
+        {
+          "x": 307.19,
+          "y": 1675.56,
+          "text": "Cong thong tin dang ky doanh nghiep quoc gia de xac dinh thong tin doanh",
+          "confidence": 0.9775
+        },
+        {
+          "x": 308.49,
+          "y": 1728.73,
+          "text": "nghiep ke khai dam bao dung doi turong h6 trg.",
+          "confidence": 0.96
+        },
+        {
+          "x": 877.5,
+          "y": 1837.67,
+          "text": "Chuong III",
+          "confidence": 0.9283
+        },
+        {
+          "x": 620.86,
+          "y": 1884.36,
+          "text": "HO TRQ CONG NGHE, THONG TIN,",
+          "confidence": 0.9733
+        },
+        {
+          "x": 521.06,
+          "y": 1934.94,
+          "text": "TU VAN VA PHAT TRIEN NGUON NHAN LUC",
+          "confidence": 0.9801
+        },
+        {
+          "x": 396.63,
+          "y": 2045.17,
+          "text": "Dieu 11. H6 trg cong nghe cho doanh nghiep nho va vura",
+          "confidence": 0.9555
+        },
+        {
+          "x": 399.22,
+          "y": 2107.42,
+          "text": "1. H6 trq toi da 50% gia tri hop dong tu van giai phap chuyén doi so cho",
+          "confidence": 0.9698
+        },
+        {
+          "x": 312.38,
+          "y": 2163.19,
+          "text": "doanh nghiep ve quy trinh kinh doanh, quy trinh quan tri, quy trinh san xuat,",
+          "confidence": 0.9863
+        },
+        {
+          "x": 313.67,
+          "y": 2212.47,
+          "text": "quy trinh cong nghe va chuyen doi mo hinh kinh doanh nhung khong qua 50",
+          "confidence": 0.984
+        },
+        {
+          "x": 314.97,
+          "y": 2268.23,
+          "text": "triéu dong/hop dong/nam d6i voi doanh nghiep nho va khong qua 100 triéu",
+          "confidence": 0.969
+        },
+        {
+          "x": 317.56,
+          "y": 2322.7,
+          "text": "dong/hop dong/nam doi voi doanh nghiep vira.",
+          "confidence": 0.9601
+        }
+      ]
+    },
+    {
+      "page": 7,
+      "image": "tmp/pdfs/nd80_2021/page-07.png",
+      "elapsed": [
+        0.8239618000079645,
+        0.03369331359863281,
+        6.829379081726074
+      ],
+      "rows": [
+        {
+          "x": 383.98,
+          "y": 196.21,
+          "text": "2. H6 tro toi da 50% chi phi cho doanh nghiep thué, mua cac giai phap",
+          "confidence": 0.9676
+        },
+        {
+          "x": 297.24,
+          "y": 242.68,
+          "text": "chuyen doi so de ty dong hoa, nang cao hieu qua quy trinh kinh doanh, quy",
+          "confidence": 0.983
+        },
+        {
+          "x": 299.79,
+          "y": 293.02,
+          "text": "trinh quan tri, quy trinh san xuat, quy trinh cong nghe trong doanh nghiép va",
+          "confidence": 0.9905
+        },
+        {
+          "x": 299.79,
+          "y": 336.91,
+          "text": "chuyen doi mo hinh kinh doanh nhung khong qua 20 trieu dong/nam d6i voi",
+          "confidence": 0.9806
+        },
+        {
+          "x": 297.24,
+          "y": 391.12,
+          "text": "doanh nghiep sieu nho; khong qua 50 trieu dong/nam d6i voi doanh nghiep",
+          "confidence": 0.9698
+        },
+        {
+          "x": 299.79,
+          "y": 444.04,
+          "text": "nho va khong qua 100 trieu dong/nam doi voi doanh nghiep vua.",
+          "confidence": 0.9616
+        },
+        {
+          "x": 382.71,
+          "y": 517.62,
+          "text": ":9n yn nny os uaAnb deI oex uga n Buop doy in pis %0s ep !9i on QH '",
+          "confidence": 0.8015
+        },
+        {
+          "x": 297.24,
+          "y": 567.96,
+          "text": "tu van quan ly va phat trien cac san pham, dich vu dugc bao ho quyen so huu",
+          "confidence": 0.9717
+        },
+        {
+          "x": 1007.8,
+          "y": 615.72,
+          "text": "khong qua 100 trieu dong/hop",
+          "confidence": 0.9527
+        },
+        {
+          "x": 302.34,
+          "y": 631.21,
+          "text": "tri tué cua doanh nghiep r",
+          "confidence": 0.9237
+        },
+        {
+          "x": 864.92,
+          "y": 633.8,
+          "text": "nhung",
+          "confidence": 0.9693
+        },
+        {
+          "x": 303.62,
+          "y": 677.68,
+          "text": "dong/nam/doanh nghiep.",
+          "confidence": 0.9758
+        },
+        {
+          "x": 386.54,
+          "y": 744.81,
+          "text": "nyd byau Buoo oeja uaKnyo uga m Buop doy in pi8 %0s ep !gi o.n QH 't",
+          "confidence": 0.7285
+        },
+        {
+          "x": 301.06,
+          "y": 796.44,
+          "text": "qop/uu/buop doy/lugp nii oo1 enb guouy bunqu datyu yueop toa doy",
+          "confidence": 0.608
+        },
+        {
+          "x": 299.79,
+          "y": 857.11,
+          "text": "nghiep.",
+          "confidence": 0.9402
+        },
+        {
+          "x": 390.36,
+          "y": 922.94,
+          "text": "5. Bo, co quan ngang bo, co quan thuoc Chinh phu, Uy ban nhan dan cap",
+          "confidence": 0.9879
+        },
+        {
+          "x": 302.34,
+          "y": 975.86,
+          "text": "tinh trien khai cac du an dau tu ho trg doanh nghiep nho va vira thong qua xay",
+          "confidence": 0.9746
+        },
+        {
+          "x": 304.89,
+          "y": 1023.63,
+          "text": "dung moi co so uom tao, co so ky thuat, khu lam viec chung; cai tao, nang",
+          "confidence": 0.9867
+        },
+        {
+          "x": 306.17,
+          "y": 1067.51,
+          "text": "cap co so ha tang co san de hinh thanh co so uom tao, co so ky thuat, khu lam",
+          "confidence": 0.9947
+        },
+        {
+          "x": 306.17,
+          "y": 1119.15,
+          "text": "viec chung; mua sam, lap dat trang thiét bi, may moc, phong nghien cuu,",
+          "confidence": 0.9875
+        },
+        {
+          "x": 304.89,
+          "y": 1172.07,
+          "text": "phong thi nghiem, he thong cong nghe thong tin cho co so uom tao, co so ky",
+          "confidence": 0.9848
+        },
+        {
+          "x": 303.62,
+          "y": 1223.7,
+          "text": "thuat, khu lam viec chung ho trg doanh nghiep nho va vira.",
+          "confidence": 0.9748
+        },
+        {
+          "x": 394.19,
+          "y": 1302.44,
+          "text": "Dieu 12. H6 tro thong tin cho doanh nghiep nho va via",
+          "confidence": 0.9705
+        },
+        {
+          "x": 395.47,
+          "y": 1378.6,
+          "text": "1. Doanh nghiep nho va vua duoc mien phi truy cap cac thong tin quy",
+          "confidence": 0.9658
+        },
+        {
+          "x": 308.72,
+          "y": 1426.36,
+          "text": "dinh tai khoan 1 Dieu 14 Luat H6 trg doanh nghiep nho va vira tren Cong",
+          "confidence": 0.9689
+        },
+        {
+          "x": 308.72,
+          "y": 1479.29,
+          "text": "thong tin va trang thong tin dien tr cua cac bo, co quan ngang bo, co quan",
+          "confidence": 0.9798
+        },
+        {
+          "x": 307.44,
+          "y": 1529.63,
+          "text": "thuoc Chinh phu va Uy ban nhan dan cap tinh.",
+          "confidence": 0.9955
+        },
+        {
+          "x": 392.91,
+          "y": 1601.92,
+          "text": "2. Bo, co quan ngang bo, co quan thuoc Chinh phu, Uy ban nhan dan cap",
+          "confidence": 0.9871
+        },
+        {
+          "x": 307.44,
+          "y": 1650.97,
+          "text": "tinh dugc cap tai khoan tren Cong thong tin de cung cap cac thong tin quy",
+          "confidence": 0.9829
+        },
+        {
+          "x": 309.99,
+          "y": 1701.31,
+          "text": "dinh tai khoan 1 Dieu 14 Luat H6 tro doanh nghiep nho va vua; cong khai,",
+          "confidence": 0.9793
+        },
+        {
+          "x": 308.72,
+          "y": 1750.36,
+          "text": "theo doi va cap nhat thong tin h6 tro doanh nghiep nho va vura theo quy dinh",
+          "confidence": 0.9723
+        },
+        {
+          "x": 309.99,
+          "y": 1795.54,
+          "text": "tai Dieu 29 Luat H6 trg doanh nghiep nho va vira. Co quan, to chuc h6 tro",
+          "confidence": 0.9592
+        },
+        {
+          "x": 309.99,
+          "y": 1844.59,
+          "text": "doanh nghiep nho va vura, doanh nghiep, t? churc, ca nhan khac co nhu cau",
+          "confidence": 0.9597
+        },
+        {
+          "x": 311.27,
+          "y": 1894.93,
+          "text": "cung cap thong tin, turong tac va ket noi voi cac doi tac tham gia tren Cong",
+          "confidence": 0.9797
+        },
+        {
+          "x": 308.72,
+          "y": 1945.28,
+          "text": "thong tin co the de nghi cap tai khoan. Tai khoan sur dung tren Cong thong tin",
+          "confidence": 0.9822
+        },
+        {
+          "x": 313.82,
+          "y": 2002.07,
+          "text": "dugc quan ly tap trung tren Cong thong tin.",
+          "confidence": 0.9782
+        },
+        {
+          "x": 394.19,
+          "y": 2071.78,
+          "text": "3. Cong thong tin do Bo Ké hoach va Dau tu xay dung, duy tri, van hanh",
+          "confidence": 0.9683
+        },
+        {
+          "x": 311.27,
+          "y": 2127.28,
+          "text": "va ket noi voi trang thong tin dien tur cua cac bo, co quan ngang bo, co quan",
+          "confidence": 0.9761
+        },
+        {
+          "x": 311.27,
+          "y": 2175.04,
+          "text": "quip Anb u guou deo guno uequ qu deo up uqu uq Xn 'nyd yuu oon",
+          "confidence": 0.6887
+        },
+        {
+          "x": 312.55,
+          "y": 2227.97,
+          "text": "uo oo a 1na 1a oqu dtyu quop o g n ti nia I uor 1",
+          "confidence": 0.5323
+        },
+        {
+          "x": 312.55,
+          "y": 2277.02,
+          "text": "khac cho doanh nghiep, to churc, ca nhan co nhu cau tra cuu.",
+          "confidence": 0.9694
+        }
+      ]
+    },
+    {
+      "page": 8,
+      "image": "tmp/pdfs/nd80_2021/page-08.png",
+      "elapsed": [
+        0.8376946999924257,
+        0.030279159545898438,
+        6.006680727005005
+      ],
+      "rows": [
+        {
+          "x": 959.39,
+          "y": 71.0,
+          "text": "8",
+          "confidence": 0.9989
+        },
+        {
+          "x": 382.74,
+          "y": 188.46,
+          "text": "4. Kinh phi xay dung co so ha tang thong tin, phan mem cho hoat dong",
+          "confidence": 0.9924
+        },
+        {
+          "x": 297.83,
+          "y": 234.93,
+          "text": "cua Cong thong tin, co so dur lieu ho trg doanh nghiep nho va vura dugc b6 tri",
+          "confidence": 0.9492
+        },
+        {
+          "x": 295.3,
+          "y": 285.27,
+          "text": "tir nguon von dau tu cong theo quy dinh cua phap luat ve dau tu cong va cac",
+          "confidence": 0.9847
+        },
+        {
+          "x": 281.35,
+          "y": 348.52,
+          "text": ". nguon von hop phap khac (néu co).",
+          "confidence": 0.9664
+        },
+        {
+          "x": 385.28,
+          "y": 413.06,
+          "text": "Kinh phi nang cap, duy tri, quan ly, van hanh Cong thong tin va thu thap,",
+          "confidence": 0.9841
+        },
+        {
+          "x": 305.43,
+          "y": 467.28,
+          "text": "9 oonp ena ba oqu datyu queop on qy nat np os oo oea un suo seyu deo",
+          "confidence": 0.6345
+        },
+        {
+          "x": 302.9,
+          "y": 516.33,
+          "text": "ons uu qa seni deud eno quip Knb oau uaanx guonun yyd qur uonau m 1",
+          "confidence": 0.6042
+        },
+        {
+          "x": 301.63,
+          "y": 577.0,
+          "text": "nha nuoc va cac nguon hop phap khac (néu co).",
+          "confidence": 0.9876
+        },
+        {
+          "x": 391.61,
+          "y": 651.87,
+          "text": "Dicu 13. H6 trg tu van cho doanh nghiep nho va vura",
+          "confidence": 0.9506
+        },
+        {
+          "x": 397.95,
+          "y": 739.64,
+          "text": "1. Mang luoi tu van vien",
+          "confidence": 0.9905
+        },
+        {
+          "x": 390.35,
+          "y": 801.6,
+          "text": "a) Mang luoi tu van vien dugc xay dung tren co so ca nhan, to churc tu",
+          "confidence": 0.9721
+        },
+        {
+          "x": 305.43,
+          "y": 857.11,
+          "text": "van da va dang hoat dong theo quy dinh cua phap luat chuyen nganh hoac",
+          "confidence": 0.9885
+        },
+        {
+          "x": 307.97,
+          "y": 919.07,
+          "text": "hinh thanh moi, dam bao nguyen tac:",
+          "confidence": 0.9781
+        },
+        {
+          "x": 394.15,
+          "y": 986.19,
+          "text": "D6i voi ca nhan tu van phai dam bao ve trinh do dao tao, trinh do chuyen",
+          "confidence": 0.9842
+        },
+        {
+          "x": 307.97,
+          "y": 1035.24,
+          "text": "u p n  u sa doy nd o o u  a dinu uo",
+          "confidence": 0.5158
+        },
+        {
+          "x": 310.5,
+          "y": 1085.59,
+          "text": "nho va vua va tieu chi ve tu van vien cua bo, co quan ngang bo noi ca nhan tu .",
+          "confidence": 0.9672
+        },
+        {
+          "x": 310.5,
+          "y": 1138.51,
+          "text": "van du kién dang ky.",
+          "confidence": 0.9648
+        },
+        {
+          "x": 395.42,
+          "y": 1210.8,
+          "text": "Doi voi to churc tu van phai dam bao dap urng cac dieu kien theo quy",
+          "confidence": 0.9632
+        },
+        {
+          "x": 311.77,
+          "y": 1311.48,
+          "text": "va vua va tieu chi ve to churc tu van cua bo, co quan ngang bo noi t6 chuc tu",
+          "confidence": 0.9664
+        },
+        {
+          "x": 310.5,
+          "y": 1361.82,
+          "text": "van dy kien dang ky.",
+          "confidence": 0.9532
+        },
+        {
+          "x": 397.95,
+          "y": 1440.56,
+          "text": "ula ugA n loni Bueu ogA Ky Buep os QH (q",
+          "confidence": 0.7443
+        },
+        {
+          "x": 397.95,
+          "y": 1518.01,
+          "text": "Doi voi ca nhan tu van, ho so bao gom: Don dang ky tham gia mang luoi",
+          "confidence": 0.9847
+        },
+        {
+          "x": 310.5,
+          "y": 1567.06,
+          "text": "tu van vien; So yéu ly lich va ho so tom tat nang luc; ban sao co chung thuc",
+          "confidence": 0.9755
+        },
+        {
+          "x": 313.04,
+          "y": 1619.99,
+          "text": "van bang dao tao; ban sao c6 chung thuc cac van ban, giay to co lien quan",
+          "confidence": 0.9795
+        },
+        {
+          "x": 316.84,
+          "y": 1672.91,
+          "text": "duoc co quan c6 tham quyen cap.",
+          "confidence": 0.9822
+        },
+        {
+          "x": 397.95,
+          "y": 1740.03,
+          "text": "Doi voi to churc tu van, ho so bao gom: Don dang ky tham gia mang luoi",
+          "confidence": 0.984
+        },
+        {
+          "x": 314.31,
+          "y": 1799.41,
+          "text": "tu van vien; ban sao c6 chung thuc Giay chung nhan dang ky doanh nghiep",
+          "confidence": 0.9829
+        },
+        {
+          "x": 314.31,
+          "y": 1843.3,
+          "text": "hoac Quyét dinh thanh lap; ho so tom tat nang luc; ban sao co churng thyc ho",
+          "confidence": 0.9773
+        },
+        {
+          "x": 314.31,
+          "y": 1892.35,
+          "text": "u ua oo o suo go oes ug  g oon ua  u o oo eo os",
+          "confidence": 0.5434
+        },
+        {
+          "x": 313.04,
+          "y": 1936.24,
+          "text": "giay to chung minh du dieu kien kinh doanh theo quy dinh cua phap luat (d6i",
+          "confidence": 0.9768
+        },
+        {
+          "x": 315.57,
+          "y": 1990.45,
+          "text": "voi doanh nghiép kinh doanh nganh, nghe kinh doanh co dieu kien).",
+          "confidence": 0.9718
+        },
+        {
+          "x": 403.02,
+          "y": 2066.61,
+          "text": "c) Ca nhan, to chiurc tu van nop ho so quy dinh tai diem b khoan nay",
+          "confidence": 0.978
+        },
+        {
+          "x": 316.84,
+          "y": 2114.37,
+          "text": "thong qua hinh thurc truc tiep hoac tryc tuyen toi don vi duoc giao dau moi t?",
+          "confidence": 0.9501
+        },
+        {
+          "x": 319.38,
+          "y": 2167.3,
+          "text": "chuc hoat dong mang luoi tu van vien thuoc bo, co quan ngang bo de dugc",
+          "confidence": 0.9857
+        },
+        {
+          "x": 319.38,
+          "y": 2217.64,
+          "text": "cong nhan vao mang luoi tu van vien va dugc cong bo tren trang thong tin",
+          "confidence": 0.9738
+        },
+        {
+          "x": 320.64,
+          "y": 2266.69,
+          "text": "dien tur cua bo, co quan ngang bo trong thoi han 10 ngay lam viéc.",
+          "confidence": 0.9868
+        }
+      ]
+    },
+    {
+      "page": 9,
+      "image": "tmp/pdfs/nd80_2021/page-09.png",
+      "elapsed": [
+        0.8591593999881297,
+        0.03224968910217285,
+        6.34657096862793
+      ],
+      "rows": [
+        {
+          "x": 381.43,
+          "y": 187.17,
+          "text": "Truong hop ca nhan, to chuc tu van chua du dieu kien de dugc cong",
+          "confidence": 0.9684
+        },
+        {
+          "x": 297.24,
+          "y": 237.51,
+          "text": "nhan, don vi duoc giao dau moi to chuc hoat dong mang luoi tu van vien",
+          "confidence": 0.9562
+        },
+        {
+          "x": 295.96,
+          "y": 287.85,
+          "text": "thuoc bo, co quan ngang bo gui thong bao ly do, chua du dieu kien thong qua",
+          "confidence": 0.9885
+        },
+        {
+          "x": 297.24,
+          "y": 339.49,
+          "text": "hinh thurc tryrc tiép hoac tryrc tuyen toi ca nhan, t? chuc tur van trong thoi han 10",
+          "confidence": 0.9681
+        },
+        {
+          "x": 298.51,
+          "y": 394.99,
+          "text": "y buep os qu oonp ueuu Aeau m gx oaa wrei Aegu",
+          "confidence": 0.7207
+        },
+        {
+          "x": 383.98,
+          "y": 467.28,
+          "text": "Ca nhan, to chuc tu van dugc tham gia mang luoi tu van vien cua nhieu",
+          "confidence": 0.9689
+        },
+        {
+          "x": 301.06,
+          "y": 524.08,
+          "text": "bo, co quan ngang bo néu dap ung dieu kien, tieu chi theo quy dinh.",
+          "confidence": 0.975
+        },
+        {
+          "x": 387.81,
+          "y": 605.4,
+          "text": "d) Sau khi duoc cong nhan vao mang luoi tu van vien va dugc cong bo",
+          "confidence": 0.9741
+        },
+        {
+          "x": 299.79,
+          "y": 658.32,
+          "text": "tren trang thong tin dien tur cua bo, co quan ngang bo, tu van vien truy cap",
+          "confidence": 0.9818
+        },
+        {
+          "x": 302.34,
+          "y": 708.66,
+          "text": "vao Cong thong tin (tai dia chi www.business.gov.vn) de dang ky vao co so",
+          "confidence": 0.9818
+        },
+        {
+          "x": 303.62,
+          "y": 759.01,
+          "text": "a ou dnu quop o ua  uny on ta uia ua n loni u nit np",
+          "confidence": 0.5543
+        },
+        {
+          "x": 302.34,
+          "y": 818.38,
+          "text": "via theo quy dinh tai Nghi dinh nay.",
+          "confidence": 0.9972
+        },
+        {
+          "x": 391.64,
+          "y": 894.54,
+          "text": "d) Kinh phi dé bo, co quan ngang bo hinh thanh, yan hanh, quan ly, duy",
+          "confidence": 0.983
+        },
+        {
+          "x": 304.89,
+          "y": 942.3,
+          "text": "tri hoat dong cua mang luoi tu van vien va kinh phi boi duong, dao tao phat",
+          "confidence": 0.9796
+        },
+        {
+          "x": 303.62,
+          "y": 990.06,
+          "text": "trién mang luroi tu van vien duoc tong hop trong kinh phi ho trg doanh nghiep",
+          "confidence": 0.9585
+        },
+        {
+          "x": 303.62,
+          "y": 1041.7,
+          "text": "nho va yua hang nam cua bo, co quan ngang bo va nguon kinh phi hop phap",
+          "confidence": 0.9861
+        },
+        {
+          "x": 304.89,
+          "y": 1098.49,
+          "text": "khac (néu co).",
+          "confidence": 0.966
+        },
+        {
+          "x": 392.91,
+          "y": 1175.94,
+          "text": "2. Noi dung h6 tro tur van cho doanh nghiep nho va vira",
+          "confidence": 0.9678
+        },
+        {
+          "x": 390.36,
+          "y": 1253.39,
+          "text": "Doanh nghiep nho va vira tiép can mang luoi tu van vien de duoc ho tro",
+          "confidence": 0.9612
+        },
+        {
+          "x": 309.99,
+          "y": 1312.77,
+          "text": "su dung dich vu tu van ve nhan sy, tai chinh, san xuat, ban hang, thi truong,",
+          "confidence": 0.9752
+        },
+        {
+          "x": 311.27,
+          "y": 1360.53,
+          "text": "quan tri noi bo va cac noi dung khac lien quan toi hoat dong san xuat - kinh",
+          "confidence": 0.9839
+        },
+        {
+          "x": 304.89,
+          "y": 1401.84,
+          "text": "doanh cua doanh nghiep (khong bao gom tu van ve thu tuc hanh chinh, phap",
+          "confidence": 0.9905
+        },
+        {
+          "x": 309.99,
+          "y": 1466.38,
+          "text": "ly theo quy dinh cua phap luat chuyen nganh) nhu sau:",
+          "confidence": 0.9878
+        },
+        {
+          "x": 396.74,
+          "y": 1543.83,
+          "text": "a) H6 tro 100% gia tri hop dong tur van nhung khong qua 50 trieu",
+          "confidence": 0.9854
+        },
+        {
+          "x": 313.82,
+          "y": 1594.17,
+          "text": "dong/nam/doanh nghiep doi voi doanh nghiep siéu nho hoac khong qua 70",
+          "confidence": 0.971
+        },
+        {
+          "x": 312.55,
+          "y": 1640.64,
+          "text": "triéu dong/nam/doanh nghiep doi voi doanh nghiep siéu nho do phu nu lam",
+          "confidence": 0.9762
+        },
+        {
+          "x": 312.55,
+          "y": 1689.69,
+          "text": "chu, doanh nghiep sieu nho sur dung nhieu lao dong ntr va doanh nghiep siéu",
+          "confidence": 0.9664
+        },
+        {
+          "x": 312.55,
+          "y": 1749.07,
+          "text": "nho la doanh nghiep xa hoi;",
+          "confidence": 0.9747
+        },
+        {
+          "x": 398.02,
+          "y": 1821.36,
+          "text": "b) H6 tro toi da 50% gia tri hop dong tu van nhung khong qua 100 triéu",
+          "confidence": 0.98
+        },
+        {
+          "x": 316.37,
+          "y": 1871.7,
+          "text": "dong/nam/doanh nghiep d6i voi doanh nghiep nho hoac khong qua 150 trieu",
+          "confidence": 0.9821
+        },
+        {
+          "x": 313.82,
+          "y": 1920.75,
+          "text": "dong/nam/doanh nghiep doi voi doanh nghiep nho do phu nu lam chu, doanh",
+          "confidence": 0.975
+        },
+        {
+          "x": 313.82,
+          "y": 1972.38,
+          "text": "nghiep nho su dung nhiéu lao dong nu va doanh nghiep nho la doanh nghiep",
+          "confidence": 0.9646
+        },
+        {
+          "x": 311.27,
+          "y": 2029.18,
+          "text": "xa hoi;",
+          "confidence": 0.9896
+        },
+        {
+          "x": 401.84,
+          "y": 2107.92,
+          "text": "naun 0sI enb Buoyy Bunqu ugA m Bugp doy jn p18 %0e ep 19 on QH (o",
+          "confidence": 0.7732
+        },
+        {
+          "x": 318.92,
+          "y": 2160.84,
+          "text": "dong/nam/doanh nghiep doi voi doanh nghiep vira hoac khong qua 200 trieu",
+          "confidence": 0.9786
+        },
+        {
+          "x": 317.65,
+          "y": 2207.31,
+          "text": "dong/nam/doanh nghiep d6i voi doanh nghiép via do phu nur lam chu, doanh",
+          "confidence": 0.9741
+        },
+        {
+          "x": 316.37,
+          "y": 2257.66,
+          "text": "nghiep vura sur dung nhiéu lao dong nir va doanh nghiep vua la doanh nghiep",
+          "confidence": 0.9631
+        },
+        {
+          "x": 316.37,
+          "y": 2315.74,
+          "text": "xa hoi.",
+          "confidence": 0.9867
+        }
+      ]
+    },
+    {
+      "page": 10,
+      "image": "tmp/pdfs/nd80_2021/page-10.png",
+      "elapsed": [
+        0.8411842999921646,
+        0.02829885482788086,
+        4.007019996643066
+      ],
+      "rows": [
+        {
+          "x": 942.92,
+          "y": 64.54,
+          "text": "10",
+          "confidence": 0.9998
+        },
+        {
+          "x": 377.67,
+          "y": 182.01,
+          "text": "Dicu 14. H6 tro phat trien nguon nhan lurc cho doanh nghiep nho",
+          "confidence": 0.9506
+        },
+        {
+          "x": 295.3,
+          "y": 264.62,
+          "text": "BnA BA",
+          "confidence": 0.7128
+        },
+        {
+          "x": 389.08,
+          "y": 336.91,
+          "text": "1. H6 trg dao tao truc tiép ve khoi sy kinh doanh va quan tri doanh nghiep",
+          "confidence": 0.9692
+        },
+        {
+          "x": 384.01,
+          "y": 423.39,
+          "text": "a) H6 tro 100% tong chi phi cua mot khoa dao tao ve khoi su kinh doanh",
+          "confidence": 0.9695
+        },
+        {
+          "x": 299.1,
+          "y": 478.9,
+          "text": "va toi da 70% tong chi phi cua mot khoa quan tri doanh nghiep cho doanh",
+          "confidence": 0.9834
+        },
+        {
+          "x": 301.63,
+          "y": 551.18,
+          "text": "nghiep nho va vura;",
+          "confidence": 0.9417
+        },
+        {
+          "x": 387.81,
+          "y": 627.34,
+          "text": "b) Mien hoc phi cho hoc vien cua doanh nghiep nho va vira thuoc dia",
+          "confidence": 0.9749
+        },
+        {
+          "x": 299.1,
+          "y": 682.85,
+          "text": "ban kinh té - xa hoi dac biet kho khan, doanh nghiep nho va vura do phu nu",
+          "confidence": 0.9675
+        },
+        {
+          "x": 301.63,
+          "y": 737.06,
+          "text": "lam chu, doanh nghiep nho va vua su dung nhieu lao dong nu va doanh",
+          "confidence": 0.9621
+        },
+        {
+          "x": 305.43,
+          "y": 792.57,
+          "text": "nghiép nho va vura la doanh nghiep xa hoi khi tham gia kh6a dao tao quan tri",
+          "confidence": 0.9721
+        },
+        {
+          "x": 302.9,
+          "y": 857.11,
+          "text": "doanh nghiep.",
+          "confidence": 0.9959
+        },
+        {
+          "x": 392.88,
+          "y": 938.43,
+          "text": "2. H6 trg dao tao tryc tuyen ve khoi sy kinh doanh va quan tri doanh nghiep",
+          "confidence": 0.9738
+        },
+        {
+          "x": 391.61,
+          "y": 1027.5,
+          "text": "a) Mien phi truy cap va tham gia cac bai giang truc tuyen c6 san tren he",
+          "confidence": 0.9643
+        },
+        {
+          "x": 309.24,
+          "y": 1080.42,
+          "text": "thong dao tao truc tuyen cua Bo Ké hoach va Dau tur va Uy ban nhan dan cap tinh.",
+          "confidence": 0.9773
+        },
+        {
+          "x": 306.7,
+          "y": 1134.64,
+          "text": "Doanh nghiep nho va vua truy cap he thong dao tao truc tuyén de hoc tap theo",
+          "confidence": 0.962
+        },
+        {
+          "x": 309.24,
+          "y": 1191.43,
+          "text": "thoi gian phu hop. He thong dao tao tryc tuyén bao gom nen tang quan tri dao tao",
+          "confidence": 0.9798
+        },
+        {
+          "x": 309.24,
+          "y": 1246.94,
+          "text": "ugAn onn Bueig req Bunp iou gugu ey pa ugAn onn oei oep gue ugu ugkn onn",
+          "confidence": 0.713
+        },
+        {
+          "x": 395.42,
+          "y": 1337.3,
+          "text": "Kinh phi de Bo Ké hoach va Dau tu, Uy ban nhan dan cap tinh xay dung,",
+          "confidence": 0.9746
+        },
+        {
+          "x": 310.5,
+          "y": 1385.06,
+          "text": "duy tri, nang cap he thong dao tao tryrc tuyen; khao sat ve nhu cau dao tao tryc",
+          "confidence": 0.9788
+        },
+        {
+          "x": 311.77,
+          "y": 1448.31,
+          "text": "tuyen, truyen thong, quang ba he thong dao tao tryc tuyen cho doanh nghiep nh?",
+          "confidence": 0.9716
+        },
+        {
+          "x": 310.5,
+          "y": 1501.23,
+          "text": "va vira dugc tong hop trong kinh phi h6 tro doanh nghiep nho va vira hang nam",
+          "confidence": 0.9769
+        },
+        {
+          "x": 311.77,
+          "y": 1555.45,
+          "text": "cua Bo Ké hoach va Dau tu, Uy ban nhan dan cap tinh va nguon kinh phi hop",
+          "confidence": 0.9847
+        },
+        {
+          "x": 313.04,
+          "y": 1610.95,
+          "text": "phap khac (néu co).",
+          "confidence": 0.9822
+        },
+        {
+          "x": 399.22,
+          "y": 1697.44,
+          "text": "b) Mien phi tham gia cac khoa dao tao truc tuyén, tuong tac tryc tiep voi",
+          "confidence": 0.9837
+        },
+        {
+          "x": 316.84,
+          "y": 1756.81,
+          "text": "doanh nghiep nho va vua thong qua cac cong cu day hoc tryc tuyen co san",
+          "confidence": 0.9599
+        },
+        {
+          "x": 315.57,
+          "y": 1808.45,
+          "text": "ung dung tren cac thiet bi dien tur thong minh cua doi tuong duoc dao tao",
+          "confidence": 0.9654
+        },
+        {
+          "x": 315.57,
+          "y": 1866.54,
+          "text": "(Zoom Cloud Meeting, Microsoft Teams, Google Classroom va cac cong cu",
+          "confidence": 0.9887
+        },
+        {
+          "x": 315.57,
+          "y": 1927.2,
+          "text": "khac).",
+          "confidence": 0.9977
+        },
+        {
+          "x": 405.56,
+          "y": 2013.69,
+          "text": "3. H6 tro dao tao tryc tiép tai doanh nghiep nho va vua trong linh vyc",
+          "confidence": 0.9764
+        },
+        {
+          "x": 318.11,
+          "y": 2064.03,
+          "text": "san xuat, che bién",
+          "confidence": 0.946
+        },
+        {
+          "x": 405.56,
+          "y": 2154.39,
+          "text": "dau quop 1en oe op eouy nou no jyd 1yo Suoi %0 ep 1on on 9H (e",
+          "confidence": 0.6219
+        },
+        {
+          "x": 319.38,
+          "y": 2212.48,
+          "text": "nho va vua nhung khong qua 01 khoa/nam/doanh nghiép;",
+          "confidence": 0.9706
+        }
+      ]
+    },
+    {
+      "page": 11,
+      "image": "tmp/pdfs/nd80_2021/page-11.png",
+      "elapsed": [
+        0.822942900005728,
+        0.024952173233032227,
+        4.333172559738159
+      ],
+      "rows": [
+        {
+          "x": 949.12,
+          "y": 78.74,
+          "text": "11",
+          "confidence": 0.9947
+        },
+        {
+          "x": 381.43,
+          "y": 194.91,
+          "text": "b) H6 tro 100% tong chi phi cua mot khoa dao tao tai doanh nghiep nho",
+          "confidence": 0.9845
+        },
+        {
+          "x": 295.96,
+          "y": 245.26,
+          "text": "va vua do phu nu lam chu, doanh nghiep nho va vura sur dung nhieu lao dong",
+          "confidence": 0.9536
+        },
+        {
+          "x": 295.96,
+          "y": 300.76,
+          "text": "nu va doanh nghiep nho va vua la doanh nghiep xa hoi nhung khong qua 01",
+          "confidence": 0.9637
+        },
+        {
+          "x": 297.24,
+          "y": 369.18,
+          "text": "khoa/nam/doanh nghiep.",
+          "confidence": 0.9867
+        },
+        {
+          "x": 389.09,
+          "y": 453.08,
+          "text": "4. H6 tro dao tao nghe",
+          "confidence": 0.9898
+        },
+        {
+          "x": 385.26,
+          "y": 531.82,
+          "text": "H6 tro chi phi dao tao cho nguoi lao dong cua doanh nghiep nho va vira",
+          "confidence": 0.9767
+        },
+        {
+          "x": 299.79,
+          "y": 582.16,
+          "text": "o op q uo ooy do o p q g on op",
+          "confidence": 0.5538
+        },
+        {
+          "x": 298.51,
+          "y": 629.92,
+          "text": "03 thang tro xuong. Cac chi phi con lai do doanh nghiep nho va viua va nguoi",
+          "confidence": 0.9756
+        },
+        {
+          "x": 298.51,
+          "y": 680.27,
+          "text": "lao dong thoa thuan. Nguoi lao dong tham gia khoa dao tao phai dap ung dieu",
+          "confidence": 0.9707
+        },
+        {
+          "x": 295.96,
+          "y": 722.86,
+          "text": "kien da lam viec trong doanh nghiep nho va vura toi thiéu 06 thang lien tuc",
+          "confidence": 0.9678
+        },
+        {
+          "x": 302.34,
+          "y": 795.15,
+          "text": "truoc khi tham gia khoa dao tao.",
+          "confidence": 0.9974
+        },
+        {
+          "x": 873.85,
+          "y": 884.22,
+          "text": "Chuo'ng IV",
+          "confidence": 0.9693
+        },
+        {
+          "x": 426.08,
+          "y": 919.07,
+          "text": "HO TRQ DOANH NGHIEP NHO VA VUA CHUYEN DOI",
+          "confidence": 0.9712
+        },
+        {
+          "x": 432.46,
+          "y": 971.99,
+          "text": "TU HO KINH DOANH, DOANH NGHIEP NHO VA VUA",
+          "confidence": 0.9701
+        },
+        {
+          "x": 387.81,
+          "y": 1022.33,
+          "text": "KHOI NGHIEP SANG TAO, DOANH NGHIEP NHO VA VUA",
+          "confidence": 0.9874
+        },
+        {
+          "x": 440.11,
+          "y": 1072.68,
+          "text": "THAM GIA CUM LIEN KET NGANH, CHUOI GIA TRI",
+          "confidence": 0.9837
+        },
+        {
+          "x": 921.05,
+          "y": 1184.98,
+          "text": "Muc 1",
+          "confidence": 0.9762
+        },
+        {
+          "x": 576.61,
+          "y": 1222.41,
+          "text": "HO TRQ DOANH NGHIEP NHO VA VUA",
+          "confidence": 0.9722
+        },
+        {
+          "x": 619.99,
+          "y": 1279.21,
+          "text": "CHUYEN DOI TU HO KINH DOANH",
+          "confidence": 0.9738
+        },
+        {
+          "x": 394.19,
+          "y": 1379.89,
+          "text": "Dieu 15. H6 tro tu van, huong dan ho so, thi tuc thanh lap doanh nghiep",
+          "confidence": 0.9672
+        },
+        {
+          "x": 396.74,
+          "y": 1467.67,
+          "text": "1. Uy ban nhan dan tinh, thanh pho truc thuoc trung uong (goi chung la",
+          "confidence": 0.981
+        },
+        {
+          "x": 309.99,
+          "y": 1516.72,
+          "text": "Uy ban nhan dan cap tinh) giao So Ké hoach va Dau tu tu van, huong dan",
+          "confidence": 0.9955
+        },
+        {
+          "x": 398.02,
+          "y": 1663.88,
+          "text": "a) Trinh tu, thu tuc, ho so dang ky thanh lap doanh nghiep;",
+          "confidence": 0.9892
+        },
+        {
+          "x": 395.47,
+          "y": 1745.2,
+          "text": "b) Trinh tu, thu tuc, ho so dang ky chung nhan du dieu kien kinh doanh",
+          "confidence": 0.9753
+        },
+        {
+          "x": 313.82,
+          "y": 1803.28,
+          "text": "doi voi cac nganh nghe kinh doanh co dieu kien (néu co).",
+          "confidence": 0.9642
+        },
+        {
+          "x": 396.74,
+          "y": 1888.48,
+          "text": "2. Ho kinh doanh dang ky chuyén d6i thanh doanh nghiep co nhu cau tu",
+          "confidence": 0.9687
+        },
+        {
+          "x": 312.55,
+          "y": 1940.11,
+          "text": "van, huong dan cac noi dung tai khoan 1 Dieu nay, gui de nghi ho trg thong",
+          "confidence": 0.9645
+        },
+        {
+          "x": 309.99,
+          "y": 1991.75,
+          "text": "qua hinh thurc tryc tiép hoac truc tuyen toi So Ké hoach va Dau tur. Ho so de",
+          "confidence": 0.9618
+        },
+        {
+          "x": 311.27,
+          "y": 2045.96,
+          "text": "nghi gom: Ban sao hop le Giay dang ky kinh doanh cua ho kinh doanh; Ban",
+          "confidence": 0.9873
+        },
+        {
+          "x": 312.55,
+          "y": 2102.76,
+          "text": "sao hop lé Giay chung nhan dang ky ma s6 thue; Ban sao hop le chung tur nop",
+          "confidence": 0.9683
+        },
+        {
+          "x": 311.27,
+          "y": 2155.68,
+          "text": "(o ngu) ou oonu euu yogs ueau dou uou ea gnn io oo 'iq uouu yd i",
+          "confidence": 0.5849
+        },
+        {
+          "x": 312.55,
+          "y": 2208.6,
+          "text": "to khai thue trong thoi han 01 nam truoc khi chuyen doi.",
+          "confidence": 0.9826
+        }
+      ]
+    },
+    {
+      "page": 12,
+      "image": "tmp/pdfs/nd80_2021/page-12.png",
+      "elapsed": [
+        0.8147027999948477,
+        0.033052682876586914,
+        5.256925344467163
+      ],
+      "rows": [
+        {
+          "x": 949.25,
+          "y": 68.41,
+          "text": "12",
+          "confidence": 0.9998
+        },
+        {
+          "x": 384.01,
+          "y": 183.3,
+          "text": "Trong thoi han 03 ngay lam viec ke tur ngay nhan duoc ho so de nghi, So",
+          "confidence": 0.9616
+        },
+        {
+          "x": 299.1,
+          "y": 240.09,
+          "text": "Ké hoach va Dau tu c6 trach nhiem tu van, huong dan mien phi cac noi dung",
+          "confidence": 0.9713
+        },
+        {
+          "x": 300.36,
+          "y": 298.18,
+          "text": "quy dinh tai khoan 1 Dieu nay.",
+          "confidence": 0.9745
+        },
+        {
+          "x": 389.08,
+          "y": 362.72,
+          "text": "Dieu 16. Ho trg dang ky doanh nghiep, cong b6 thong tin doanh nghiep",
+          "confidence": 0.9725
+        },
+        {
+          "x": 387.81,
+          "y": 431.14,
+          "text": "Doanh nghiep nho va vua chuyen doi tir ho kinh doanh duoc mien le phi",
+          "confidence": 0.9676
+        },
+        {
+          "x": 305.43,
+          "y": 487.93,
+          "text": "dang ky doanh nghiep lan dau tai co quan dang ky kinh doanh, mien phi cong",
+          "confidence": 0.9796
+        },
+        {
+          "x": 302.9,
+          "y": 534.4,
+          "text": "b6 noi dung dang ky doanh nghiep lan dau tai Cong thong tin dang ky doanh",
+          "confidence": 0.9874
+        },
+        {
+          "x": 309.24,
+          "y": 602.82,
+          "text": "nghiep quoc gia.",
+          "confidence": 0.9766
+        },
+        {
+          "x": 390.35,
+          "y": 655.74,
+          "text": "Dieu 17. Ho trg thu tuc dang ky nganh, nghe kinh doanh co dieu kien",
+          "confidence": 0.9602
+        },
+        {
+          "x": 392.88,
+          "y": 728.03,
+          "text": "Doanh nghiep nho va vua chuyen doi tu ho kinh doanh tiép tuc hoat",
+          "confidence": 0.9744
+        },
+        {
+          "x": 306.7,
+          "y": 779.66,
+          "text": "dong san xuat kinh doanh thuoc nganh, nghe kinh doanh c6 dieu kien ma",
+          "confidence": 0.9788
+        },
+        {
+          "x": 306.7,
+          "y": 828.71,
+          "text": "khong thay doi ve quy mo thi gui de nghi toi co quan quan ly nha nuoc co",
+          "confidence": 0.9913
+        },
+        {
+          "x": 309.24,
+          "y": 879.05,
+          "text": "tham quyen de duoc cap van ban lien quan den dieu kien dau tu kinh doanh.",
+          "confidence": 0.9855
+        },
+        {
+          "x": 392.88,
+          "y": 947.47,
+          "text": "Trong thoi han 03 ngay lam viec ke tiur ngay nhan dugc de nghi cua",
+          "confidence": 0.9657
+        },
+        {
+          "x": 310.5,
+          "y": 1001.68,
+          "text": "dao waiuu yoen g unb unu go oonu euu fi uenb unb oo dau quop",
+          "confidence": 0.6176
+        },
+        {
+          "x": 309.24,
+          "y": 1050.73,
+          "text": "van ban lien quan den dieu kien dau tu kinh doanh cho doanh nghiep.",
+          "confidence": 0.9786
+        },
+        {
+          "x": 399.22,
+          "y": 1132.05,
+          "text": "Dieu 18. H6 tro l phi mon bai",
+          "confidence": 0.9593
+        },
+        {
+          "x": 396.68,
+          "y": 1190.14,
+          "text": "Doanh nghiep nho va vira chuyen doi tir ho kinh doanh duoc mien le phi",
+          "confidence": 0.9471
+        },
+        {
+          "x": 311.77,
+          "y": 1245.65,
+          "text": "mon bai trong thoi han 03 nam ke tur ngay dugc cap Giay chung nhan dang ky",
+          "confidence": 0.9779
+        },
+        {
+          "x": 315.57,
+          "y": 1306.32,
+          "text": "doanh nghiep lan dau.",
+          "confidence": 0.9946
+        },
+        {
+          "x": 395.42,
+          "y": 1360.53,
+          "text": "Dieu 19. Ho tro tu van, huong dan tha tuc hanh chinh thue va ché",
+          "confidence": 0.9672
+        },
+        {
+          "x": 316.84,
+          "y": 1428.94,
+          "text": "do ke toan",
+          "confidence": 0.9864
+        },
+        {
+          "x": 401.75,
+          "y": 1485.74,
+          "text": "1. Doanh nghiep nho va via chuyen doi tu ho kinh doanh dugc tu van,",
+          "confidence": 0.9665
+        },
+        {
+          "x": 315.57,
+          "y": 1537.37,
+          "text": "huong dan mien phi ve thu tuc hanh chinh thué va che do ke toan trong thoi",
+          "confidence": 0.9717
+        },
+        {
+          "x": 315.57,
+          "y": 1592.88,
+          "text": "han 03 nam ke tiur ngay duoc cap Giay chung nhan dang ky doanh nghiep",
+          "confidence": 0.9611
+        },
+        {
+          "x": 316.84,
+          "y": 1647.09,
+          "text": "lan dau.",
+          "confidence": 0.9709
+        },
+        {
+          "x": 404.29,
+          "y": 1714.22,
+          "text": "2. Uy ban nhan dan cap tinh giao So Tai chinh thyc hien tu van, huong",
+          "confidence": 0.9825
+        },
+        {
+          "x": 319.38,
+          "y": 1759.4,
+          "text": "dan mien phi ve thu tuc hanh chinh thue va che do ké toan quy dinh tai khoan 1",
+          "confidence": 0.9592
+        },
+        {
+          "x": 316.84,
+          "y": 1814.9,
+          "text": "Dieu nay.",
+          "confidence": 0.9532
+        },
+        {
+          "x": 934.05,
+          "y": 1915.59,
+          "text": "Muc 2",
+          "confidence": 0.996
+        },
+        {
+          "x": 343.45,
+          "y": 1954.31,
+          "text": "HO TRO DOANH NGHIEP NHO VA VUA KHOI NGHIEP SANG TAO",
+          "confidence": 0.9801
+        },
+        {
+          "x": 409.36,
+          "y": 2053.71,
+          "text": "Dieu 20. Tieu chi xac dinh doanh nghiep nho va vira khoi nghiep",
+          "confidence": 0.9715
+        },
+        {
+          "x": 318.11,
+          "y": 2106.63,
+          "text": "sang tao",
+          "confidence": 0.9938
+        },
+        {
+          "x": 408.09,
+          "y": 2184.08,
+          "text": "Doanh nghiep nho va vira khoi nghiep sang tao quy dinh tai khoan 2",
+          "confidence": 0.9918
+        },
+        {
+          "x": 324.44,
+          "y": 2237.0,
+          "text": "Dieu 3 Luat H6 tro doanh nghiép nho va vua duoc xac dinh theo mot trong",
+          "confidence": 0.9607
+        },
+        {
+          "x": 325.71,
+          "y": 2288.64,
+          "text": "cac tiéu chi sau day:",
+          "confidence": 0.9786
+        }
+      ]
+    },
+    {
+      "page": 13,
+      "image": "tmp/pdfs/nd80_2021/page-13.png",
+      "elapsed": [
+        0.9524124000017764,
+        0.02815532684326172,
+        5.117606163024902
+      ],
+      "rows": [
+        {
+          "x": 950.39,
+          "y": 80.41,
+          "text": "13",
+          "confidence": 0.9995
+        },
+        {
+          "x": 383.98,
+          "y": 199.72,
+          "text": "1. San xuat, kinh doanh san pham hinh thanh tir sang che, giai phap htu",
+          "confidence": 0.983
+        },
+        {
+          "x": 299.79,
+          "y": 247.7,
+          "text": "ich, kieu dang cong nghiep, thiet ke bo tri mach tich hop ban dan, phan mem",
+          "confidence": 0.9741
+        },
+        {
+          "x": 302.34,
+          "y": 306.06,
+          "text": "may tinh, ung dung trén dien thoai di dong, dien toan dam may, giong vat",
+          "confidence": 0.9845
+        },
+        {
+          "x": 299.79,
+          "y": 359.23,
+          "text": "nuoi moi, giong cay trong moi, giong thuy san moi, giong cay lam nghiep moi.",
+          "confidence": 0.9768
+        },
+        {
+          "x": 386.54,
+          "y": 443.53,
+          "text": "nu senx ues ug np oeo n eu oei oonp wgud ues yueop quly tenx ues 7",
+          "confidence": 0.8219
+        },
+        {
+          "x": 302.34,
+          "y": 495.41,
+          "text": "nghiem, san pham mau va hoan thien cong nghe; san xuat, kinh doanh san",
+          "confidence": 0.9712
+        },
+        {
+          "x": 303.62,
+          "y": 547.28,
+          "text": "pham dat giai tai cac cuoc thi khoi nghiep, khoi nghiep doi moi sang tao quoc",
+          "confidence": 0.967
+        },
+        {
+          "x": 301.06,
+          "y": 596.56,
+          "text": "gia, quoc te va cac giai thuong ve khoa hoc va cong nghe theo quy dinh cua",
+          "confidence": 0.9818
+        },
+        {
+          "x": 304.89,
+          "y": 658.81,
+          "text": "phap luat ve giai thuong khoa hoc va cong nghe.",
+          "confidence": 0.978
+        },
+        {
+          "x": 387.81,
+          "y": 737.92,
+          "text": "3. Co giai phap cong nghe hoac mo hinh kinh doanh moi co kha nang",
+          "confidence": 0.9816
+        },
+        {
+          "x": 302.34,
+          "y": 784.61,
+          "text": "uall weu zo Suon %oz ngiun igi iep daysu queop eno ny queop Suonn Suei",
+          "confidence": 0.745
+        },
+        {
+          "x": 303.62,
+          "y": 844.27,
+          "text": "tiép tren co so phan tich cac yéu t6 thi phan, kha nang phat trién cua san",
+          "confidence": 0.9634
+        },
+        {
+          "x": 303.62,
+          "y": 898.73,
+          "text": "pham, dich vu va kha nang canh tranh cua doanh nghiep.",
+          "confidence": 0.9752
+        },
+        {
+          "x": 389.09,
+          "y": 979.14,
+          "text": "Dieu 21. Phuong thurc lua chon doanh nghiep nho va vua khoi",
+          "confidence": 0.9531
+        },
+        {
+          "x": 308.72,
+          "y": 1038.8,
+          "text": "nghiop sang tao dé ho tro",
+          "confidence": 0.9441
+        },
+        {
+          "x": 389.09,
+          "y": 1117.91,
+          "text": "Can cur tieu chi quy dinh tai Dieu 20 Nghi dinh nay va dieu kien h6 tro quy",
+          "confidence": 0.959
+        },
+        {
+          "x": 308.72,
+          "y": 1172.38,
+          "text": "dinh tai khoan 1 Dieu 17 Luat H6 trg doanh nghiep nho va vura, co quan, to",
+          "confidence": 0.9616
+        },
+        {
+          "x": 309.99,
+          "y": 1224.25,
+          "text": "chuc h6 trg doanh nghiep nho va vua lua chon doanh nghiep de h6 trg theo",
+          "confidence": 0.9497
+        },
+        {
+          "x": 308.72,
+          "y": 1286.5,
+          "text": "mot trong cac phuong thiurc sau day:",
+          "confidence": 0.9751
+        },
+        {
+          "x": 394.19,
+          "y": 1356.53,
+          "text": "1. Lya chon cac doanh nghiep co giai thuong cap quoc gia, quoc té ve",
+          "confidence": 0.9832
+        },
+        {
+          "x": 306.17,
+          "y": 1409.7,
+          "text": "khi nghiep sang tao hoac san pham, dy an ve doi moi sang tao; hoac durgc",
+          "confidence": 0.979
+        },
+        {
+          "x": 312.55,
+          "y": 1468.06,
+          "text": "cap van bang bao ho doi voi sang che; hoac dugc cap Giay chung nhan doanh",
+          "confidence": 0.9756
+        },
+        {
+          "x": 309.99,
+          "y": 1521.23,
+          "text": "nghiep khoa hoc cong nghe, Giay churng nhan doanh nghiep cong nghe cao,",
+          "confidence": 0.9749
+        },
+        {
+          "x": 309.99,
+          "y": 1578.3,
+          "text": "doanh nghiep ung dung cong nghe cao.",
+          "confidence": 0.9876
+        },
+        {
+          "x": 395.47,
+          "y": 1653.52,
+          "text": "2. Lya chon cac doanh nghiep da dugc dau tu hoac cam ket dau tu boi",
+          "confidence": 0.9784
+        },
+        {
+          "x": 309.99,
+          "y": 1704.09,
+          "text": "cac quy dau tu khoi nghiep sang tao; durgc ho trg hoac cam ket ho trg boi cac",
+          "confidence": 0.9611
+        },
+        {
+          "x": 308.72,
+          "y": 1758.56,
+          "text": "khu lam viec chung, cac to churc h6 trg khoi nghiep sang tao, to chuc cung",
+          "confidence": 0.9714
+        },
+        {
+          "x": 313.82,
+          "y": 1811.73,
+          "text": "cap dich vu, co so uom tao, co so thuc day kinh doanh, cac trung tam doi moi",
+          "confidence": 0.9834
+        },
+        {
+          "x": 311.27,
+          "y": 1864.91,
+          "text": "sang tao theo quy dinh cua phap luat ve dau tu.",
+          "confidence": 0.982
+        },
+        {
+          "x": 396.74,
+          "y": 1947.91,
+          "text": "3. Lua chon thong qua Hoi dong:",
+          "confidence": 0.9913
+        },
+        {
+          "x": 399.29,
+          "y": 2038.69,
+          "text": "Co quan, to churc h6 tro doanh nghiep nho va vua c6 the thanh lap Hoi",
+          "confidence": 0.9474
+        },
+        {
+          "x": 316.37,
+          "y": 2091.86,
+          "text": "dong de lya chon doanh nghiep khoi nghiep sang tao theo cac tieu chi quy",
+          "confidence": 0.9836
+        },
+        {
+          "x": 315.1,
+          "y": 2146.33,
+          "text": "dinh tai Dieu 20 Nghi dinh nay, dam bao nguyen tac sau:",
+          "confidence": 0.9772
+        },
+        {
+          "x": 399.29,
+          "y": 2231.92,
+          "text": "a) So luong thanh vien va co che lam viec cua Hoi dong do co quan",
+          "confidence": 0.9654
+        },
+        {
+          "x": 318.92,
+          "y": 2290.28,
+          "text": "thanh lap Hoi dong quyét dinh;",
+          "confidence": 0.9782
+        }
+      ]
+    },
+    {
+      "page": 14,
+      "image": "tmp/pdfs/nd80_2021/page-14.png",
+      "elapsed": [
+        0.8049045000079786,
+        0.024118900299072266,
+        3.2118024826049805
+      ],
+      "rows": [
+        {
+          "x": 950.52,
+          "y": 64.54,
+          "text": "14",
+          "confidence": 0.9994
+        },
+        {
+          "x": 385.28,
+          "y": 179.42,
+          "text": "b) Thanh vien cua Hoi dong co toi thieu 50% la cac chuyen gia tu van",
+          "confidence": 0.9727
+        },
+        {
+          "x": 305.43,
+          "y": 236.22,
+          "text": "doc lap. Cac thanh vien con lai la dai dien cua co quan, to churc h6 tro doanh",
+          "confidence": 0.9537
+        },
+        {
+          "x": 302.9,
+          "y": 290.44,
+          "text": "nghiep nho va vira hoat dong theo co che kiem nhiem;",
+          "confidence": 0.9722
+        },
+        {
+          "x": 390.35,
+          "y": 375.63,
+          "text": "c) Kinh phi hoat dong cua Hoi dong dugc tong hop chung trong kinh phi",
+          "confidence": 0.9724
+        },
+        {
+          "x": 306.7,
+          "y": 427.26,
+          "text": "quop on qu onuo gh uenb oo eno ena ta oqu dotyau queop on gy fI uenb",
+          "confidence": 0.7655
+        },
+        {
+          "x": 306.7,
+          "y": 494.39,
+          "text": "nghiép nho va vura.",
+          "confidence": 0.9227
+        },
+        {
+          "x": 396.68,
+          "y": 573.13,
+          "text": "Dicu 22. Noi dung h6 tro doanh nghiep nh6 va vura khoi nghiep sang tao",
+          "confidence": 0.9694
+        },
+        {
+          "x": 399.22,
+          "y": 659.61,
+          "text": "1. H6 tro sur dung co so ky thuat, co so uom tao, khu lam viec chung",
+          "confidence": 0.9864
+        },
+        {
+          "x": 394.15,
+          "y": 744.81,
+          "text": "a) H6 tro 100% chi phi sur dung trang thiét bi tai co so ky thuat, co so",
+          "confidence": 0.9729
+        },
+        {
+          "x": 309.24,
+          "y": 800.31,
+          "text": "uom tao, khu lam viec chung nhung khong qua 20 triéu dong/nam/doanh nghiép;",
+          "confidence": 0.9745
+        },
+        {
+          "x": 395.42,
+          "y": 886.8,
+          "text": "b) H6 tro toi da 50% chi phi thue mat bang tai cac co so uom tao, khu",
+          "confidence": 0.9685
+        },
+        {
+          "x": 309.24,
+          "y": 941.01,
+          "text": "lam viec chung nhung khong qua 5 trieu dong/thang/doanh nghiep. Thoi gian",
+          "confidence": 0.9923
+        },
+        {
+          "x": 307.97,
+          "y": 991.35,
+          "text": "h6 trg toi da la 03 nam ke tu ngay doanh nghiep ky hop dong thue mat bang.",
+          "confidence": 0.9711
+        },
+        {
+          "x": 399.22,
+          "y": 1077.84,
+          "text": "2. H8 trg tur van so huu tri tue, khai thac va phat trien tai san tri tu?",
+          "confidence": 0.954
+        },
+        {
+          "x": 397.95,
+          "y": 1163.03,
+          "text": "a) H6 trg 100% gia tri hop dong tu van ve thu tuc xac lap, chuyen giao,",
+          "confidence": 0.9715
+        },
+        {
+          "x": 311.77,
+          "y": 1219.83,
+          "text": "khai thac va bao ve quyen so htru tri tue o trong nuoc nhung khong qua 30",
+          "confidence": 0.9729
+        },
+        {
+          "x": 315.57,
+          "y": 1279.21,
+          "text": "triéu dong/hop dong/nam/doanh nghiep;",
+          "confidence": 0.9826
+        },
+        {
+          "x": 399.22,
+          "y": 1354.08,
+          "text": "b) Ho tro 100% gia tri hop dong tur van ve xay dung ban mo ta sang che,",
+          "confidence": 0.9689
+        },
+        {
+          "x": 310.5,
+          "y": 1407.0,
+          "text": "ban thiét ké kieu dang cong nghiep, ban thiét ké he thong nhan dien thuong",
+          "confidence": 0.962
+        },
+        {
+          "x": 315.57,
+          "y": 1465.09,
+          "text": "hiéu nhung khong qua 30 trieu dong/hop dong/nam/doanh nghiép;",
+          "confidence": 0.9808
+        },
+        {
+          "x": 403.02,
+          "y": 1550.28,
+          "text": "c) H6 tro 10o% gia tri hop dong tu van quan ly va phat trién cac san",
+          "confidence": 0.9684
+        },
+        {
+          "x": 316.84,
+          "y": 1605.79,
+          "text": "pham, dich vu dugc bao ho quyen so huu tri tue o trong nuoc nhung khong",
+          "confidence": 0.9629
+        },
+        {
+          "x": 318.11,
+          "y": 1657.42,
+          "text": "qua 50 trieu dong/hop dong/nam/doanh nghiep;",
+          "confidence": 0.9789
+        },
+        {
+          "x": 406.82,
+          "y": 1740.03,
+          "text": "d) H6 trg toi da 50% gia tri hop dong tu van xac lap chuyén giao, khai",
+          "confidence": 0.9912
+        },
+        {
+          "x": 316.84,
+          "y": 1792.96,
+          "text": "thac va bao ve quyen so htu tri tue o nuoc ngoai nhung khong qua 50 trieu",
+          "confidence": 0.9687
+        },
+        {
+          "x": 319.38,
+          "y": 1844.59,
+          "text": "dong/hop dong/nam/doanh nghiep.",
+          "confidence": 0.9958
+        },
+        {
+          "x": 406.82,
+          "y": 1932.37,
+          "text": "3. H6 trg thuc hien cac thu tuc ve tieu chuan, quy chuan ky thuat, do",
+          "confidence": 0.9607
+        },
+        {
+          "x": 319.38,
+          "y": 1985.29,
+          "text": "luong, chat luong; thur nghiem, hoan thien san pham, mo hinh kinh doanh moi",
+          "confidence": 0.9798
+        },
+        {
+          "x": 405.56,
+          "y": 2065.32,
+          "text": "a) H6 trg 100% gia tri hop dong tu van de doanh nghiep xay dung, ap",
+          "confidence": 0.9837
+        },
+        {
+          "x": 323.18,
+          "y": 2124.7,
+          "text": "dung tieu chuan co so nhung khong qua 10 trieu dong/hop dong/nam/doanh",
+          "confidence": 0.9801
+        },
+        {
+          "x": 319.38,
+          "y": 2176.33,
+          "text": "nghiep va xay dung, ap dung he thong quan ly chat luong nhung khong qua",
+          "confidence": 0.9872
+        },
+        {
+          "x": 320.64,
+          "y": 2225.39,
+          "text": "50 trieu dong/hop dong/nam/doanh nghiep;",
+          "confidence": 0.9781
+        }
+      ]
+    },
+    {
+      "page": 15,
+      "image": "tmp/pdfs/nd80_2021/page-15.png",
+      "elapsed": [
+        0.6994970999949146,
+        0.019917726516723633,
+        3.735621213912964
+      ],
+      "rows": [
+        {
+          "x": 946.57,
+          "y": 69.7,
+          "text": "15",
+          "confidence": 0.9998
+        },
+        {
+          "x": 382.71,
+          "y": 188.46,
+          "text": "b) H6 tro toi da 50% chi phi thu nghiem mau phuong tien do; chi phi",
+          "confidence": 0.9864
+        },
+        {
+          "x": 303.62,
+          "y": 242.68,
+          "text": "kiem dinh, hieu chuan, thu nghiem phuong tien do, chuan do lurong; chi phi",
+          "confidence": 0.9755
+        },
+        {
+          "x": 302.34,
+          "y": 295.6,
+          "text": "cap dau dinh luong cua hang dong goi san, phu hop voi yeu cau ky thuat do",
+          "confidence": 0.9823
+        },
+        {
+          "x": 301.06,
+          "y": 358.85,
+          "text": "luong nhung khong qua 10 trieu dong/nam/doanh nghiep;",
+          "confidence": 0.9752
+        },
+        {
+          "x": 387.81,
+          "y": 441.46,
+          "text": "c) H6 tro toi da 50% chi phi thur nghiem san pham moi tai cac don vi,",
+          "confidence": 0.9616
+        },
+        {
+          "x": 301.06,
+          "y": 496.97,
+          "text": "to churc thir nghiem san pham hang hoa nhung khong qua 30 trieu",
+          "confidence": 0.955
+        },
+        {
+          "x": 309.99,
+          "y": 571.84,
+          "text": "dong/nam/doanh nghiep;",
+          "confidence": 0.9917
+        },
+        {
+          "x": 389.09,
+          "y": 640.25,
+          "text": "d) H6 trg toi da 50% gia tri hop dong tu van hoan thien san pham moi,",
+          "confidence": 0.9822
+        },
+        {
+          "x": 307.44,
+          "y": 698.34,
+          "text": "dich vu moi, mo hinh kinh doanh moi, cong nghe m6i nhung khong qua",
+          "confidence": 0.9798
+        },
+        {
+          "x": 307.44,
+          "y": 764.17,
+          "text": "50 trieu dong/hop dong/nam/doanh nghiep.",
+          "confidence": 0.9887
+        },
+        {
+          "x": 394.19,
+          "y": 854.53,
+          "text": "4. H6 trg cong nghé",
+          "confidence": 0.9671
+        },
+        {
+          "x": 394.19,
+          "y": 931.98,
+          "text": "Ho tro toi da 50% gia tri hop dong tur van tim kiem, lya chon, giai ma va",
+          "confidence": 0.9605
+        },
+        {
+          "x": 311.27,
+          "y": 1053.31,
+          "text": "dong/hop dong/nam/doanh nghiep.",
+          "confidence": 0.9923
+        },
+        {
+          "x": 399.29,
+          "y": 1143.67,
+          "text": "5. H6 trg dao tao, huan luyén chuyen sau",
+          "confidence": 0.9645
+        },
+        {
+          "x": 398.02,
+          "y": 1224.99,
+          "text": "Buon ngs uaAnyo on op gouy oo eg w yd gyo %os ep in on qh (e",
+          "confidence": 0.6325
+        },
+        {
+          "x": 311.27,
+          "y": 1277.92,
+          "text": "(ud us ui sud up Kex qa dnu quop no una ooy oo oon",
+          "confidence": 0.5229
+        },
+        {
+          "x": 311.27,
+          "y": 1329.55,
+          "text": "thuong mai hoa san pham; phat trien thuong mai dien tur; goi von dau tu; phat",
+          "confidence": 0.9843
+        },
+        {
+          "x": 311.27,
+          "y": 1385.06,
+          "text": "trién thi truong; két noi mang luroi khoi nghiep voi cac t6 chuc, ca nhan",
+          "confidence": 0.9665
+        },
+        {
+          "x": 313.82,
+          "y": 1441.85,
+          "text": "nghién cuu khoa hoc nhung khong qua 5 triéu dong/hoc vien/nam va khong",
+          "confidence": 0.9866
+        },
+        {
+          "x": 315.1,
+          "y": 1503.81,
+          "text": "qua 03 hoc vien/doanh nghiep/nam;",
+          "confidence": 0.9796
+        },
+        {
+          "x": 399.29,
+          "y": 1586.43,
+          "text": "b) Ho tro toi da 50% chi phi tham gia cac khoa dao tao, huan luyen",
+          "confidence": 0.9828
+        },
+        {
+          "x": 317.65,
+          "y": 1638.06,
+          "text": "chuyen sau ngan han o nuoc ngoai nhung khong qua 50 trieu dong/hoc",
+          "confidence": 0.9708
+        },
+        {
+          "x": 317.65,
+          "y": 1701.31,
+          "text": "vien/nam va khong qua 02 hoc vien/doanh nghiép/nam.",
+          "confidence": 0.9801
+        },
+        {
+          "x": 400.57,
+          "y": 1778.76,
+          "text": "6. H6 trg ve thong tin, truyen thong, xuc tien thurong mai, ket noi mang",
+          "confidence": 0.9595
+        },
+        {
+          "x": 318.92,
+          "y": 1852.34,
+          "text": "luoi khoi nghiep sang tao",
+          "confidence": 0.9757
+        },
+        {
+          "x": 403.12,
+          "y": 1925.91,
+          "text": "a) Mien phi tra cuu thong tin ve he thong cac tieu chuan, quy chuan",
+          "confidence": 0.9829
+        },
+        {
+          "x": 318.92,
+          "y": 1987.87,
+          "text": "trong nuoc va quoc té; cac sang ché, thong tin cong nghe, két qua nghien curu",
+          "confidence": 0.9692
+        },
+        {
+          "x": 317.65,
+          "y": 2039.51,
+          "text": "khoa hoc; thong tin ket noi mang luoi khoi nghiep sang tao, thu hut dau tu tu",
+          "confidence": 0.9713
+        },
+        {
+          "x": 318.92,
+          "y": 2097.59,
+          "text": "cac quy dau tu khoi nghiep sang tao tai Cong thong tin va cac trang thong tin",
+          "confidence": 0.9953
+        },
+        {
+          "x": 320.2,
+          "y": 2147.94,
+          "text": "ueuu ueq An 'nyd quu oony uenb o 'gq suesu uenb o 'gq ogo eno m uip",
+          "confidence": 0.7404
+        },
+        {
+          "x": 317.65,
+          "y": 2207.31,
+          "text": "dan cap tinh;",
+          "confidence": 0.996
+        }
+      ]
+    },
+    {
+      "page": 16,
+      "image": "tmp/pdfs/nd80_2021/page-16.png",
+      "elapsed": [
+        0.7068980000040028,
+        0.022549152374267578,
+        3.996077299118042
+      ],
+      "rows": [
+        {
+          "x": 967.0,
+          "y": 68.41,
+          "text": "16",
+          "confidence": 0.9999
+        },
+        {
+          "x": 397.95,
+          "y": 193.62,
+          "text": "b) H6 trg toi da 50% gia tri hop dong tu van dang ky thanh cong tai",
+          "confidence": 0.9776
+        },
+        {
+          "x": 310.5,
+          "y": 246.55,
+          "text": "Sunqu yh oonb m ueip yeu guony ues oo uan na yoip ‘ueud ues ueq ueouy",
+          "confidence": 0.762
+        },
+        {
+          "x": 311.77,
+          "y": 303.34,
+          "text": "khong qua 100 trieu dong/hop dong/nam/doanh nghiep;",
+          "confidence": 0.98
+        },
+        {
+          "x": 400.49,
+          "y": 378.21,
+          "text": "c) H6 tro toi da 50% chi phi duy tri tai khoan trén cac san thuong mai",
+          "confidence": 0.9748
+        },
+        {
+          "x": 315.57,
+          "y": 431.14,
+          "text": "dien tur trong nuoc va quoc té nhung khong qua 50 triéu dong/nam/doanh",
+          "confidence": 0.972
+        },
+        {
+          "x": 311.77,
+          "y": 477.61,
+          "text": "nghiep va khong qua 02 nam ke tu thoi diem doanh nghiep dang ky thanh",
+          "confidence": 0.9941
+        },
+        {
+          "x": 314.31,
+          "y": 533.11,
+          "text": "cong tai khoan tren san thuong mai dien tu;",
+          "confidence": 0.9604
+        },
+        {
+          "x": 400.49,
+          "y": 596.36,
+          "text": "d) Ho trg chi phi thue dia diem, thiet ke va dan dung gian hang, van",
+          "confidence": 0.972
+        },
+        {
+          "x": 318.11,
+          "y": 658.32,
+          "text": "chuyen san pham trung bay, chi phi di lai, chi phi an, ? cho dai dien cua",
+          "confidence": 0.9794
+        },
+        {
+          "x": 314.31,
+          "y": 702.21,
+          "text": "uu j un u ox n un  s  w dnu qo",
+          "confidence": 0.5292
+        },
+        {
+          "x": 311.77,
+          "y": 748.68,
+          "text": "qua 30 trieu dong/nam/doanh nghiep d6i voi su kien to churc trong nuoc",
+          "confidence": 0.9588
+        },
+        {
+          "x": 314.31,
+          "y": 800.31,
+          "text": "va khong qua 50 trieu dong/nam/doanh nghiép d6i voi su kien t6 churc 6",
+          "confidence": 0.939
+        },
+        {
+          "x": 311.77,
+          "y": 844.2,
+          "text": "nuoc ngoai;",
+          "confidence": 0.9973
+        },
+        {
+          "x": 397.95,
+          "y": 911.32,
+          "text": "d) Ho trg toi da 50% chi phi tham gia cac cuoc thi quoc té ve khoi",
+          "confidence": 0.9603
+        },
+        {
+          "x": 313.04,
+          "y": 973.28,
+          "text": "nghiep sang tao nhung khong qua 30 triéu dong/cuoc thi/nam/doanh nghiép.",
+          "confidence": 0.9775
+        },
+        {
+          "x": 927.71,
+          "y": 1070.1,
+          "text": "Muc 3",
+          "confidence": 0.9886
+        },
+        {
+          "x": 585.52,
+          "y": 1113.98,
+          "text": "HO TRO DOANH NGHIEP NHO VA VUA",
+          "confidence": 0.9634
+        },
+        {
+          "x": 452.45,
+          "y": 1163.03,
+          "text": "THAM GIA CUM LIEN KET NGANH, CHUOI GIA TR!",
+          "confidence": 0.9728
+        },
+        {
+          "x": 313.04,
+          "y": 1317.93,
+          "text": "nghiep nho va vira tham gia cum lien ket nganh de ho tro",
+          "confidence": 0.9546
+        },
+        {
+          "x": 400.49,
+          "y": 1390.22,
+          "text": "nn oo lou uop un dep s qup ox oonp yuu ney u wn '1",
+          "confidence": 0.5714
+        },
+        {
+          "x": 309.24,
+          "y": 1439.27,
+          "text": "sau day:",
+          "confidence": 0.9919
+        },
+        {
+          "x": 396.68,
+          "y": 1515.43,
+          "text": "a) Co cac doanh nghiep lien ket san xuat, kinh doanh trong cung nganh,",
+          "confidence": 0.9827
+        },
+        {
+          "x": 314.31,
+          "y": 1565.77,
+          "text": "linh vyc hoac trong cac nganh, linh vyrc co lien quan den nhau, vira canh tranh",
+          "confidence": 0.9619
+        },
+        {
+          "x": 316.84,
+          "y": 1617.41,
+          "text": "vua hop tac voi nhau;",
+          "confidence": 0.9897
+        },
+        {
+          "x": 395.42,
+          "y": 1687.11,
+          "text": "b) C6 toi thieu 10 doanh nghiep cung hop tac va canh tranh trong mot",
+          "confidence": 0.9829
+        },
+        {
+          "x": 314.31,
+          "y": 1743.91,
+          "text": "dia gioi hanh chinh xac dinh;",
+          "confidence": 0.9868
+        },
+        {
+          "x": 397.95,
+          "y": 1811.03,
+          "text": "c) C6 sy tham gia cua cac to chuc ho trg doanh nghiep (cac vien nghien",
+          "confidence": 0.9779
+        },
+        {
+          "x": 311.77,
+          "y": 1862.66,
+          "text": "curu, truong dai hoc, cao dang, to chuc hiep hoi va to churc lien quan khac).",
+          "confidence": 0.9749
+        },
+        {
+          "x": 397.95,
+          "y": 1942.69,
+          "text": "2. Doanh nghiep nho va vua tham gia cum lien két nganh dugc lua chon",
+          "confidence": 0.9599
+        },
+        {
+          "x": 310.5,
+          "y": 1987.87,
+          "text": "h8 tro khi dap ung mot trong cac tieu chi sau day:",
+          "confidence": 0.9772
+        },
+        {
+          "x": 399.22,
+          "y": 2074.36,
+          "text": "a) Co hop dong mua chung nguyen vat lieu dau vao;",
+          "confidence": 0.9869
+        },
+        {
+          "x": 399.22,
+          "y": 2162.13,
+          "text": "b) C6 hop dong ban chung san pham;",
+          "confidence": 0.9854
+        },
+        {
+          "x": 395.42,
+          "y": 2242.17,
+          "text": "c) C6 hop dong mua ban, hop tac lien ket gitra cac doanh nghiep trong",
+          "confidence": 0.9735
+        },
+        {
+          "x": 313.04,
+          "y": 2296.38,
+          "text": "cum lien ket nganh;",
+          "confidence": 0.9718
+        }
+      ]
+    },
+    {
+      "page": 17,
+      "image": "tmp/pdfs/nd80_2021/page-17.png",
+      "elapsed": [
+        0.7217992000078084,
+        0.018999576568603516,
+        3.21659779548645
+      ],
+      "rows": [
+        {
+          "x": 972.08,
+          "y": 77.45,
+          "text": "17",
+          "confidence": 0.9997
+        },
+        {
+          "x": 408.22,
+          "y": 206.53,
+          "text": "d) Cung xay dung va sur dung thuong hieu.",
+          "confidence": 0.9696
+        },
+        {
+          "x": 400.57,
+          "y": 286.56,
+          "text": "Dicu 24. Tieu chi xac dinh chuoi gia tri va lya chon doanh nghiep",
+          "confidence": 0.9706
+        },
+        {
+          "x": 316.37,
+          "y": 336.91,
+          "text": "nho va vira tham gia chuoi gia tri de ho trg",
+          "confidence": 0.9397
+        },
+        {
+          "x": 408.22,
+          "y": 431.14,
+          "text": ":ep nes jyo nen oeo yoy guop sun dep juy yuip oex oonp in pi yonu '1",
+          "confidence": 0.7403
+        },
+        {
+          "x": 403.12,
+          "y": 513.75,
+          "text": "a) San xuat, phan phoi san pham dén nguci tieu dung;",
+          "confidence": 0.9438
+        },
+        {
+          "x": 404.4,
+          "y": 606.69,
+          "text": "b) Co cac doanh nghiep dau chuoi trong chuoi gia tri;",
+          "confidence": 0.9724
+        },
+        {
+          "x": 400.57,
+          "y": 694.46,
+          "text": "c) Co cac doanh nghiep nho va vua co tiem nang cung ung san pham,",
+          "confidence": 0.974
+        },
+        {
+          "x": 318.92,
+          "y": 748.68,
+          "text": "dich vu cho doanh nghiep dau.chuoi.",
+          "confidence": 0.9635
+        },
+        {
+          "x": 400.57,
+          "y": 833.87,
+          "text": "2. Doanh nghiep nho va via tham gia chuoi gia tri duoc lua chon h6 tro",
+          "confidence": 0.954
+        },
+        {
+          "x": 316.37,
+          "y": 890.67,
+          "text": "khi dap ung mot trong cac tieu chi sau day:",
+          "confidence": 0.9638
+        },
+        {
+          "x": 403.12,
+          "y": 975.86,
+          "text": "a) La doanh nghiep dau chuoi trong chuoi gia tri;",
+          "confidence": 0.9783
+        },
+        {
+          "x": 401.84,
+          "y": 1059.77,
+          "text": "p danyu yuop oo ioa ny ul 'ni doy uq n ugp doy o (q",
+          "confidence": 0.6207
+        },
+        {
+          "x": 315.1,
+          "y": 1110.11,
+          "text": "chuoi;",
+          "confidence": 0.9824
+        },
+        {
+          "x": 401.84,
+          "y": 1199.18,
+          "text": "c) Duoc doanh nghiep dau chudi hoac co quan, to chuc ho trg doanh",
+          "confidence": 0.9544
+        },
+        {
+          "x": 317.65,
+          "y": 1257.27,
+          "text": "nghiép nho va vura danh gia c6 tiém nang tr? thanh nha cung ung cho doanh",
+          "confidence": 0.9627
+        },
+        {
+          "x": 317.65,
+          "y": 1305.03,
+          "text": "nghiep dau chuoi.",
+          "confidence": 0.9767
+        },
+        {
+          "x": 400.57,
+          "y": 1390.22,
+          "text": "Dieu 25. Noi dung ho trg doanh nghiep nho va vira tham gia cum",
+          "confidence": 0.9544
+        },
+        {
+          "x": 317.65,
+          "y": 1440.56,
+          "text": "lien ket nganh, chuoi gia tri",
+          "confidence": 0.975
+        },
+        {
+          "x": 404.4,
+          "y": 1525.76,
+          "text": "1. H6 tro dao tao",
+          "confidence": 0.978
+        },
+        {
+          "x": 401.84,
+          "y": 1614.82,
+          "text": "a) H6 trg toi da 50% chi phi to chuc kh6a dao tao nang cao trinh do cong",
+          "confidence": 0.958
+        },
+        {
+          "x": 317.65,
+          "y": 1672.91,
+          "text": "enb guouy aunu dnyu quop 1en nes unyo nnx ues nny y yu",
+          "confidence": 0.5559
+        },
+        {
+          "x": 317.65,
+          "y": 1720.67,
+          "text": "triéu dong/khoa/nam/doanh nghiep;",
+          "confidence": 0.9717
+        },
+        {
+          "x": 400.57,
+          "y": 1804.58,
+          "text": "b) H6 trg toi da 50% chi phi dao tao cho hoc vien cua doanh nghiep khi",
+          "confidence": 0.9657
+        },
+        {
+          "x": 316.37,
+          "y": 1861.37,
+          "text": "tham gia cac khoa dao tao chuyen sau theo nhu cau phat trién cua nganh,",
+          "confidence": 0.9678
+        },
+        {
+          "x": 315.1,
+          "y": 1911.71,
+          "text": "chuoi gia tri nhung khong qua 10 trieu dong/hoc vien/nam va khong qua 03",
+          "confidence": 0.9855
+        },
+        {
+          "x": 313.82,
+          "y": 1965.93,
+          "text": "hoc vien/doanh nghiép/nam.",
+          "confidence": 0.9721
+        },
+        {
+          "x": 403.12,
+          "y": 2053.71,
+          "text": "2. H6 tro nang cao nang lyrc lien ket san xuat va kinh doanh",
+          "confidence": 0.9676
+        },
+        {
+          "x": 400.57,
+          "y": 2142.77,
+          "text": "a) H6 trg 100% gia tri hop dong tu van danh gia toan dien nang luc cua",
+          "confidence": 0.9656
+        },
+        {
+          "x": 312.55,
+          "y": 2190.53,
+          "text": "doanh nghiep nho va vura trong cum lien ket nganh, chu?i gia tri nhung khong",
+          "confidence": 0.9705
+        },
+        {
+          "x": 313.82,
+          "y": 2246.04,
+          "text": ":diu queop/u/luop dou/luop naim oe enb",
+          "confidence": 0.5861
+        }
+      ]
+    },
+    {
+      "page": 18,
+      "image": "tmp/pdfs/nd80_2021/page-18.png",
+      "elapsed": [
+        0.7115064000099665,
+        0.02158832550048828,
+        4.394974708557129
+      ],
+      "rows": [
+        {
+          "x": 965.73,
+          "y": 73.58,
+          "text": "18",
+          "confidence": 0.9987
+        },
+        {
+          "x": 400.49,
+          "y": 198.79,
+          "text": "b) H6 tro 100% gia tri hop dong tu van cai tién, nang cap ky thuat",
+          "confidence": 0.9703
+        },
+        {
+          "x": 318.11,
+          "y": 255.58,
+          "text": "chuyen sau cho doanh nghiep nho va vura nham cai thien nang lurc san xuat,",
+          "confidence": 0.9878
+        },
+        {
+          "x": 314.31,
+          "y": 305.93,
+          "text": "dap ung yeu cau ket noi, tro thanh nha cung cap cua doanh nghiep dau chuoi",
+          "confidence": 0.9719
+        },
+        {
+          "x": 315.57,
+          "y": 369.18,
+          "text": "nhung khong qua 100 trieu dong/hop dong/nam/doanh nghiep.",
+          "confidence": 0.9851
+        },
+        {
+          "x": 404.29,
+          "y": 456.95,
+          "text": "3. H6 trg thong tin, phat trien thuong hieu, ket noi va mo rong thi trrong",
+          "confidence": 0.9638
+        },
+        {
+          "x": 404.29,
+          "y": 549.89,
+          "text": "a) Mien phi tra cuu thong tin ve cac su kien ket noi voi doanh nghiep",
+          "confidence": 0.9635
+        },
+        {
+          "x": 323.18,
+          "y": 607.98,
+          "text": "dau chuoi, quy trinh tim kiém, xac dinh nhu cau dat hang cua cac doanh",
+          "confidence": 0.9892
+        },
+        {
+          "x": 320.64,
+          "y": 663.48,
+          "text": "nghiep dau chuoi tren Cong thong tin va cac trang thong tin dien tu cua cac",
+          "confidence": 0.9779
+        },
+        {
+          "x": 318.11,
+          "y": 720.28,
+          "text": "b6, co quan ngang bo, co quan thuoc Chinh phu, Uy ban nhan dan cap tinh;",
+          "confidence": 0.9753
+        },
+        {
+          "x": 406.82,
+          "y": 809.35,
+          "text": "b) Mien phi tra curu thong tin ve he thong cac tieu chuan, quy chuan ky",
+          "confidence": 0.9739
+        },
+        {
+          "x": 316.84,
+          "y": 862.27,
+          "text": "thuat trong nuoc va quoc té thuoc linh vuc san xuat, kinh doanh cua doanh",
+          "confidence": 0.9855
+        },
+        {
+          "x": 316.84,
+          "y": 924.23,
+          "text": "nghiep tham gia cum lien két nganh, chuoi gia tri trén Cong thong tin va cac",
+          "confidence": 0.9781
+        },
+        {
+          "x": 318.11,
+          "y": 979.74,
+          "text": "trang thong tin dién t'r cua cac bo, co quan ngang bo, co quan thuoc Chinh",
+          "confidence": 0.9734
+        },
+        {
+          "x": 316.84,
+          "y": 1031.37,
+          "text": "phu, Uy ban nhan dan cap tinh;",
+          "confidence": 0.9862
+        },
+        {
+          "x": 404.29,
+          "y": 1113.98,
+          "text": "c) H6 tro toi da 50% gia tri hop dong tur van dang ky thanh cong tai",
+          "confidence": 0.9674
+        },
+        {
+          "x": 315.57,
+          "y": 1170.78,
+          "text": "khoan ban san pham, dich vu trén cac san thuong mai dien tr quoc te nhung",
+          "confidence": 0.9737
+        },
+        {
+          "x": 315.57,
+          "y": 1228.87,
+          "text": "khong qua 100 trieu dong/hop dong/nam/doanh nghiép;",
+          "confidence": 0.9767
+        },
+        {
+          "x": 405.56,
+          "y": 1317.93,
+          "text": "d) Ho tro t6i da 50% chi phi duy tri tai khoan tren cac san thuong mai",
+          "confidence": 0.9792
+        },
+        {
+          "x": 321.91,
+          "y": 1378.6,
+          "text": "dien tu trong nuoc va quoc té nhung khong qua 50 trieu dong/nam/doanh",
+          "confidence": 0.967
+        },
+        {
+          "x": 315.57,
+          "y": 1427.65,
+          "text": "nghiep va khong qua 02 nam ke tur thoi diem doanh nghiep dang ky thanh",
+          "confidence": 0.9685
+        },
+        {
+          "x": 316.84,
+          "y": 1485.74,
+          "text": "cong tai khoan tren san thuong mai dien t'r quoc te;",
+          "confidence": 0.9726
+        },
+        {
+          "x": 403.02,
+          "y": 1570.94,
+          "text": "d) H6 trg chi phi thue dia diem, thiet ke va dan durng gian hang, van",
+          "confidence": 0.9689
+        },
+        {
+          "x": 320.64,
+          "y": 1632.9,
+          "text": "chuyén san pham trung bay, chi phi di lai, chi phi an, ? cho dai dien cua",
+          "confidence": 0.9764
+        },
+        {
+          "x": 314.31,
+          "y": 1684.53,
+          "text": "auu sunau j suon u onx wi un ouo you ien ena uu danyau qunop",
+          "confidence": 0.5562
+        },
+        {
+          "x": 316.84,
+          "y": 1742.62,
+          "text": "qua 50 trieu dong/nam/doanh nghiep d6i voi sy kién to chuc trong nuoc",
+          "confidence": 0.9641
+        },
+        {
+          "x": 316.84,
+          "y": 1799.41,
+          "text": "va khong qua 70 trieu dong/nam/doanh nghiep d6i v6i sy kién to chuc ?",
+          "confidence": 0.9624
+        },
+        {
+          "x": 315.57,
+          "y": 1853.63,
+          "text": "nuoc ngoai;",
+          "confidence": 0.9539
+        },
+        {
+          "x": 401.75,
+          "y": 1936.24,
+          "text": "e) H6 trg 100% gia tri hop dong tu van ve thu tuc xac lap, chuyén giao,",
+          "confidence": 0.9663
+        },
+        {
+          "x": 315.57,
+          "y": 1996.91,
+          "text": "khai thac va bao vé quyen so huu tri tue ? trong nuoc nhung khong qua 50",
+          "confidence": 0.966
+        },
+        {
+          "x": 314.31,
+          "y": 2049.83,
+          "text": "triéu dong/hop dong/nam/doanh nghiép;",
+          "confidence": 0.9779
+        },
+        {
+          "x": 399.22,
+          "y": 2141.48,
+          "text": "g) H6 trg 100% gia tri hop dong tu van tim kiem thong tin, quang ba san",
+          "confidence": 0.9787
+        },
+        {
+          "x": 318.11,
+          "y": 2199.57,
+          "text": "pham, phat trien thuong hieu cum lien ket nganh va chuoi gia tri nhung khong",
+          "confidence": 0.9819
+        },
+        {
+          "x": 314.31,
+          "y": 2249.91,
+          "text": "qua 20 trieu dong/hop dong/nam/doanh nghiep.",
+          "confidence": 0.9963
+        }
+      ]
+    },
+    {
+      "page": 19,
+      "image": "tmp/pdfs/nd80_2021/page-19.png",
+      "elapsed": [
+        0.6996535000071162,
+        0.023004531860351562,
+        4.037513732910156
+      ],
+      "rows": [
+        {
+          "x": 966.98,
+          "y": 72.29,
+          "text": "19",
+          "confidence": 0.9998
+        },
+        {
+          "x": 399.29,
+          "y": 188.46,
+          "text": "4. H6 trg tu van ve tieu chuan, quy chuan ky thuat, do luong, chat luong",
+          "confidence": 0.9681
+        },
+        {
+          "x": 399.29,
+          "y": 273.66,
+          "text": "a) H trg, 100% gia tri hop dong tur van de doanh nghiep xay dung va ap",
+          "confidence": 0.948
+        },
+        {
+          "x": 320.2,
+          "y": 326.58,
+          "text": "dung tieu chuan co so nhung khong qua 10 trieu dong/hop dong/nam/doanh",
+          "confidence": 0.9865
+        },
+        {
+          "x": 316.37,
+          "y": 370.47,
+          "text": "nghiep; hop dong tu van xay dung,,ap dung he thong quan ly chat luong",
+          "confidence": 0.9675
+        },
+        {
+          "x": 317.65,
+          "y": 422.1,
+          "text": "nhung khong qua 50 trieu dong/hop dong/nam/doanh nghiep;",
+          "confidence": 0.9874
+        },
+        {
+          "x": 404.4,
+          "y": 503.42,
+          "text": "d jyo :op uan guonqd ngw wau ny jyd jyo %os ep 1on on qh (9",
+          "confidence": 0.6989
+        },
+        {
+          "x": 317.65,
+          "y": 547.31,
+          "text": "kiém dinh, hieu chuan, thur nghiem phuong tien do, chuan do luong; chi phi",
+          "confidence": 0.9879
+        },
+        {
+          "x": 316.37,
+          "y": 593.78,
+          "text": "cap dau dinh luong cua hang dong goi san phu hop voi yeu cau ky thuat do",
+          "confidence": 0.9707
+        },
+        {
+          "x": 316.37,
+          "y": 645.41,
+          "text": "luong nhung khong qua 10 trieu dong/nam/doanh nghiép;",
+          "confidence": 0.9579
+        },
+        {
+          "x": 404.4,
+          "y": 724.15,
+          "text": "uenyo Anb dou nqd ugud ues uequ gunyo deo jyd jyo %ooI on q (o",
+          "confidence": 0.7606
+        },
+        {
+          "x": 408.22,
+          "y": 854.53,
+          "text": "5. H6 tro thuc hien cac thu tuc ve san xuat thu nghiem, kiem dinh, giam",
+          "confidence": 0.9506
+        },
+        {
+          "x": 322.75,
+          "y": 904.87,
+          "text": "dinh, chung nhan chat luong",
+          "confidence": 0.9971
+        },
+        {
+          "x": 403.12,
+          "y": 981.03,
+          "text": "a) H6 tro 100% chi phi thur nghiem, kiem dinh, giam dinh, churng nhan",
+          "confidence": 0.9646
+        },
+        {
+          "x": 317.65,
+          "y": 1027.5,
+          "text": "chat luong san pham, hang hoa; chi phi chung nhan he thong quan ly chat",
+          "confidence": 0.9821
+        },
+        {
+          "x": 318.92,
+          "y": 1080.42,
+          "text": "luong nhung khong qua 30 trieu dong/nam/doanh nghiep;",
+          "confidence": 0.9948
+        },
+        {
+          "x": 405.67,
+          "y": 1156.58,
+          "text": "b) Ho trg toi da 50% chi phi dat hang cac co so, vién, truong de nghien",
+          "confidence": 0.9502
+        },
+        {
+          "x": 324.03,
+          "y": 1209.5,
+          "text": "ciru thu nghiem phat trién cac san pham, dich vu nhung khong qua 30 trieu",
+          "confidence": 0.9671
+        },
+        {
+          "x": 322.75,
+          "y": 1253.39,
+          "text": "dong/nam/doanh nghiep;",
+          "confidence": 0.9841
+        },
+        {
+          "x": 404.4,
+          "y": 1329.55,
+          "text": "c) H6 tro t6i da 50% chi phi sur dung trang thiét bi tai co so ky thuat ho",
+          "confidence": 0.9634
+        },
+        {
+          "x": 936.36,
+          "y": 1484.45,
+          "text": "Muc 4",
+          "confidence": 0.9039
+        },
+        {
+          "x": 428.63,
+          "y": 1523.18,
+          "text": "HO TRO LAI SUAT CHO DOANH NGHIEP NHO VA VUA",
+          "confidence": 0.9709
+        },
+        {
+          "x": 404.4,
+          "y": 1570.94,
+          "text": "KHOI NGHIEP SANG TAO, DOANH NGHIEP NHO VA VUA",
+          "confidence": 0.9925
+        },
+        {
+          "x": 457.97,
+          "y": 1618.7,
+          "text": "THAM GIA CUM LIEN KET NGANH, CHUOI GIA TRI",
+          "confidence": 0.9716
+        },
+        {
+          "x": 408.22,
+          "y": 1716.8,
+          "text": "Dieu 26. Nguyen tac ho tro lai suat",
+          "confidence": 0.9453
+        },
+        {
+          "x": 403.12,
+          "y": 1801.99,
+          "text": "Trong tung thoi ky, doanh nghiep nho va yua khoi nghiep sang tao va",
+          "confidence": 0.9847
+        },
+        {
+          "x": 320.2,
+          "y": 1849.75,
+          "text": "doanh nghiep nho va yua tham gia cum lien ket nganh, chuoi gia tri duoc",
+          "confidence": 0.9589
+        },
+        {
+          "x": 317.65,
+          "y": 1893.64,
+          "text": "ngan sach nha nuoc ho trg lai suat khi vay von trung va dai han tai cac t?",
+          "confidence": 0.9758
+        },
+        {
+          "x": 318.92,
+          "y": 1940.11,
+          "text": "chuc tin dung de thuc hien phuong an, dy an san xuat - kinh doanh theo cac",
+          "confidence": 0.9813
+        },
+        {
+          "x": 321.48,
+          "y": 1993.04,
+          "text": "nguyen tac sau:",
+          "confidence": 0.9931
+        },
+        {
+          "x": 405.67,
+          "y": 2066.61,
+          "text": "1. La cac doanh nghiep nho va yira dap ung tiéu chi ve doanh nghiep",
+          "confidence": 0.9788
+        },
+        {
+          "x": 318.92,
+          "y": 2118.25,
+          "text": "khoi nghiep sang tao quy dinh tai Dieu 20 Nghi dinh nay va tieu chi h6 tro",
+          "confidence": 0.9793
+        },
+        {
+          "x": 320.2,
+          "y": 2167.3,
+          "text": "o n yp n i  sn u  t    du qo",
+          "confidence": 0.6056
+        },
+        {
+          "x": 320.2,
+          "y": 2211.19,
+          "text": "Dieu 23, khoan 2 Dieu 24 Nghi dinh nay, dong thoi chua dugc huong cac",
+          "confidence": 0.9713
+        },
+        {
+          "x": 318.92,
+          "y": 2257.66,
+          "text": "chinh sach uu dai ve lai suat cua Nha nuoc trong cung mot giai doan.",
+          "confidence": 0.9802
+        }
+      ]
+    },
+    {
+      "page": 20,
+      "image": "tmp/pdfs/nd80_2021/page-20.png",
+      "elapsed": [
+        0.7007853999966756,
+        0.023006439208984375,
+        4.444734811782837
+      ],
+      "rows": [
+        {
+          "x": 968.26,
+          "y": 60.46,
+          "text": "20",
+          "confidence": 0.9999
+        },
+        {
+          "x": 405.56,
+          "y": 187.8,
+          "text": "2. Ngan sach nha nuoc ho tro lai suat cho doanh nghiep theo phuong",
+          "confidence": 0.9836
+        },
+        {
+          "x": 320.64,
+          "y": 239.25,
+          "text": "thuc h6 tro sau dau tu. M8i doanh nghiep dugc h6 tro lai suat d6i voi 01",
+          "confidence": 0.9584
+        },
+        {
+          "x": 318.11,
+          "y": 286.84,
+          "text": "phuong an, dy an san xuat - kinh doanh trong cung mot giai doan.",
+          "confidence": 0.9829
+        },
+        {
+          "x": 403.02,
+          "y": 357.59,
+          "text": "3. Doanh nghiep vay von dugc to churc tin dung tham dinh va quyet dinh",
+          "confidence": 0.9729
+        },
+        {
+          "x": 320.64,
+          "y": 410.33,
+          "text": "cho vay theo quy dinh cua phap luat ve cho vay cua to churc tin dung.",
+          "confidence": 0.9811
+        },
+        {
+          "x": 409.36,
+          "y": 483.65,
+          "text": "Dieu 27. Noi dung ho tro lai suat",
+          "confidence": 0.9282
+        },
+        {
+          "x": 410.63,
+          "y": 560.82,
+          "text": "nu eu os u sonp ns si oi qo n  so u uo 1",
+          "confidence": 0.5158
+        },
+        {
+          "x": 321.91,
+          "y": 607.13,
+          "text": "cap bu cho cac khoan vay cua doanh nghiep nho va vua khoi nghiep sang tao,",
+          "confidence": 0.978
+        },
+        {
+          "x": 316.84,
+          "y": 657.29,
+          "text": "doanh nghiep nho va vura tham gia cum lien ket nganh, chu?i gia tri thong qua",
+          "confidence": 0.9637
+        },
+        {
+          "x": 321.91,
+          "y": 703.6,
+          "text": "cac to chuc tin dung la 2%/nam.",
+          "confidence": 0.9478
+        },
+        {
+          "x": 405.56,
+          "y": 774.35,
+          "text": "2. To churc tin dung thuc hien cho vay co ho tro lai suat cho doanh",
+          "confidence": 0.9625
+        },
+        {
+          "x": 319.38,
+          "y": 829.66,
+          "text": "a a ou da qop o us nu so a a oru dn",
+          "confidence": 0.5039
+        },
+        {
+          "x": 319.38,
+          "y": 874.68,
+          "text": "cum lien két nganh, chuoi gia tri trong pham vi dy toan ngan sach nha nuoc",
+          "confidence": 0.9796
+        },
+        {
+          "x": 318.11,
+          "y": 923.56,
+          "text": "deud eno quip Anb oo oa uon nnb 'uon yu un wn uaiy ony i gq",
+          "confidence": 0.573
+        },
+        {
+          "x": 316.84,
+          "y": 972.44,
+          "text": "luat va huong dan cua co quan nha nuoc co tham quyen.",
+          "confidence": 0.9744
+        },
+        {
+          "x": 405.56,
+          "y": 1048.33,
+          "text": "3. Doanh nghiep nh6 va vira dugc huong h6 tro lai suat chiu trach nhiem",
+          "confidence": 0.9517
+        },
+        {
+          "x": 316.84,
+          "y": 1090.77,
+          "text": "truoc phap luat ve tinh chinh xac cua thong tin cung cap lien quan toi phuong",
+          "confidence": 0.9872
+        },
+        {
+          "x": 316.84,
+          "y": 1142.23,
+          "text": "an, du an san xuat - kinh doanh thuoc doi turong dugc h6 trg lai suat; hoan tra",
+          "confidence": 0.9638
+        },
+        {
+          "x": 313.04,
+          "y": 1187.25,
+          "text": "so tien dugc ho trg lai suat khi vi pham cac quy dinh ve h6 tro lai suat va phap",
+          "confidence": 0.9481
+        },
+        {
+          "x": 316.84,
+          "y": 1234.84,
+          "text": "luat ve cho vay cua to churc tin dung.",
+          "confidence": 0.9477
+        },
+        {
+          "x": 896.02,
+          "y": 1330.02,
+          "text": "Chuong V.",
+          "confidence": 0.9903
+        },
+        {
+          "x": 761.68,
+          "y": 1376.33,
+          "text": "TO CHUC THUC HIEN",
+          "confidence": 0.9924
+        },
+        {
+          "x": 401.75,
+          "y": 1440.65,
+          "text": "Dieu 28. Trach nhiem cua cac bo, co quan ngang bo, co quan thuoc",
+          "confidence": 0.9828
+        },
+        {
+          "x": 320.64,
+          "y": 1494.67,
+          "text": "Chinh phu",
+          "confidence": 0.9674
+        },
+        {
+          "x": 401.75,
+          "y": 1556.41,
+          "text": "1. Bo Ké hoach va Dau tu giup Chinh phu thong nhat quan ly nha nuoc",
+          "confidence": 0.9817
+        },
+        {
+          "x": 316.84,
+          "y": 1602.72,
+          "text": "ve h6 tro doanh nghiep nho va vura, co trach nhiem:",
+          "confidence": 0.9557
+        },
+        {
+          "x": 401.75,
+          "y": 1676.04,
+          "text": "yuy uq oou yuy uq uahnb uu o uenb o qu unp Kex (e",
+          "confidence": 0.6384
+        },
+        {
+          "x": 315.57,
+          "y": 1723.63,
+          "text": "tham quyen cac van ban quy pham phap luat ve h6 trg doanh nghiep nh?",
+          "confidence": 0.9675
+        },
+        {
+          "x": 316.84,
+          "y": 1776.37,
+          "text": "va vira;",
+          "confidence": 0.9216
+        },
+        {
+          "x": 399.22,
+          "y": 1838.11,
+          "text": "b) Chu tri tong hop, bao cao cap co tham quyen ké hoach dau tur cong",
+          "confidence": 0.9913
+        },
+        {
+          "x": 316.84,
+          "y": 1890.85,
+          "text": "trung han va hang nam h6 tro doanh nghiep nho va vira quy dinh tai khoan 5",
+          "confidence": 0.971
+        },
+        {
+          "x": 315.57,
+          "y": 1935.87,
+          "text": "Dieu 11 va Muc 4 Chuong IV Nghi dinh nay theo quy dinh cua phap luat vé",
+          "confidence": 0.9744
+        },
+        {
+          "x": 316.84,
+          "y": 1982.17,
+          "text": "dau tu cong;",
+          "confidence": 0.9473
+        },
+        {
+          "x": 403.02,
+          "y": 2054.21,
+          "text": "c) Chu tri tong hop, xay dung ke hoach va du toan ngan sach nha nuoc",
+          "confidence": 0.9781
+        },
+        {
+          "x": 320.64,
+          "y": 2105.66,
+          "text": "hang nam h6 tro doanh nghiep nho va vua; ph6i hop voi Bo Tai chinh b6 tri",
+          "confidence": 0.9796
+        },
+        {
+          "x": 316.84,
+          "y": 2155.82,
+          "text": "von chi thuong xuyen tir nguon ngan sach trung uong cho cac bo, co quan",
+          "confidence": 0.986
+        },
+        {
+          "x": 316.84,
+          "y": 2205.99,
+          "text": "ngang bo, co quan thuoc Chinh phu va b6 sung c6 muc tieu cho cac dia",
+          "confidence": 0.9679
+        },
+        {
+          "x": 316.84,
+          "y": 2248.44,
+          "text": "phuong chua can doi dugc ngan sach nha nuoc de ho trg doanh nghiep nho va",
+          "confidence": 0.9691
+        },
+        {
+          "x": 320.64,
+          "y": 2302.46,
+          "text": "vua theo quy dinh tai Luat Ngan sach nha nuoc va van ban huong dan thi hanh;",
+          "confidence": 0.9895
+        }
+      ]
+    },
+    {
+      "page": 21,
+      "image": "tmp/pdfs/nd80_2021/page-21.png",
+      "elapsed": [
+        0.7431207000045106,
+        0.022007465362548828,
+        5.379652500152588
+      ],
+      "rows": [
+        {
+          "x": 964.43,
+          "y": 74.87,
+          "text": "21",
+          "confidence": 0.9995
+        },
+        {
+          "x": 399.29,
+          "y": 200.08,
+          "text": "d) T churc xay dung, quan ly, phat trien, duy tri Cong thong tin va co s?",
+          "confidence": 0.9875
+        },
+        {
+          "x": 315.1,
+          "y": 246.55,
+          "text": "du lieu ho trg doanh nghiep nho va vira; chu tri, phoi hop voi cac co quan, to",
+          "confidence": 0.9445
+        },
+        {
+          "x": 316.37,
+          "y": 299.47,
+          "text": "churc c6 lien quan thiét lap, két noi, lien thong va chia se thong tin voi co so",
+          "confidence": 0.9594
+        },
+        {
+          "x": 316.37,
+          "y": 353.69,
+          "text": "na pa ouu detyau quop on qy nil np",
+          "confidence": 0.5249
+        },
+        {
+          "x": 400.57,
+          "y": 419.52,
+          "text": "le yuip Anb oay ugKn onin oei oep Bugy ay gunp Kex snyo gn 1n nuo (p",
+          "confidence": 0.7603
+        },
+        {
+          "x": 317.65,
+          "y": 473.73,
+          "text": "diem a khoan 2 Dieu 14 Nghi dinh nay tur nguon ngan sach trung uong;",
+          "confidence": 0.9713
+        },
+        {
+          "x": 399.29,
+          "y": 539.57,
+          "text": "e) Chu tri huong dan cac noi dung hoat dong ho tro ve cong nghe; tu",
+          "confidence": 0.9799
+        },
+        {
+          "x": 316.37,
+          "y": 588.62,
+          "text": "van; phat trien nguon nhan lurc cho doanh nghiep nho va vura; h6 tro doanh",
+          "confidence": 0.9702
+        },
+        {
+          "x": 315.1,
+          "y": 640.25,
+          "text": "nghiep nho va vira khoi nghiep sang tao, doanh nghiep nho va vira tham gia",
+          "confidence": 0.9832
+        },
+        {
+          "x": 312.55,
+          "y": 689.3,
+          "text": "cum lien ket nganh, chuoi gia tri va noi dung quan ly cac hoat dong h6 tro",
+          "confidence": 0.9535
+        },
+        {
+          "x": 315.1,
+          "y": 743.52,
+          "text": "doanh nghiep nho va vura theo quy dinh tai Nghi dinh nay;",
+          "confidence": 0.9764
+        },
+        {
+          "x": 399.29,
+          "y": 810.64,
+          "text": "g) Chu tri, phoi hop voi cac co quan co lien quan xay dung bo cong cu",
+          "confidence": 0.9727
+        },
+        {
+          "x": 316.37,
+          "y": 858.4,
+          "text": "danh gia nang lurc tham gia chuoi gia tri cua doanh nghiep nho va vua de cac",
+          "confidence": 0.9712
+        },
+        {
+          "x": 316.37,
+          "y": 907.45,
+          "text": "co quan, to chuc h6 trg doanh nghiep nho va vura va cac t? churc lien quan co",
+          "confidence": 0.9521
+        },
+        {
+          "x": 315.1,
+          "y": 960.37,
+          "text": "can ciur ap dung lua chon doanh nghiep h6 trg;",
+          "confidence": 0.9512
+        },
+        {
+          "x": 398.02,
+          "y": 1026.21,
+          "text": "h) Dinh ky hang nam, ra soat va cong bo tren Cong thong tin danh sach",
+          "confidence": 0.9857
+        },
+        {
+          "x": 317.65,
+          "y": 1080.42,
+          "text": "cac co quan, to chuc h6 tro doanh nghiep nho va vua cap trung uong va",
+          "confidence": 0.9698
+        },
+        {
+          "x": 316.37,
+          "y": 1130.76,
+          "text": "dia phuong.",
+          "confidence": 0.9989
+        },
+        {
+          "x": 403.12,
+          "y": 1205.63,
+          "text": "2. Bo Tai chinh c6 trach nhieém:",
+          "confidence": 0.9317
+        },
+        {
+          "x": 399.29,
+          "y": 1271.46,
+          "text": "a) Hang nam, can cu vao ke hoach va dy toan ngan sach nha nuoc ho trg",
+          "confidence": 0.9768
+        },
+        {
+          "x": 318.92,
+          "y": 1323.1,
+          "text": "doanh nghiep nho va vira do Bo Ké hoach va Dau tu tong hop va can cur kha",
+          "confidence": 0.9798
+        },
+        {
+          "x": 317.65,
+          "y": 1368.28,
+          "text": "nang b6 tri cua ngan sach nha nuoc, Bo Tai chinh b6 tri va phan bo du toan",
+          "confidence": 0.9775
+        },
+        {
+          "x": 316.37,
+          "y": 1419.91,
+          "text": "ngan sach chi thuong xuyen thyc hien cac noi dung ho trg doanh nghiep nho",
+          "confidence": 0.978
+        },
+        {
+          "x": 317.65,
+          "y": 1468.96,
+          "text": "va via theo quy dinh cua Luat Ngan sach nha nuoc, Luat Ho tro doanh",
+          "confidence": 0.9791
+        },
+        {
+          "x": 318.92,
+          "y": 1524.47,
+          "text": "nghiep nho va vira va Nghi dinh nay;",
+          "confidence": 0.9638
+        },
+        {
+          "x": 399.29,
+          "y": 1585.14,
+          "text": "b) Chu tri huong dan co ché sir dung kinh phi ngan sach nha nuoc von",
+          "confidence": 0.9818
+        },
+        {
+          "x": 318.92,
+          "y": 1644.51,
+          "text": "'e g 'I uo n yuip Anb ea ea oyu datyu quop on gy unx uon t",
+          "confidence": 0.5019
+        },
+        {
+          "x": 318.92,
+          "y": 1688.4,
+          "text": "Dieu 11, Dieu 12, Dieu 13, Dieu 14, Diéu 22, Diéu 25; kinh phi quan ly cac",
+          "confidence": 0.963
+        },
+        {
+          "x": 315.1,
+          "y": 1737.45,
+          "text": "hoat dong h6 tro doanh nghiep nho va vira theo quy dinh tai Nghi dinh nay;",
+          "confidence": 0.9755
+        },
+        {
+          "x": 399.29,
+          "y": 1805.87,
+          "text": "c) Chu tri trinh Thu tuong Chinh phu ban hanh huong dan chinh sach",
+          "confidence": 0.9917
+        },
+        {
+          "x": 318.92,
+          "y": 1856.21,
+          "text": "cap bu lai suat doi voi khoan vay cua doanh nghiep nho va viua khoi nghiép",
+          "confidence": 0.958
+        },
+        {
+          "x": 316.37,
+          "y": 1906.55,
+          "text": "sang tao, doanh nghiep nho va vira tham gia cum lien ket nganh, chuoi gia tri.",
+          "confidence": 0.9695
+        },
+        {
+          "x": 316.37,
+          "y": 1954.31,
+          "text": "oo oo hns ii yoai quuo nq deo uon nnb pa dyo uin uty on u nu",
+          "confidence": 0.5612
+        },
+        {
+          "x": 317.65,
+          "y": 2005.94,
+          "text": "chuc tin dung tren co so du toan ngan sach nha nuoc giao theo quy dinh tai",
+          "confidence": 0.9781
+        },
+        {
+          "x": 316.37,
+          "y": 2057.58,
+          "text": "Muc 4 Chuong IV Nghi dinh nay.",
+          "confidence": 0.9988
+        },
+        {
+          "x": 400.57,
+          "y": 2125.99,
+          "text": "' no u yn o iou  a yq n - up o o '",
+          "confidence": 0.5544
+        },
+        {
+          "x": 318.92,
+          "y": 2181.5,
+          "text": "hop voi Bo Tai chinh va cac co quan c6 lién quan huong dan viec ho tro dao",
+          "confidence": 0.9624
+        },
+        {
+          "x": 317.65,
+          "y": 2227.97,
+          "text": "tao nghe cho lao dong lam viec trong doanh nghiep nho va vua quy dinh tai",
+          "confidence": 0.9654
+        },
+        {
+          "x": 318.92,
+          "y": 2277.02,
+          "text": "khoan 4 Dieu 14 Nghi dinh nay.",
+          "confidence": 0.9798
+        }
+      ]
+    },
+    {
+      "page": 22,
+      "image": "tmp/pdfs/nd80_2021/page-22.png",
+      "elapsed": [
+        0.689733499995782,
+        0.02400350570678711,
+        3.9933693408966064
+      ],
+      "rows": [
+        {
+          "x": 964.46,
+          "y": 66.89,
+          "text": "22",
+          "confidence": 0.9998
+        },
+        {
+          "x": 403.02,
+          "y": 195.52,
+          "text": "4. Ngan hang Nha nuoc Viet Nam co trach nhiém:",
+          "confidence": 0.9754
+        },
+        {
+          "x": 397.95,
+          "y": 268.83,
+          "text": "a) Chu tri tong hop nhu cau cap bu lai suat cua to churc tin dung doi voi",
+          "confidence": 0.9795
+        },
+        {
+          "x": 315.57,
+          "y": 322.86,
+          "text": "o s dnu bo 1 a u d  oo   o",
+          "confidence": 0.5698
+        },
+        {
+          "x": 314.31,
+          "y": 369.17,
+          "text": "nghiep nho va viua tham gia cum lien ket nganh, chuoi gia tri gui Bo Ke hoach",
+          "confidence": 0.9407
+        },
+        {
+          "x": 314.31,
+          "y": 419.33,
+          "text": "wu Sugy pa uey Bunn Suoo m nep yoeoy eY opa Sunyo doy Sugh n ngg Ba",
+          "confidence": 0.7359
+        },
+        {
+          "x": 314.31,
+          "y": 473.35,
+          "text": "theo quy dinh cua phap luat ve dau tu cong;",
+          "confidence": 0.9886
+        },
+        {
+          "x": 400.49,
+          "y": 542.81,
+          "text": "b) Chu tri huong dan cac to churc tin dung cho vay c6 ho tro lai suat d6i",
+          "confidence": 0.9509
+        },
+        {
+          "x": 315.57,
+          "y": 599.41,
+          "text": "voi doanh nghiep nho va vua khoi nghiep sang tao va doanh nghiep nho va",
+          "confidence": 0.9627
+        },
+        {
+          "x": 316.84,
+          "y": 645.72,
+          "text": "vua tham gia cum lien két nganh, chuoi gia tri theo quy dinh tai Muc 4",
+          "confidence": 0.9689
+        },
+        {
+          "x": 321.91,
+          "y": 704.89,
+          "text": "Chuong IV Nghi dinh nay;",
+          "confidence": 0.9861
+        },
+        {
+          "x": 400.49,
+          "y": 767.92,
+          "text": "c) Phoi hop voi Bo Tai chinh thurc hien ra soat, doi chiéu so lieu de nghi",
+          "confidence": 0.973
+        },
+        {
+          "x": 318.11,
+          "y": 821.94,
+          "text": "quyét toan cap bu chenh lech lai suat cua cac to churc tin dung.",
+          "confidence": 0.9856
+        },
+        {
+          "x": 404.29,
+          "y": 902.98,
+          "text": "5. Cac bo, co quan ngang bo, co quan thuoc Chinh phu trong pham vi",
+          "confidence": 0.9922
+        },
+        {
+          "x": 319.38,
+          "y": 957.0,
+          "text": "nhiem vu quyen han cua minh, co trach nhiem:",
+          "confidence": 0.9744
+        },
+        {
+          "x": 401.75,
+          "y": 1029.03,
+          "text": "a) Can cu tinh chat, muc tieu ho tro, co the quy dinh va huong dan chi",
+          "confidence": 0.9697
+        },
+        {
+          "x": 316.84,
+          "y": 1077.91,
+          "text": "tiét cac tieu chi quy dinh tai Dieu 20, Dieu 23, Dieu 24 Nghi dinh nay dam bao",
+          "confidence": 0.9784
+        },
+        {
+          "x": 318.11,
+          "y": 1131.94,
+          "text": ":unb ut o neni deyd eno quip Anb pa oonu equ fi uenb ora yu toa doy nyd",
+          "confidence": 0.6059
+        },
+        {
+          "x": 403.02,
+          "y": 1203.97,
+          "text": "b) Can cur vao kha nang can doi nguon luc, xay dung ké hoach va du",
+          "confidence": 0.9621
+        },
+        {
+          "x": 318.11,
+          "y": 1257.99,
+          "text": "toan kinh phi ngan sach nha nuoc ho trg doanh nghiep nho va vira hang_nam",
+          "confidence": 0.9654
+        },
+        {
+          "x": 318.11,
+          "y": 1304.3,
+          "text": "va trung han thuoc nganh, linh vuc quan ly theo quy dinh tai Luat H6 tro",
+          "confidence": 0.9672
+        },
+        {
+          "x": 316.84,
+          "y": 1351.89,
+          "text": "doanh nghiep nho va vua va Nghi dinh nay, guri Bo Ké hoach va Dau tu tong",
+          "confidence": 0.9835
+        },
+        {
+          "x": 319.38,
+          "y": 1404.63,
+          "text": "hop chung vao dy toan ngan sach ho trg doanh nghiep nho va vura hang nam",
+          "confidence": 0.9664
+        },
+        {
+          "x": 318.11,
+          "y": 1452.22,
+          "text": "va trung han;",
+          "confidence": 0.999
+        },
+        {
+          "x": 401.75,
+          "y": 1522.97,
+          "text": "c) Dinh ky truoc ngay 15 thang 12 hang nam, gui bao cao ve Bo Ké",
+          "confidence": 0.994
+        },
+        {
+          "x": 316.84,
+          "y": 1579.56,
+          "text": "hoach va Dau tu ve tinh hinh trién khai noi dung, de an, chuong trinh, ké",
+          "confidence": 0.9701
+        },
+        {
+          "x": 316.84,
+          "y": 1624.58,
+          "text": "hoach ho tro doanh nghiep nho va vua thuoc nganh, linh vuc quan ly theo quy",
+          "confidence": 0.9622
+        },
+        {
+          "x": 323.18,
+          "y": 1674.75,
+          "text": "dinh tai Nghi dinh nay;",
+          "confidence": 0.9985
+        },
+        {
+          "x": 403.02,
+          "y": 1750.64,
+          "text": "d) Cung cap, cap nhat thong tin ve h6 trg doanh nghiep nho va vura; cong",
+          "confidence": 0.9576
+        },
+        {
+          "x": 318.11,
+          "y": 1800.81,
+          "text": "Quu da!ylu yuop on gH nenT tI ngia I ueou ren yuip Anb oay un suou gg",
+          "confidence": 0.6654
+        },
+        {
+          "x": 318.11,
+          "y": 1853.54,
+          "text": "va vura tren trang thong tin dien tu cua bo, co quan ngang bo, co quan thuoc",
+          "confidence": 0.9625
+        },
+        {
+          "x": 319.38,
+          "y": 1902.42,
+          "text": "Chinh phu va thuc hien cong khai thong tin h6 tro doanh nghiep nho va vua",
+          "confidence": 0.9576
+        },
+        {
+          "x": 318.11,
+          "y": 1951.3,
+          "text": "trén Cong thong tin theo quy dinh tai Dieu 29 Luat H6 tro doanh nghiep nho",
+          "confidence": 0.9655
+        },
+        {
+          "x": 318.11,
+          "y": 1998.9,
+          "text": "va vura;",
+          "confidence": 0.8398
+        },
+        {
+          "x": 409.36,
+          "y": 2078.65,
+          "text": "d) Quy dinh linh vuc tu van va bo tieu chi cong nhan ca nhan, to chuc tu",
+          "confidence": 0.9688
+        },
+        {
+          "x": 315.57,
+          "y": 2123.67,
+          "text": "van thuoc mang luoi tu van vien trong nganh, linh vyc phy trach; cong b6 linh",
+          "confidence": 0.9713
+        },
+        {
+          "x": 320.64,
+          "y": 2176.4,
+          "text": "vyc tu van, bo tieu chi cong nhan tu van vien vao mang luoi va danh sach tu",
+          "confidence": 0.9783
+        },
+        {
+          "x": 318.11,
+          "y": 2218.85,
+          "text": "van vien thuoc mang luoi tren trang .thong tin dien tur cua bo, co quan ngang",
+          "confidence": 0.982
+        },
+        {
+          "x": 318.11,
+          "y": 2267.73,
+          "text": "bo, dong thoi guri Bo Ké hoach va Dau tu de cap nhat vao co so du lieu mang",
+          "confidence": 0.98
+        }
+      ]
+    },
+    {
+      "page": 23,
+      "image": "tmp/pdfs/nd80_2021/page-23.png",
+      "elapsed": [
+        0.7095622999913758,
+        0.02455925941467285,
+        3.9095864295959473
+      ],
+      "rows": [
+        {
+          "x": 961.87,
+          "y": 74.87,
+          "text": "23",
+          "confidence": 0.9998
+        },
+        {
+          "x": 308.72,
+          "y": 189.75,
+          "text": "luoi tu van vien tren Cong thong tin; giao cho don vi tryc thuoc lam dau moi",
+          "confidence": 0.9789
+        },
+        {
+          "x": 315.1,
+          "y": 251.71,
+          "text": "cong nhan tur van vien vao mang luoi va quan ly, van hanh, duy tri mang luoi",
+          "confidence": 0.9865
+        },
+        {
+          "x": 315.1,
+          "y": 305.93,
+          "text": "tu van vien trong nganh, linh vyc phu trach;",
+          "confidence": 0.9707
+        },
+        {
+          "x": 400.57,
+          "y": 384.67,
+          "text": "e) Chu dong bo tri du toan ngan sach nha nuoc duoc giao hang nam va",
+          "confidence": 0.9753
+        },
+        {
+          "x": 316.37,
+          "y": 437.59,
+          "text": "trung han de thyc hien ho trg doanh nghiep nho va vira.",
+          "confidence": 0.9689
+        },
+        {
+          "x": 400.57,
+          "y": 518.91,
+          "text": "Dicu 29. Trach nhiem cua Uy ban nhan dan cap tinh",
+          "confidence": 0.9724
+        },
+        {
+          "x": 401.84,
+          "y": 604.11,
+          "text": "1. Giao So Ké hoach va Dau tu lam dau moi, phoi hop voi cac so, nganh",
+          "confidence": 0.9792
+        },
+        {
+          "x": 312.55,
+          "y": 650.58,
+          "text": "xay dung noi dung, de an, chuong trinh, ké hoach h6 trg doanh nghiep nh6 va",
+          "confidence": 0.9699
+        },
+        {
+          "x": 313.82,
+          "y": 703.5,
+          "text": "vua tren dia ban de trinh Uy ban nhan dan cap tinh phe duyet.",
+          "confidence": 0.96
+        },
+        {
+          "x": 399.29,
+          "y": 786.11,
+          "text": "2. Uy ban nhan dan cap tinh c6 the trinh Hoi dong nhan dan cung cap",
+          "confidence": 0.9782
+        },
+        {
+          "x": 313.82,
+          "y": 835.16,
+          "text": "phe duyet muc h& tro cao hon muc h6 tro quy dinh tai Nghi dinh nay tu",
+          "confidence": 0.9558
+        },
+        {
+          "x": 309.99,
+          "y": 890.67,
+          "text": "nguon ngan sach dia phuong.",
+          "confidence": 0.9849
+        },
+        {
+          "x": 399.29,
+          "y": 969.41,
+          "text": "3. Can cu tinh chat, muc tieu h6 trg, co the quy dinh va huong dan chi",
+          "confidence": 0.9673
+        },
+        {
+          "x": 312.55,
+          "y": 1017.17,
+          "text": "tiét cac tieu chi quy dinh tai Dieu 20, Dieu 23, Dieu 24 Nghi dinh nay dam",
+          "confidence": 0.9858
+        },
+        {
+          "x": 315.1,
+          "y": 1072.68,
+          "text": "bao phu hop voi dia ban quan ly nha nuoc va quy dinh cua phap luat c6 lien quan.",
+          "confidence": 0.9855
+        },
+        {
+          "x": 396.74,
+          "y": 1147.54,
+          "text": "4. Can cur vao kha nang can doi nguon lurc, xay dung ké hoach va du",
+          "confidence": 0.9706
+        },
+        {
+          "x": 312.55,
+          "y": 1203.05,
+          "text": "toan ngan sach nha nuoc h6 tro doanh nghiép nho va vira hang nam va trung",
+          "confidence": 0.9683
+        },
+        {
+          "x": 308.72,
+          "y": 1246.94,
+          "text": "han tur nguon ngan sach chi thuong xuyen va chi dau tur cong, trinh Hoi dong",
+          "confidence": 0.9894
+        },
+        {
+          "x": 312.55,
+          "y": 1298.57,
+          "text": "onu onuo gn uenb unl oo unb oo oo op juo ohnp eud yun deo uep uequ",
+          "confidence": 0.6244
+        },
+        {
+          "x": 309.99,
+          "y": 1345.04,
+          "text": "hien ho trg doanh nghiep nho va vira theo quy dinh tai Luat H6 trg doanh",
+          "confidence": 0.9519
+        },
+        {
+          "x": 311.27,
+          "y": 1392.8,
+          "text": "nghiep nho va vua va Nghi dinh nay; tong hop va gui Bo Ké hoach va Dau tu",
+          "confidence": 0.9781
+        },
+        {
+          "x": 311.27,
+          "y": 1443.14,
+          "text": "de xuat bo sung kinh phi tir nguon ngan sach trung uong cho cac dia phuong",
+          "confidence": 0.9699
+        },
+        {
+          "x": 312.55,
+          "y": 1492.2,
+          "text": "chua can doi dugc ngan sach nha nuoc de ho trg cac doanh nghiep nho va vura.",
+          "confidence": 0.9649
+        },
+        {
+          "x": 398.02,
+          "y": 1577.39,
+          "text": "5. Truong hop xay dung De an ho trg doanh nghiep nho va vira tren dia",
+          "confidence": 0.9614
+        },
+        {
+          "x": 311.27,
+          "y": 1625.15,
+          "text": "ban, Uy ban nhan dan cap tinh thong bao tren trang thong tin dien tur cua dia",
+          "confidence": 0.9778
+        },
+        {
+          "x": 312.55,
+          "y": 1674.2,
+          "text": "phuong va thong bao cho Bo Ké hoach va Dau tu dé cong khai tren Cong",
+          "confidence": 0.9735
+        },
+        {
+          "x": 312.55,
+          "y": 1723.25,
+          "text": "thong tin theo quy dinh tai khoan 3 Dieu 29 Luat H6 trg doanh nghiep nho va",
+          "confidence": 0.9776
+        },
+        {
+          "x": 313.82,
+          "y": 1769.72,
+          "text": "vüa sau khi De an duoc phe duyet.",
+          "confidence": 0.9326
+        },
+        {
+          "x": 399.29,
+          "y": 1854.92,
+          "text": "6. Cung cap, cap nhat thong tin ve ho trg doanh nghiep nho va viua; cong",
+          "confidence": 0.9657
+        },
+        {
+          "x": 311.27,
+          "y": 1901.39,
+          "text": "Quu danyau yueop on gH nenT tI nia I uoui ien quip Anb ooq un Suoui gq",
+          "confidence": 0.6697
+        },
+        {
+          "x": 312.55,
+          "y": 1955.6,
+          "text": "va vua tren trang thong tin dien t'r cua dia phuong va thyc hien cong khai",
+          "confidence": 0.961
+        },
+        {
+          "x": 313.82,
+          "y": 2007.24,
+          "text": "thong.tin h? trg doanh nghiep nho va vira tren Cong thong tin theo quy dinh",
+          "confidence": 0.9582
+        },
+        {
+          "x": 312.55,
+          "y": 2053.71,
+          "text": "tai Dieu 29 Luat H6 trg doanh nghiep nh6 va vira.",
+          "confidence": 0.9541
+        },
+        {
+          "x": 396.74,
+          "y": 2135.03,
+          "text": "7. Dinh ky truoc ngay 15 thang 12 hang nam, gui bao cao ve Bo Ké",
+          "confidence": 0.9867
+        },
+        {
+          "x": 311.27,
+          "y": 2186.66,
+          "text": "hoach va Dau tur ve tinh hinh trien khai noi dung, de an, chuong trinh, ké",
+          "confidence": 0.9905
+        },
+        {
+          "x": 312.55,
+          "y": 2238.29,
+          "text": "hoach ho trg doanh nghiep nho va vua tren dia ban theo quy dinh tai Nghi",
+          "confidence": 0.9752
+        },
+        {
+          "x": 313.82,
+          "y": 2289.93,
+          "text": "dinh nay.",
+          "confidence": 0.9978
+        }
+      ]
+    },
+    {
+      "page": 24,
+      "image": "tmp/pdfs/nd80_2021/page-24.png",
+      "elapsed": [
+        0.7162666999938665,
+        0.024512529373168945,
+        4.085217237472534
+      ],
+      "rows": [
+        {
+          "x": 964.46,
+          "y": 65.6,
+          "text": "24",
+          "confidence": 0.9998
+        },
+        {
+          "x": 397.95,
+          "y": 190.37,
+          "text": "Dieu 30. Trach nhiem cua cac to churc chinh tri xa hoi - nghe nghiep;",
+          "confidence": 0.978
+        },
+        {
+          "x": 314.31,
+          "y": 239.25,
+          "text": "t6 chic xa hoi, to churc xa hoi - nghe nghiep",
+          "confidence": 0.975
+        },
+        {
+          "x": 401.75,
+          "y": 324.15,
+          "text": "1. Phoi hop voi bo, co quan ngang bo, co quan thuoc Chinh phu, Uy ban",
+          "confidence": 0.9814
+        },
+        {
+          "x": 314.31,
+          "y": 378.17,
+          "text": "nhan dan cap tinh thuc hien cac hoat dong ho tro doanh nghiep nho va vira",
+          "confidence": 0.9696
+        },
+        {
+          "x": 313.04,
+          "y": 427.05,
+          "text": "theo quy dinh tai Dieu 26 Luat H6 tro doanh nghiep nho va vira va Nghi dinh nay.",
+          "confidence": 0.9726
+        },
+        {
+          "x": 397.95,
+          "y": 508.08,
+          "text": "2. Cac to churc chinh tri xa hoi - nghe nghiep, to churc xa hoi, to chuc xa",
+          "confidence": 0.97
+        },
+        {
+          "x": 311.77,
+          "y": 559.54,
+          "text": "hoi - nghe nghiep co pham vi hoat dong ca nuoc hoac lien tinh: Can cur nhu",
+          "confidence": 0.9789
+        },
+        {
+          "x": 313.04,
+          "y": 610.99,
+          "text": "cau cua doanh nghiep nho va vua thuoc linh vuc, dia ban phu trach, hang nam",
+          "confidence": 0.9746
+        },
+        {
+          "x": 311.77,
+          "y": 653.44,
+          "text": "va trung han xay dung ke hoach va de xuat nhu cau, kinh phi ho tro guri Bo",
+          "confidence": 0.9779
+        },
+        {
+          "x": 314.31,
+          "y": 706.17,
+          "text": "Ké hoach va Dau tu tong hop chung; to churc thyc hien cac noi dung h6 tro",
+          "confidence": 0.9692
+        },
+        {
+          "x": 311.77,
+          "y": 755.05,
+          "text": "yy qun ono oq onia oonp na uanqu os oo un ena ea oqu danylu yueop",
+          "confidence": 0.5536
+        },
+        {
+          "x": 315.57,
+          "y": 806.5,
+          "text": "thyc hien hoat dong h6 tro doanh nghiep nho va vira cho co quan co tham",
+          "confidence": 0.9481
+        },
+        {
+          "x": 314.31,
+          "y": 854.1,
+          "text": "quyen giao nhiem vu thyrc hien hoat dong ho tro doanh nghiep nho va vura.",
+          "confidence": 0.9565
+        },
+        {
+          "x": 395.42,
+          "y": 933.85,
+          "text": "3. Cac to churc chinh tri xa hoi - nghe nghiep, to churc xa hoi, to churc xa",
+          "confidence": 0.9829
+        },
+        {
+          "x": 316.84,
+          "y": 990.44,
+          "text": "hoi - nghe nghiep cua dia phuong: Can cur nhu cau cua doanh nghiep nho va",
+          "confidence": 0.9777
+        },
+        {
+          "x": 314.31,
+          "y": 1034.18,
+          "text": "via thuoc linh yuc, dia ban phu trach, hang nam va trung han xay dung ké",
+          "confidence": 0.979
+        },
+        {
+          "x": 311.77,
+          "y": 1081.77,
+          "text": "hoach va de xuat nhu cau, kinh phi h6 tro gui So Ké hoach va Dau tu tong",
+          "confidence": 0.9746
+        },
+        {
+          "x": 313.04,
+          "y": 1134.51,
+          "text": "hop chung; to chuc thuc hien cac noi dung h6 tro doanh nghiep nho va vira",
+          "confidence": 0.9669
+        },
+        {
+          "x": 311.77,
+          "y": 1183.39,
+          "text": "qy suop hoy uy on q qu oo oq :o sonp a nu os oo un",
+          "confidence": 0.5093
+        },
+        {
+          "x": 313.04,
+          "y": 1232.27,
+          "text": "doanh nghiep nho va vira cho co quan co tham quyen giao nhiem vy thyc hien",
+          "confidence": 0.9778
+        },
+        {
+          "x": 313.04,
+          "y": 1282.43,
+          "text": "hoat dong ho tro doanh nghiep nho va vira.",
+          "confidence": 0.9747
+        },
+        {
+          "x": 399.22,
+          "y": 1366.04,
+          "text": "4. Huy dong cac nguon luc va thuc hien h6 tro doanh nghiép nho va vura",
+          "confidence": 0.962
+        },
+        {
+          "x": 315.57,
+          "y": 1414.92,
+          "text": "theo quy dinh tai Nghi dinh nay.",
+          "confidence": 0.9968
+        },
+        {
+          "x": 399.22,
+          "y": 1495.96,
+          "text": "Dieu 31. Trach nhiem cua co quan, t6 churc h6 tro doanh nghiep nh6",
+          "confidence": 0.9549
+        },
+        {
+          "x": 319.38,
+          "y": 1553.84,
+          "text": "va vira trong viec thu hoi kinh phi ho tro",
+          "confidence": 0.9653
+        },
+        {
+          "x": 403.02,
+          "y": 1631.02,
+          "text": "1. Co quan, to churc h6 tro doanh nghiep nho va vua thuc hien thu hoi",
+          "confidence": 0.9664
+        },
+        {
+          "x": 314.31,
+          "y": 1679.9,
+          "text": "kinh phi doi voi khoan kinh phi da h6 tro doanh nghiep nho va vua trong",
+          "confidence": 0.9582
+        },
+        {
+          "x": 314.31,
+          "y": 1732.63,
+          "text": "truong hop phat hien doanh nghiep ke khai khong trung thuc, s'r dung kinh",
+          "confidence": 0.9808
+        },
+        {
+          "x": 316.84,
+          "y": 1784.08,
+          "text": "phi ho trg khong dung muc dich va thyc hien khong dung cam ket ho tro.",
+          "confidence": 0.9717
+        },
+        {
+          "x": 400.49,
+          "y": 1861.26,
+          "text": "2. Viec thu hoi kinh phi h6 tro quy dinh tai khoan 1 Dieu nay thuc hien",
+          "confidence": 0.9698
+        },
+        {
+          "x": 315.57,
+          "y": 1914.0,
+          "text": "theo quy dinh cua phap luat.",
+          "confidence": 0.9926
+        },
+        {
+          "x": 400.49,
+          "y": 1993.75,
+          "text": "Dicu 32. Quy trinh, thu tuc h6 tro",
+          "confidence": 0.9526
+        },
+        {
+          "x": 403.02,
+          "y": 2082.5,
+          "text": "1. Doanh nghiep nho va vira duoc h6 trg thong qua cac co quan, to chuc",
+          "confidence": 0.9693
+        },
+        {
+          "x": 313.04,
+          "y": 2127.52,
+          "text": "h0 tro doanh nghiep nho va vira. Doanh nghiep nho va vura guri Ho so de xuat",
+          "confidence": 0.9612
+        },
+        {
+          "x": 313.04,
+          "y": 2177.69,
+          "text": "nhu cau ho trg quy dinh tai khoan 4 Dieu nay thong qua hinh thurc truc tiép",
+          "confidence": 0.9722
+        },
+        {
+          "x": 314.31,
+          "y": 2231.71,
+          "text": "hoac truc tuyen toi co quan, to churc h6 trg doanh nghiep nho va vua de xem",
+          "confidence": 0.9472
+        },
+        {
+          "x": 318.11,
+          "y": 2281.88,
+          "text": "xet, quyét dinh.",
+          "confidence": 0.9667
+        }
+      ]
+    },
+    {
+      "page": 25,
+      "image": "tmp/pdfs/nd80_2021/page-25.png",
+      "elapsed": [
+        0.7340766999986954,
+        0.023000240325927734,
+        3.692784070968628
+      ],
+      "rows": [
+        {
+          "x": 979.73,
+          "y": 77.45,
+          "text": "25",
+          "confidence": 0.9995
+        },
+        {
+          "x": 414.6,
+          "y": 200.08,
+          "text": "2. D6i voi noi dung ho trg thong tin, phat trién nguon nhan lyc cho",
+          "confidence": 0.9673
+        },
+        {
+          "x": 330.4,
+          "y": 258.17,
+          "text": "doanh nghiep nho va vira va h6 tro doanh nghiep nho va vura chuyen doi tir ho",
+          "confidence": 0.9414
+        },
+        {
+          "x": 330.4,
+          "y": 308.51,
+          "text": "kinh doanh: Co quan, to churc h8 trg doanh nghiep nho va vira thyc hien theo",
+          "confidence": 0.9604
+        },
+        {
+          "x": 326.58,
+          "y": 354.98,
+          "text": "ke hoach va dy toan ngan sach nha nuoc dugc giao.",
+          "confidence": 0.976
+        },
+        {
+          "x": 413.33,
+          "y": 435.01,
+          "text": "3. D6i voi noi dung ho trg tu van, cong nghe, h6 trg doanh nghiep nho",
+          "confidence": 0.963
+        },
+        {
+          "x": 330.4,
+          "y": 493.1,
+          "text": "va vira khoi nghiep sang tao, doanh nghiep nh6 va vira tham gia cum lien két",
+          "confidence": 0.9738
+        },
+        {
+          "x": 330.4,
+          "y": 544.73,
+          "text": "nganh, chuoi gia tri dugc thuc hien theo quy trinh, thu tuc nhu sau:",
+          "confidence": 0.9795
+        },
+        {
+          "x": 409.5,
+          "y": 620.89,
+          "text": "a) Trong thoi han 14 ngay lam viec ke tir ngay nhan duoc H6 so de xuat",
+          "confidence": 0.9576
+        },
+        {
+          "x": 326.58,
+          "y": 669.94,
+          "text": "nhu cau h6 tro cua doanh nghiep nh6 va vua, co quan, t6 chuc h6 trg doanh",
+          "confidence": 0.9529
+        },
+        {
+          "x": 325.3,
+          "y": 725.44,
+          "text": "nghiép nho va vira xem xet ho so, quyét dinh va co thong bao (bang van ban",
+          "confidence": 0.9813
+        },
+        {
+          "x": 322.75,
+          "y": 774.5,
+          "text": "hoac truc tuyén) cho doanh nghiep. Truong hop doanh nghiep khong du dieu",
+          "confidence": 0.9773
+        },
+        {
+          "x": 324.03,
+          "y": 822.26,
+          "text": "kien h6 trg, co quan, to churc h6 trg doanh nghiep nho va vira co thong bao dé",
+          "confidence": 0.9552
+        },
+        {
+          "x": 324.03,
+          "y": 877.76,
+          "text": "doanh nghiep biét. Truong hop doanh nghiep du dieu kien h6 tro nhung chua",
+          "confidence": 0.9712
+        },
+        {
+          "x": 326.58,
+          "y": 926.81,
+          "text": "day du ho so, co quan, to chuc h6 tro doanh nghiep nho va vura huong dan",
+          "confidence": 0.9485
+        },
+        {
+          "x": 322.75,
+          "y": 981.03,
+          "text": "doanh nghiep hoan thien ho so. Truong hop doanh nghiep du dieu kien h6 tro",
+          "confidence": 0.9828
+        },
+        {
+          "x": 324.03,
+          "y": 1028.79,
+          "text": "va day du ho so, co quan, to churc h6 trg doanh nghiep nho va vira c6 thong",
+          "confidence": 0.9526
+        },
+        {
+          "x": 320.2,
+          "y": 1076.55,
+          "text": "bao ve viec ho trg cho doanh nghiep, trong thong bao the hien ro noi dung,",
+          "confidence": 0.9709
+        },
+        {
+          "x": 322.75,
+          "y": 1130.76,
+          "text": "kinh phi ngan sach nha nuoc ho tro va kinh phi khac (néu c6).",
+          "confidence": 0.9792
+        },
+        {
+          "x": 409.5,
+          "y": 1212.09,
+          "text": "b) Trurong hop co quan, t? chuc h6 trg doanh nghiep nho va vura co kha",
+          "confidence": 0.954
+        },
+        {
+          "x": 321.48,
+          "y": 1266.3,
+          "text": "nang cung cap tryc tiep san pham, dich vu h6 trg cho doanh nghiep nho va vira:",
+          "confidence": 0.9603
+        },
+        {
+          "x": 409.5,
+          "y": 1341.17,
+          "text": "Sau khi co thong bao ve viéc h6 trg cho doanh nghiép nho va vua, co",
+          "confidence": 0.9575
+        },
+        {
+          "x": 320.2,
+          "y": 1392.8,
+          "text": "quan, to chuc h6 trg doanh nghiep nho va vura cung voi doanh nghiep nho va",
+          "confidence": 0.9688
+        },
+        {
+          "x": 322.75,
+          "y": 1444.43,
+          "text": "vua tién hanh ky hop dong; trong hop dong phai the hien ro phan kinh phi",
+          "confidence": 0.9758
+        },
+        {
+          "x": 321.48,
+          "y": 1496.07,
+          "text": "ngan sach nha nuoc ho tro, chi phi do doanh nghiep nho va vira chi tra, chi",
+          "confidence": 0.9695
+        },
+        {
+          "x": 321.48,
+          "y": 1543.83,
+          "text": "phi khac (neu co) va dieu khoan thanh toan. Tren co so ket qua trien khai thyc",
+          "confidence": 0.9822
+        },
+        {
+          "x": 318.92,
+          "y": 1594.17,
+          "text": "du d o uon nanb q ea fi qu 'ny wnuu ua iey uop doy uai",
+          "confidence": 0.5286
+        },
+        {
+          "x": 320.2,
+          "y": 1645.8,
+          "text": "dong theo quy dinh.",
+          "confidence": 0.9887
+        },
+        {
+          "x": 404.4,
+          "y": 1725.84,
+          "text": "loyd ena ea oqu datyau quop on qy onyo gn ‘uenb oo dou Suonii (o",
+          "confidence": 0.751
+        },
+        {
+          "x": 316.37,
+          "y": 1776.18,
+          "text": "hop voi co quan, t? chuc, ca nhan khac co nang lyrc cung cap san pham, dich",
+          "confidence": 0.9724
+        },
+        {
+          "x": 318.92,
+          "y": 1825.23,
+          "text": "vu h6 trg cho doanh nghiep nho va vira (goi chung la ben cung cap):",
+          "confidence": 0.9802
+        },
+        {
+          "x": 401.84,
+          "y": 1913.01,
+          "text": "Sau khi c6 thong bao ve viec ho tro cho doanh nghiep nho va vira, co",
+          "confidence": 0.9633
+        },
+        {
+          "x": 316.37,
+          "y": 1965.93,
+          "text": "quan, t? churc ho trg doanh nghiep nho va vira cung voi ben cung cap va",
+          "confidence": 0.9595
+        },
+        {
+          "x": 315.1,
+          "y": 2017.56,
+          "text": "doanh nghiep nho va vira tién hanh ky hop dong; trong hop dong phai the hien",
+          "confidence": 0.9789
+        },
+        {
+          "x": 316.37,
+          "y": 2071.78,
+          "text": "r6 phan kinh phi ngan sach nha nuoc h? trg, chi phi do doanh nghiep nho va",
+          "confidence": 0.9652
+        },
+        {
+          "x": 317.65,
+          "y": 2125.99,
+          "text": "vua chi tra, chi phi khac (néu co) va diéu khoan thanh toan. Tren co so két",
+          "confidence": 0.9594
+        },
+        {
+          "x": 315.1,
+          "y": 2176.33,
+          "text": "qua trien khai thuc hien hop dong, ba ben nghiem thu, thanh ly va thanh quyét",
+          "confidence": 0.9747
+        },
+        {
+          "x": 317.65,
+          "y": 2230.55,
+          "text": "toan chi phi hop dong theo quy dinh.",
+          "confidence": 0.9974
+        }
+      ]
+    },
+    {
+      "page": 26,
+      "image": "tmp/pdfs/nd80_2021/page-26.png",
+      "elapsed": [
+        0.7595607999974163,
+        0.025957822799682617,
+        3.8781051635742188
+      ],
+      "rows": [
+        {
+          "x": 967.0,
+          "y": 65.83,
+          "text": "26",
+          "confidence": 0.9999
+        },
+        {
+          "x": 403.02,
+          "y": 193.62,
+          "text": "d) Viec su dung, thanh toan, quyet toan kinh phi ngan sach nha nuoc ho",
+          "confidence": 0.9818
+        },
+        {
+          "x": 316.84,
+          "y": 245.26,
+          "text": "trg cua co quan, to chuc h6 trg doanh nghiep nho va vua theo cac truong hop",
+          "confidence": 0.9661
+        },
+        {
+          "x": 319.38,
+          "y": 295.6,
+          "text": "tai diem b, diem c khoan nay thuc hien theo quy dinh cua phap luat ve ngan",
+          "confidence": 0.9806
+        },
+        {
+          "x": 318.11,
+          "y": 344.65,
+          "text": "sach nha nuoc va van ban huong dan lien quan.",
+          "confidence": 0.9783
+        },
+        {
+          "x": 408.09,
+          "y": 402.74,
+          "text": "4. Ho so de xuat nhu cau ho tro bao gom:",
+          "confidence": 0.9694
+        },
+        {
+          "x": 405.56,
+          "y": 482.77,
+          "text": "a) To khai xac dinh doanh nghiep siéu nho, doanh nghiep nho, doanh",
+          "confidence": 0.9817
+        },
+        {
+          "x": 319.38,
+          "y": 529.24,
+          "text": "yuey ueq oni nud jen quip Anb ngu oay on gy ngo nyu yenx ap ea ena danyu",
+          "confidence": 0.7398
+        },
+        {
+          "x": 318.11,
+          "y": 580.87,
+          "text": "kem theo Nghi dinh nay;",
+          "confidence": 0.9666
+        },
+        {
+          "x": 405.56,
+          "y": 645.41,
+          "text": "b) Nhung tai lieu, ho so lien quan den noi dung de xuat ho trg (neu co).",
+          "confidence": 0.9694
+        },
+        {
+          "x": 400.49,
+          "y": 704.79,
+          "text": "5. Ho so thanh toan kinh phi ngan sach nha nuoc ho trg doanh nghiep",
+          "confidence": 0.9718
+        },
+        {
+          "x": 319.38,
+          "y": 762.88,
+          "text": "nho va vua bao gom:",
+          "confidence": 0.9734
+        },
+        {
+          "x": 403.02,
+          "y": 827.42,
+          "text": "a) Thong bao ve viéc h6 trg cho doanh nghiep nho va vua;",
+          "confidence": 0.9657
+        },
+        {
+          "x": 400.49,
+          "y": 895.83,
+          "text": "b) Hop dong, thanh ly hop dong va nghiem thu (néu co) giua doanh",
+          "confidence": 0.9596
+        },
+        {
+          "x": 318.11,
+          "y": 948.76,
+          "text": "nghiép nh? va vira voi co quan, to chuc, ca nhan cung cap dich vu h6 trg;",
+          "confidence": 0.9567
+        },
+        {
+          "x": 404.29,
+          "y": 1014.59,
+          "text": "c) Cac hoa don, chung tir tai chinh co lien quan.",
+          "confidence": 0.9785
+        },
+        {
+          "x": 885.89,
+          "y": 1150.13,
+          "text": "Chuong VI",
+          "confidence": 0.9704
+        },
+        {
+          "x": 737.6,
+          "y": 1212.09,
+          "text": "DIEU KHOAN THI HANH",
+          "confidence": 0.9971
+        },
+        {
+          "x": 401.75,
+          "y": 1311.48,
+          "text": "Dieu 33. Dieu khoan chuyen tiép",
+          "confidence": 0.9555
+        },
+        {
+          "x": 401.75,
+          "y": 1381.18,
+          "text": "1. Ke tir ngay Nghi dinh nay co hieu luc thi hanh, hoat dong ho trq",
+          "confidence": 0.9555
+        },
+        {
+          "x": 318.11,
+          "y": 1435.4,
+          "text": "doanh nghiep nho va vira truoc ngay Nghi dinh nay c6 hieu lyrc duroc tiép tuc",
+          "confidence": 0.9531
+        },
+        {
+          "x": 315.57,
+          "y": 1484.45,
+          "text": "thuc hien theo noi dung, chuong trinh, ké hoach da dugc phe duyet va doanh",
+          "confidence": 0.9827
+        },
+        {
+          "x": 314.31,
+          "y": 1532.21,
+          "text": ":Xeu yuip iyon ren quip Anb oau tou on qy ono Buony oonp ena pa oqu danyau",
+          "confidence": 0.7383
+        },
+        {
+          "x": 400.49,
+          "y": 1600.62,
+          "text": "2. Truong hop doanh nghiep nho va vua da nop ho so hoac de nghi ho",
+          "confidence": 0.9782
+        },
+        {
+          "x": 314.31,
+          "y": 1649.68,
+          "text": "unb oo sonp enyo gunqu quey l oni niu oo Xeu qup juan keau son on",
+          "confidence": 0.6336
+        },
+        {
+          "x": 311.77,
+          "y": 1694.86,
+          "text": "t6 churc ho trg co tham quyen phe duyet thi doanh nghiep nop lai hoac bo",
+          "confidence": 0.9737
+        },
+        {
+          "x": 309.24,
+          "y": 1742.62,
+          "text": "sung Ho so de xuat nhu cau h6 tro theo quy dinh tai Nghi dinh nay dé dugc",
+          "confidence": 0.9638
+        },
+        {
+          "x": 314.31,
+          "y": 1799.41,
+          "text": "xem xet, phe duyet theo quy dinh.",
+          "confidence": 0.9875
+        },
+        {
+          "x": 397.95,
+          "y": 1862.66,
+          "text": "3. Cac van ban phap luat ap dung theo noi dung va dinh murc ho trq",
+          "confidence": 0.9861
+        },
+        {
+          "x": 314.31,
+          "y": 1910.42,
+          "text": "1 Aeau d-aNa io7/ae gs quip iyan jen yuip Anb ena pa oqu danyau quop",
+          "confidence": 0.6156
+        },
+        {
+          "x": 314.31,
+          "y": 1962.06,
+          "text": "thang 3 nam 2018 cua Chinh phu quy. dinh chi tiét mot s6 dieu cua Luat H6",
+          "confidence": 0.9766
+        },
+        {
+          "x": 311.77,
+          "y": 2011.11,
+          "text": "tro doanh nghiep nho va vira, duoc dieu chinh theo noi dung va dinh murc h6",
+          "confidence": 0.955
+        },
+        {
+          "x": 313.04,
+          "y": 2060.16,
+          "text": "tro quy dinh tai Nghi dinh nay.",
+          "confidence": 0.9823
+        },
+        {
+          "x": 401.75,
+          "y": 2124.7,
+          "text": "Dieu 34. Hieu luc thi hanh",
+          "confidence": 0.9457
+        },
+        {
+          "x": 397.95,
+          "y": 2194.41,
+          "text": "Nghi dinh nay c6 hieu luc tir ngay 15 thang 10 nam 2021 va thay theé",
+          "confidence": 0.9538
+        },
+        {
+          "x": 314.31,
+          "y": 2238.29,
+          "text": "Anb nyd quu eno g1oz ueu e suy 1 Keu d-aN8 io7/6e os quip 1yan",
+          "confidence": 0.6297
+        },
+        {
+          "x": 316.84,
+          "y": 2289.93,
+          "text": "dinh chi tiét mot s6 dieu cua Luat H6 trg doanh nghiep nho va via.",
+          "confidence": 0.9653
+        }
+      ]
+    },
+    {
+      "page": 27,
+      "image": "tmp/pdfs/nd80_2021/page-27.png",
+      "elapsed": [
+        0.7300720000057481,
+        0.023284435272216797,
+        2.9251365661621094
+      ],
+      "rows": [
+        {
+          "x": 959.32,
+          "y": 90.36,
+          "text": "27",
+          "confidence": 0.9999
+        },
+        {
+          "x": 392.91,
+          "y": 212.99,
+          "text": "Dieu 35. Trach nhiem thi hanh",
+          "confidence": 0.9418
+        },
+        {
+          "x": 390.36,
+          "y": 277.53,
+          "text": "1. Bo Ké hoach va Dau tu.co trach nhiem huong dan; chu tri, ph6i hop",
+          "confidence": 0.9777
+        },
+        {
+          "x": 303.62,
+          "y": 334.32,
+          "text": "v6i cac bo, co quan ngang bo, co quan thuoc Chinh phu, Uy ban nhan dan cac",
+          "confidence": 0.9919
+        },
+        {
+          "x": 303.62,
+          "y": 385.96,
+          "text": "tinh, thanh ph6 tryc thuoc trung uong trién khai Nghi dinh nay, dinh ky bao",
+          "confidence": 0.981
+        },
+        {
+          "x": 303.62,
+          "y": 438.88,
+          "text": "cao Thu tuong Chinh phu tinh hinh thuc hien.",
+          "confidence": 0.9678
+        },
+        {
+          "x": 385.26,
+          "y": 507.29,
+          "text": "2. Cac Bo truong, Thu truong co quan ngang bo, Thu truong co quan",
+          "confidence": 0.9856
+        },
+        {
+          "x": 299.79,
+          "y": 552.47,
+          "text": "thuoc Chinh phu, Chu tich Uy ban nhan dan tinh, thanh ph6 tryc thuoc trung",
+          "confidence": 0.9814
+        },
+        {
+          "x": 301.06,
+          "y": 602.82,
+          "text": "uong chiu trach nhiem thi hanh Nghi dinh nay.:",
+          "confidence": 0.9892
+        },
+        {
+          "x": 299.79,
+          "y": 724.15,
+          "text": "Noi nhan:",
+          "confidence": 0.9884
+        },
+        {
+          "x": 1254.01,
+          "y": 724.15,
+          "text": "TM. CHINH PHU",
+          "confidence": 0.9816
+        },
+        {
+          "x": 297.24,
+          "y": 762.88,
+          "text": "- Ban Bi thu Trung uong Dang;",
+          "confidence": 0.9863
+        },
+        {
+          "x": 1315.24,
+          "y": 774.5,
+          "text": "THU TUONG",
+          "confidence": 0.9359
+        },
+        {
+          "x": 299.79,
+          "y": 806.77,
+          "text": "- Thu tuong, cac Ph6 Thu tuong Chinh phu;",
+          "confidence": 0.9635
+        },
+        {
+          "x": 1339.48,
+          "y": 826.13,
+          "text": "THU TUONG",
+          "confidence": 0.9881
+        },
+        {
+          "x": 298.51,
+          "y": 841.62,
+          "text": "- Cac bo, co quan ngang bo, co quan thuoc Chinh phu;",
+          "confidence": 0.9959
+        },
+        {
+          "x": 298.51,
+          "y": 876.47,
+          "text": "- HDND, UBND cac tinh, thanh pho tryc thuoc trung uong;",
+          "confidence": 0.9614
+        },
+        {
+          "x": 1134.09,
+          "y": 895.83,
+          "text": "IN",
+          "confidence": 0.8346
+        },
+        {
+          "x": 299.79,
+          "y": 917.78,
+          "text": "- Van phong Trung uong va cac Ban cua Dang;",
+          "confidence": 0.9849
+        },
+        {
+          "x": 301.06,
+          "y": 957.79,
+          "text": "- Van phong Tong Bi thu;",
+          "confidence": 0.9838
+        },
+        {
+          "x": 301.06,
+          "y": 996.52,
+          "text": "- Van phong Chu tich nuoc;",
+          "confidence": 0.9701
+        },
+        {
+          "x": 301.06,
+          "y": 1031.37,
+          "text": "- Hoi dong Dan toc va cac Uy ban cua Quoc hoi;",
+          "confidence": 0.9509
+        },
+        {
+          "x": 299.79,
+          "y": 1072.68,
+          "text": "- Van phong Quoc hoi;",
+          "confidence": 0.9975
+        },
+        {
+          "x": 295.96,
+          "y": 1107.53,
+          "text": "- Toa an nhan dan toi cao;",
+          "confidence": 0.9444
+        },
+        {
+          "x": 1287.18,
+          "y": 1111.4,
+          "text": "Le Minh Khai",
+          "confidence": 0.966
+        },
+        {
+          "x": 297.24,
+          "y": 1146.25,
+          "text": "- Vien kiem sat nhan dan toi cao;",
+          "confidence": 0.9547
+        },
+        {
+          "x": 297.24,
+          "y": 1187.56,
+          "text": "- Kiem toan nha nuoc;",
+          "confidence": 0.9507
+        },
+        {
+          "x": 295.96,
+          "y": 1219.83,
+          "text": "- Uy ban Giam sat tai chinh Quoc gia;",
+          "confidence": 0.9938
+        },
+        {
+          "x": 297.24,
+          "y": 1263.72,
+          "text": "- Ngan hang Chinh sach xa hoi;",
+          "confidence": 0.9911
+        },
+        {
+          "x": 298.51,
+          "y": 1305.03,
+          "text": "- Ngan hang Phat trien Viet Nam;",
+          "confidence": 0.9972
+        },
+        {
+          "x": 295.96,
+          "y": 1337.3,
+          "text": "- Uy ban trung uong Mat tran To quoc Viet Nam;",
+          "confidence": 0.9823
+        },
+        {
+          "x": 295.96,
+          "y": 1381.18,
+          "text": "- Co quan trung uong cua cac doan the;",
+          "confidence": 0.9792
+        },
+        {
+          "x": 294.69,
+          "y": 1414.75,
+          "text": "- Ban Chi dao Doi moi va Phat trien doanh nghiep;",
+          "confidence": 0.9726
+        },
+        {
+          "x": 297.24,
+          "y": 1458.63,
+          "text": "- Phong Thurong mai va Cong nghiep Viet Nam;",
+          "confidence": 0.9902
+        },
+        {
+          "x": 297.24,
+          "y": 1496.07,
+          "text": "- Hiep hoi DNNVV Viet Nam;",
+          "confidence": 0.9795
+        },
+        {
+          "x": 298.51,
+          "y": 1536.08,
+          "text": "- VPCP: BTCN, cac PCN, Trq ly TTg, TGD Cong TTDT,",
+          "confidence": 0.9819
+        },
+        {
+          "x": 321.48,
+          "y": 1576.1,
+          "text": "cac Vu, Cuc, don vi trrc thuoc, Cong bao;",
+          "confidence": 0.9672
+        },
+        {
+          "x": 297.24,
+          "y": 1612.24,
+          "text": "- Luu: VT, DMDN (2b). 113",
+          "confidence": 0.9362
+        }
+      ]
+    },
+    {
+      "page": 28,
+      "image": "tmp/pdfs/nd80_2021/page-28.png",
+      "elapsed": [
+        0.7074043000029633,
+        0.025999784469604492,
+        2.9371488094329834
+      ],
+      "rows": [
+        {
+          "x": 910.85,
+          "y": 169.1,
+          "text": "Phy luc",
+          "confidence": 0.913
+        },
+        {
+          "x": 705.46,
+          "y": 205.24,
+          "text": "ACDINH DOANH NGHIEP SIEU NHO,",
+          "confidence": 0.9652
+        },
+        {
+          "x": 723.32,
+          "y": 258.17,
+          "text": "GHIEP NHO, DOANH NGHIEP VUA",
+          "confidence": 0.9776
+        },
+        {
+          "x": 732.25,
+          "y": 305.93,
+          "text": "DE XUAT NHU CAU HO TRO",
+          "confidence": 0.9592
+        },
+        {
+          "x": 716.94,
+          "y": 349.81,
+          "text": "ntheoNghi dinh s080/2021/ND-CP",
+          "confidence": 0.9447
+        },
+        {
+          "x": 710.56,
+          "y": 397.57,
+          "text": "26 thang 8 nam 2021 cia Chinh phi)",
+          "confidence": 0.973
+        },
+        {
+          "x": 383.98,
+          "y": 527.95,
+          "text": "1. Thong tin chung ve doanh nghiep:",
+          "confidence": 0.9903
+        },
+        {
+          "x": 383.98,
+          "y": 601.53,
+          "text": "Ten doanh nghiép: ..",
+          "confidence": 0.9959
+        },
+        {
+          "x": 381.43,
+          "y": 658.32,
+          "text": "Ma so doanh nghiep/Ma so thue:",
+          "confidence": 0.9721
+        },
+        {
+          "x": 381.43,
+          "y": 725.44,
+          "text": "Loai hinh doanh nghiép: ..",
+          "confidence": 0.9849
+        },
+        {
+          "x": 383.98,
+          "y": 787.4,
+          "text": "Dia chi try so chinh: .",
+          "confidence": 0.9941
+        },
+        {
+          "x": 923.6,
+          "y": 849.36,
+          "text": "Tinh/thanh pho:",
+          "confidence": 0.9942
+        },
+        {
+          "x": 386.54,
+          "y": 855.82,
+          "text": "Quan/huyen: ...",
+          "confidence": 0.9752
+        },
+        {
+          "x": 382.71,
+          "y": 917.78,
+          "text": "Dien thoai:.",
+          "confidence": 0.9881
+        },
+        {
+          "x": 839.41,
+          "y": 917.78,
+          "text": "Fax:",
+          "confidence": 0.9907
+        },
+        {
+          "x": 1167.26,
+          "y": 917.78,
+          "text": ". Email:",
+          "confidence": 0.9914
+        },
+        {
+          "x": 381.43,
+          "y": 977.16,
+          "text": "2. Thong tin xac dinh doanh nghiep do phy nu lam chu:",
+          "confidence": 0.9698
+        },
+        {
+          "x": 383.98,
+          "y": 1039.12,
+          "text": "Co von dieu lé do mot hoac nhiéu phu nu so huru tu 51% tro lén:",
+          "confidence": 0.9362
+        },
+        {
+          "x": 853.44,
+          "y": 1097.2,
+          "text": "Khong",
+          "confidence": 0.9662
+        },
+        {
+          "x": 734.8,
+          "y": 1103.66,
+          "text": "C6",
+          "confidence": 0.7713
+        },
+        {
+          "x": 380.16,
+          "y": 1164.33,
+          "text": "Ten nguoi quan ly dieu hanh doanh nghiep:",
+          "confidence": 0.9827
+        },
+        {
+          "x": 381.43,
+          "y": 1227.58,
+          "text": "3. Thong tin ve tieu chi xac dinh quy mo doanh nghiep:",
+          "confidence": 0.972
+        },
+        {
+          "x": 381.43,
+          "y": 1294.7,
+          "text": "Linh vrc san xuat, kinh doanh chinh: .",
+          "confidence": 0.9706
+        },
+        {
+          "x": 381.43,
+          "y": 1352.79,
+          "text": "So lao dong tham gia bao hiem xa hoi binh quan nam:.",
+          "confidence": 0.9731
+        },
+        {
+          "x": 479.66,
+          "y": 1423.78,
+          "text": "Trong do, so lao dong nit:",
+          "confidence": 0.9897
+        },
+        {
+          "x": 380.16,
+          "y": 1481.87,
+          "text": "Tong nguon von: ..",
+          "confidence": 0.9991
+        },
+        {
+          "x": 381.43,
+          "y": 1545.12,
+          "text": "Tong doanh thu nam truoc lien ke:",
+          "confidence": 0.9806
+        },
+        {
+          "x": 380.16,
+          "y": 1609.66,
+          "text": "4. Doanh nghiép tu xac dinh thuoc quy mo (tich X vao 6 tuong ing):",
+          "confidence": 0.9598
+        },
+        {
+          "x": 1313.97,
+          "y": 1675.49,
+          "text": "Doanh nghiep viura",
+          "confidence": 0.912
+        },
+        {
+          "x": 378.88,
+          "y": 1678.07,
+          "text": "Doanh nghiep siéu nho  Doanh nghiép nho",
+          "confidence": 0.9428
+        },
+        {
+          "x": 378.88,
+          "y": 1733.58,
+          "text": "5. Cac noi dung de xuat ho trg (Doanh nghiep lua chon mot hoac nhieu",
+          "confidence": 0.9731
+        },
+        {
+          "x": 294.69,
+          "y": 1781.34,
+          "text": "noi dung ho trg):",
+          "confidence": 0.9438
+        },
+        {
+          "x": 380.16,
+          "y": 1840.72,
+          "text": "H6 tro cong nghe:",
+          "confidence": 0.9272
+        },
+        {
+          "x": 381.43,
+          "y": 1905.26,
+          "text": "H6 tro tu van: .",
+          "confidence": 0.9448
+        },
+        {
+          "x": 381.43,
+          "y": 1971.09,
+          "text": "Ho trg phat trien nguon nhan luc:.",
+          "confidence": 0.9337
+        },
+        {
+          "x": 380.16,
+          "y": 2034.34,
+          "text": "H6 trg doanh nghiép nho va vira chuyen doi tir ho kinh doanh:",
+          "confidence": 0.9515
+        },
+        {
+          "x": 383.98,
+          "y": 2164.72,
+          "text": "H6 tro doanh nghiep nho va vira khoi nghiép sang tao:",
+          "confidence": 0.9476
+        },
+        {
+          "x": 382.71,
+          "y": 2291.22,
+          "text": "H6 trg doanh nghiep nho va vira tham gia cum lién két nganh, chuoi",
+          "confidence": 0.9519
+        },
+        {
+          "x": 294.69,
+          "y": 2342.85,
+          "text": "gia tri:.",
+          "confidence": 0.9175
+        }
+      ]
+    },
+    {
+      "page": 29,
+      "image": "tmp/pdfs/nd80_2021/page-29.png",
+      "elapsed": [
+        0.6980048999976134,
+        0.006996870040893555,
+        0.8911621570587158
+      ],
+      "rows": [
+        {
+          "x": 984.74,
+          "y": 76.16,
+          "text": "2",
+          "confidence": 0.9986
+        },
+        {
+          "x": 396.68,
+          "y": 153.61,
+          "text": "DOANH NGHIEP CAM KET",
+          "confidence": 0.9933
+        },
+        {
+          "x": 399.22,
+          "y": 219.44,
+          "text": "1. Ve tinh chinh xac lien quan toi thong tin cua doanh nghiep.",
+          "confidence": 0.9843
+        },
+        {
+          "x": 397.95,
+          "y": 287.85,
+          "text": "2. Chap hanh nghiem chinh cac quy dinh cua phap luat Viet Nam.",
+          "confidence": 0.9943
+        },
+        {
+          "x": 1007.55,
+          "y": 464.7,
+          "text": "..., ngay ... thang ... nam ...",
+          "confidence": 0.9427
+        },
+        {
+          "x": 861.81,
+          "y": 512.46,
+          "text": "DAI DIEN HOP PHAP DOANH NGHIEP",
+          "confidence": 0.969
+        },
+        {
+          "x": 899.83,
+          "y": 560.22,
+          "text": "(Ky, ghi ro ho ten; chirc vu va dong dau)",
+          "confidence": 0.9557
+        },
+        {
+          "x": 306.7,
+          "y": 765.46,
+          "text": "Ho so kem theo:.",
+          "confidence": 0.9852
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+[
+  {
+    "id": "tech_hanoi",
+    "name": "Công ty Cổ phần NovaMind AI",
+    "tax_code": "0109998888",
+    "province": "Hà Nội",
+    "industry": "Phần mềm / AI",
+    "business_line": "Sản xuất phần mềm, nền tảng AI cho quản trị doanh nghiệp",
+    "employees": 25,
+    "revenue_bil": 8,
+    "capital_bil": 5,
+    "startup_innovation": true,
+    "stage": "MVP đã có khách hàng thử nghiệm",
+    "founded_year": 2024,
+    "representative": "Nguyễn Minh Anh",
+    "email": "founder@novamind.vn",
+    "phone": "0901234567"
+  },
+  {
+    "id": "manufacturing_binhduong",
+    "name": "Công ty TNHH Cơ khí An Phát",
+    "tax_code": "3701234567",
+    "province": "Bình Dương",
+    "industry": "Sản xuất",
+    "business_line": "Sản xuất linh kiện cơ khí chính xác cho chuỗi cung ứng công nghiệp",
+    "employees": 80,
+    "revenue_bil": 45,
+    "capital_bil": 20,
+    "startup_innovation": false,
+    "stage": "Đang mở rộng nhà xưởng",
+    "founded_year": 2020,
+    "representative": "Trần Quốc Huy",
+    "email": "contact@anphat-cokhi.vn",
+    "phone": "0912345678"
+  }
+]
