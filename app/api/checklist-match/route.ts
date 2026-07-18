@@ -7,7 +7,7 @@ export async function POST(req: Request) {
     const customApiKey = req.headers.get("x-ai-api-key");
     const customModel = req.headers.get("x-ai-model");
 
-    let apiKey = customApiKey;
+    let apiKey: string | null | undefined = customApiKey;
     if (!apiKey) {
       if (provider === "Google Gemini") {
         apiKey = process.env.GEMINI_API_KEY;
