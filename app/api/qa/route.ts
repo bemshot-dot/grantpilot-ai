@@ -229,7 +229,7 @@ export async function POST(request: Request) {
       const errorResponse: Answer = {
         text: `❌ Lỗi kết nối tới mô hình AI: "${errorMsg}". Vui lòng kiểm tra lại API Key hoặc đổi Model (ví dụ sang gemini-flash-latest) trong phần Cài đặt AI.`,
         citations: [],
-        confidence: "Lỗi kết nối"
+        confidence: "Ngoài corpus"
       };
       return NextResponse.json(errorResponse);
     }

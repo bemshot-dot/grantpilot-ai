@@ -7,7 +7,7 @@ export async function POST(req: Request) {
     const customApiKey = req.headers.get("x-ai-api-key");
     const customModel = req.headers.get("x-ai-model");
 
-    let apiKey = customApiKey;
+    let apiKey: string | null | undefined = customApiKey;
     if (!apiKey) {
       if (provider === "Google Gemini") {
         apiKey = process.env.GEMINI_API_KEY;
@@ -44,14 +44,23 @@ Khoảng thiếu hụt cần bổ sung: ${gaps.length ? gaps.join(" · ") : "Kh�
 
     // 1. Google Gemini
     if (provider === "Google Gemini") {
-      const model = customModel || "gemini-flash-latest";
-      const ai = new GoogleGenAI({ apiKey });
-      const response = await ai.models.generateContent({
-        model,
-        contents: userPrompt,
-        config: { systemInstruction }
+      const model = customModel || "gemini-2.5-flash";
+      const endpoint = `https://generativelanguage.googleapis.com/v1beta/models/${model}:generateContent?key=${apiKey}`;
+      const response = await fetch(endpoint, {
+        method: "POST",
+        headers: {
+          "Content-Type": "application/json"
+        },
+        body: JSON.stringify({
+          contents: [{ parts: [{ text: userPrompt }] }],
+          systemInstruction: { parts: [{ text: systemInstruction }] },
+          generationConfig: { temperature: 0.2 }
+        })
       });
-      return NextResponse.json({ explanation: response.text?.trim() || "Không thể khởi tạo phân tích." });
+      const data = await response.json();
+      if (!response.ok) throw new Error(data.error?.message || "Lỗi gọi Gemini API");
+      const replyText = data.candidates?.[0]?.content?.parts?.[0]?.text?.trim() || "";
+      return NextResponse.json({ explanation: replyText || "Không thể khởi tạo phân tích." });
     }
 
     // 2. OpenAI
