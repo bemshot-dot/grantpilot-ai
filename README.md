@@ -1,91 +1,92 @@
-# GrantPilot AI MVP
+# 🚀 GrantPilot AI - Trợ Lý Pháp Lý và Đối Chiếu Chính Sách Hỗ Trợ Doanh Nghiệp (DNNVV)
 
-Demo Next.js cho bài toán Policy & Grant Navigator: nhập hồ sơ doanh nghiệp, match chính sách/quỹ, hỏi đáp pháp lý có citation, tạo checklist và xuất đơn `.docx` cho Đề án 844.
+**GrantPilot AI** là nền tảng số hóa thông minh giúp các Doanh nghiệp nhỏ và vừa (DNNVV/SMEs) và Startup Việt Nam dễ dàng tiếp cận, đối chiếu và tối ưu hóa các chính sách hỗ trợ tài chính, quỹ phát triển và ưu đãi thuế từ Chính phủ.
 
-## Chạy local bằng Next.js
+---
 
+## ✨ Tính Năng Nổi Bật
+
+### 📋 1. Sàng Lọc & Khớp Chính Sách Cá Nhân Hóa (Policy Matching)
+- Tự động đối chiếu thông tin doanh nghiệp (quy mô lao động, doanh thu, lĩnh vực, vốn điều lệ) theo tiêu chuẩn phân loại DNNVV của **Nghị định 80/2021/NĐ-CP**.
+- Đề xuất chính xác các gói vay vốn (Quỹ phát triển DNNVV - SMEDF), tài trợ khởi nghiệp (Đề án 844), và ưu đãi thuế mới nhất (Hướng dẫn số 145/2026/HD-BKHCN).
+
+### 🔍 2. Trích Xuất Hồ Sơ Thông Minh (AI OCR & Document Parsing)
+- Hỗ trợ tải lên đa định dạng: **PDF**, ảnh chụp đăng ký kinh doanh (**PNG/JPG**), và tệp Word (**DOCX**).
+- AI tự động đọc hiểu báo cáo tài chính, đăng ký doanh nghiệp để điền Form thông tin trong 3 giây.
+
+### ✦ 3. Checklist Hồ Sơ Tự Động & Đối Chiếu Một Chạm (Smart Checklist)
+- Tự động tạo danh mục tài liệu cần chuẩn bị cho từng chính sách.
+- **Đối chiếu nhanh một chạm:** Tận dụng file hồ sơ đã tải ở Bước 1 để quét và kiểm tra độ khớp của các tài liệu trong Checklist (đánh dấu xanh/vàng/đỏ trực quan kèm bình luận chi tiết).
+
+### 💬 4. Hỏi Đáp Pháp Lý Đa Lượt (Multi-turn RAG Q&A)
+- Sử dụng mô hình **Google Gemini (REST API)** kết hợp cơ chế tìm kiếm lai (Hybrid Retrieval: BM25 + Dense Semantic Search).
+- Trích dẫn (Citation) nguồn luật, điều khoản rõ ràng, trực quan.
+- Tối ưu hóa truy vấn hội thoại tiếp diễn để giữ nguyên ngữ cảnh câu hỏi trước.
+
+### 🛡️ 5. Cam Kết Bảo Mật (Data Privacy)
+- Dữ liệu tệp văn bản thô được xử lý trực tiếp tại trình duyệt.
+- Các bước phân tích AI được mã hóa và gửi an toàn tới các máy chủ đầu cuối.
+
+---
+
+## 🛠️ Công Nghệ Sử Dụng
+
+- **Frontend/Backend:** Next.js 14 (React), Vanilla CSS (Tối ưu hóa UI/UX mượt mà, responsive tốt).
+- **Trí tuệ nhân tạo:** REST API gọi trực tiếp Google Gemini (Hỗ trợ tốt các API key định dạng mới `AQ.` và `AIzaSy`).
+- **Xử lý tài liệu:** Mammoth (.docx parsing), Google Gemini Document Understanding Engine.
+- **Quản lý mã nguồn:** Git (Branch `main` chuẩn hóa).
+
+---
+
+## 🚀 Hướng Dẫn Cài Đặt và Chạy Local
+
+### 1. Cài đặt các gói phụ thuộc:
 ```powershell
 npm install
-npm run dev
 ```
 
-Mở `http://localhost:3000`.
-
-Build production:
-
-```powershell
-npm run build
-npm run start -- -p 3000
-```
-
-### Biến môi trường (RAG Q&A)
-
-`Hỏi đáp pháp lý` gọi Gemini thật qua route `/api/qa`. Tạo file `.env.local` (đã gitignore, không commit) ở gốc repo:
-
-```
-GEMINI_API_KEY=<api-key-cua-ban>
+### 2. Cấu hình biến môi trường:
+Tạo file `.env.local` ở thư mục gốc của dự án:
+```env
+GEMINI_API_KEY=Mã_API_Key_Gemini_Của_Bạn
 GEMINI_MODEL=gemini-2.5-flash
 ```
 
-Lấy API key tại [Google AI Studio](https://aistudio.google.com/apikey). Retrieval là hybrid thật (BM25 + dense embedding + RRF, xem `lib/retrieval.ts`) — nếu thiếu `GEMINI_API_KEY`, retrieval tự rơi về BM25-only; nếu gọi LLM lỗi (quota/network), route tự rơi về câu trả lời soạn sẵn (rule-based) thay vì lỗi trắng trang — nhưng khi đó Q&A không còn là RAG thật, chỉ là fallback demo.
+### 3. Khởi chạy máy chủ phát triển (Dev server):
+```powershell
+npm run dev
+```
+Mở [http://localhost:3000](http://localhost:3000) trên trình duyệt để trải nghiệm.
 
-Sau khi sửa `data/corpus.json`, phải chạy lại embedding trước khi build/deploy, nếu không dense retrieval sẽ dùng embedding cũ (id không khớp sẽ tự bị bỏ qua, không lỗi, nhưng chunk mới sẽ chỉ được tìm thấy qua BM25):
-
+### 4. Cập nhật cơ sở dữ liệu nhúng (Embedding):
+Nếu bạn thay đổi nội dung các chính sách trong `data/corpus.json`, hãy chạy lại lệnh sau để cập nhật dữ liệu vector nhúng:
 ```powershell
 npm run data:embed
 ```
 
-## Deploy Render
+---
 
-Repo đã có `render.yaml` cho Render Web Service:
+## 🌐 Hướng Dẫn Deploy Online Lên Vercel / Render
 
-- Runtime: Node
-- Build command: `npm install && npm run build`
-- Start command: `npm run start`
-- Node version: `22`
+Dự án đã được tối ưu hóa cấu hình sẵn sàng cho việc đưa lên các đám mây lưu trữ online:
 
-Trên Render, tạo Blueprint hoặc Web Service từ GitHub repo này, rồi vào **Environment** thêm biến `GEMINI_API_KEY` (và tuỳ chọn `GEMINI_MODEL`) — nếu bỏ qua bước này, Q&A trên bản deploy sẽ luôn dùng fallback rule-based thay vì gọi LLM thật. Sau khi build xong, Render sẽ cấp URL dạng `https://<service-name>.onrender.com`.
+### Deploy lên Vercel (Khuyên dùng - Nhanh nhất)
+1. Đăng nhập vào [Vercel.com](https://vercel.com/) bằng tài khoản GitHub của bạn.
+2. Nhập (Import) kho chứa GitHub chứa dự án này.
+3. Trong mục **Environment Variables**, cấu hình biến `GEMINI_API_KEY`.
+4. Nhấn **`Deploy`** để nhận URL trang web chạy online miễn phí.
 
-Lưu ý: `render.yaml` hiện dùng gói free — có rủi ro cold-start đã ghi trong `grantpilot-ai-spec.md` mục 10.2/10.3, chưa phù hợp để demo trước giám khảo nếu chưa xử lý.
+### Deploy lên Render
+Dự án đã đính kèm file cấu hình [**`render.yaml`**](file:///d:/HACKATHON/GrantPilotAI-main/render.yaml) dành cho Render:
+- **Build Command:** `npm install && npm run build`
+- **Start Command:** `npm run start`
+- Cấu hình thêm biến môi trường `GEMINI_API_KEY` trong bảng quản trị dịch vụ Render của bạn.
 
-## Luồng demo nhanh
+---
 
-1. Ở `Tìm chính sách`, chọn hồ sơ mẫu `NovaMind AI`, bấm "Phân tích và tìm chính sách".
-2. Bấm "Xem chi tiết" một chính sách để thấy citation, checklist và nút "Xuất đơn .docx" (dùng được cho mọi chính sách có checklist, không chỉ Đề án 844).
-3. Mở `Hỏi đáp pháp lý`, thử 10 câu hỏi vàng.
-4. Chuyển hồ sơ mẫu sang `Cơ khí An Phát` để thấy kết quả ưu tiên SMEDF và chuỗi giá trị.
-5. Thử upload `data/synthetic_dkkd_novamind.txt` hoặc `data/synthetic_dkkd_anphat.txt` vào ô "Thả hồ sơ TXT" (OCR mock).
-6. Mở `Theo dõi cập nhật` để xem policy watch (nay có 14 tín hiệu, gồm cả các văn bản mới phát hiện qua crawl vbpl.vn/chinhphu.vn).
+## 📂 Danh Mục Thư Mục Chính
 
-## Dữ liệu seed
-
-- `data/sample_profiles.json`: 2 hồ sơ demo.
-- `data/policies.json`: rule matching, citation, checklist.
-- `data/corpus.json`: corpus Q&A theo điều/khoản (35 chunk).
-- `data/corpus_embeddings.json`: embedding từng chunk (`gemini-embedding-001`), dùng cho dense retrieval — build lại bằng `npm run data:embed` sau khi sửa corpus.
-- `data/policy_watch.json`: policy watch (14 mục, có cả mock lẫn văn bản thật đã crawl).
-- `data/vbpl_expansion_candidates.json`: ~400 văn bản từ vbpl.vn đã lọc theo domain nhưng chưa đưa vào corpus — pool mở rộng cho vòng sau.
-- `data/chinhphu_all_urls.json`, `data/chinhphu_relevant_articles.json`: snapshot crawl từ xaydungchinhsach.chinhphu.vn.
-- `data/source_verification.md`: nhật ký kiểm chứng URL/source dùng trong demo.
-- `data/verified_sources.json`: danh sách nguồn đã xác thực để crawl.
-- `data/crawled_sources.json`: snapshot crawl đã làm sạch từ nguồn xác thực.
-- `data/grantpilot.db`: SQLite database build từ seed + crawl.
-- `data/database_manifest.json`: số lượng bản ghi và trạng thái coverage.
-- `data/coverage_report.md`: các mảng dữ liệu còn thiếu/cần xác minh.
-
-`Hỏi đáp pháp lý` gọi Gemini thật (xem "Biến môi trường" ở trên); matching và các phần còn lại vẫn chạy rule-based phía client. Xem `grantpilot-ai-spec.md` mục 10 để biết chi tiết phần nào đã thật, phần nào còn giả lập/thiếu.
-
-Refresh database:
-
-```powershell
-npm run data:refresh
-```
-
-## Bản Streamlit dự phòng
-
-Các file Python cũ vẫn được giữ để dự phòng:
-
-```powershell
-pip install -r requirements.txt
-streamlit run app.py
-```
+- `/app`: Các route API trung gian và trang giao diện chính (`page.tsx`, `globals.css`).
+- `/data`: Cơ sở dữ liệu chính sách (`policies.json`), cơ sở dữ liệu hỏi đáp (`corpus.json`), vector nhúng (`corpus_embeddings.json`).
+- `/lib`: Công cụ logic so khớp (`grantpilot.ts`) và bộ máy truy vấn hỗn hợp (`retrieval.ts`).
+- `README.md`: Hướng dẫn giới thiệu dự án này.
