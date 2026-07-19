@@ -474,7 +474,7 @@
   },
   {
     "id": "nq12-hanoi",
-    "title": "Nghị nghị quyết 12/2026/NQ-HĐND Hà Nội",
+    "title": "Nghị quyết 12/2026/NQ-HĐND Hà Nội",
     "clause": "Điều 3 - Mức hỗ trợ",
     "status": "Còn hiệu lực (từ 01/10/2026)",
     "source": "https://vanban.hanoi.gov.vn",
@@ -511,5 +511,34 @@
       "bkhcn"
     ],
     "text": "Mức hỗ trợ theo Hướng dẫn 145/2026/HD-BKHCN gồm: Gói Hỗ trợ Tiền mặt (Grant) lên tới 3 tỷ đồng cho khâu thử nghiệm sản phẩm (MVP) và thương mại hóa; Hỗ trợ vay vốn lãi suất 0% năm đầu tiên thông qua Quỹ Phát triển doanh nghiệp nhỏ và vừa (SMEDF)."
+  },
+  {
+    "id": "qd456-btttt",
+    "title": "Quyết định 456/QĐ-BTTTT của Bộ Thông tin và Truyền thông",
+    "clause": "Khoản 2 Điều 1 - Chương trình AI và IoT",
+    "status": "Còn hiệu lực (từ 15/11/2026)",
+    "source": "https://mic.gov.vn",
+    "tags": [
+      "AI",
+      "IoT",
+      "thu_nghiem",
+      "bo_tttt",
+      "simulated"
+    ],
+    "text": "Quyết định 456/QĐ-BTTTT hỗ trợ 50% chi phí kiểm thử, đo lường và thử nghiệm hiệu năng phần mềm AI hoặc thiết bị IoT tại các phòng thí nghiệm trọng điểm quốc gia cho các doanh nghiệp khởi nghiệp đổi mới sáng tạo, mức tối đa không quá 150 triệu đồng trên mỗi dự án thử nghiệm."
+  },
+  {
+    "id": "nd99-thue",
+    "title": "Nghị định 99/2026/NĐ-CP của Chính phủ",
+    "clause": "Điều 8 - Miễn giảm thuế thu nhập doanh nghiệp",
+    "status": "Còn hiệu lực (từ 01/08/2026)",
+    "source": "https://chinhphu.vn",
+    "tags": [
+      "thue_tndn",
+      "mien_thue",
+      "uu_dai_tai_chinh",
+      "simulated"
+    ],
+    "text": "Nghị định 99/2026/NĐ-CP quy định miễn thuế thu nhập doanh nghiệp (TNDN) trong 2 năm đầu tiên và giảm 50% số thuế phải nộp trong 3 năm tiếp theo đối với các doanh nghiệp khởi nghiệp sáng tạo và doanh nghiệp khoa học công nghệ mới thành lập có doanh thu dưới 10 tỷ đồng/năm."
   }
 ]
