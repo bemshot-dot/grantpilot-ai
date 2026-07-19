@@ -37,7 +37,7 @@ function formatDate(value: string) {
 
 function statusClass(status: string) {
   const value = status.toLowerCase();
-  if (value.includes("cần xác minh") || value.includes("chưa ban hành") || value.includes("đang soạn thảo")) return "warning";
+  if (value.includes("cần xác minh") || value.includes("chưa ban hành") || value.includes("đang soạn thảo") || value.includes("chờ đồng bộ")) return "warning";
   if (value.includes("seed") || value.includes("nháp")) return "neutral";
   return "success";
 }
@@ -396,7 +396,7 @@ export default function Home() {
     const steps = [
       "📡 Đang kết nối tới Cổng Thông tin điện tử Chính phủ...",
       "🔍 Quét các văn bản luật ban hành tháng gần nhất (07/2026)...",
-      "✨ Phát hiện văn bản mới: Nghị quyết 12/2026/NQ-HĐND Hà Nội...",
+      "✨ Phát hiện 3 văn bản mới: TT 12/2026/TT-BTTTT, QĐ 88/QĐ-TTg, NQ 05/NQ-HĐND TP.HCM...",
       "⚙ Đang chạy AI Chunking & Cập nhật cơ sở dữ liệu..."
     ];
     
@@ -1151,24 +1151,30 @@ export default function Home() {
                 </div>
               </div>
               <div className="timeline">
-                {policyWatch.map((item) => (
-                  <article key={`${item.date}-${item.title}`}>
-                    <div className="timeline-date">
-                      <strong>{item.date.slice(8, 10)}</strong>
-                      <span>THÁNG {item.date.slice(5, 7)}</span>
-                    </div>
-                    <div className={`timeline-dot ${statusClass(item.status)}`} />
-                    <div className="timeline-content">
-                      <div>
-                        <span className={`badge ${statusClass(item.status)}`}>{item.status}</span>
-                        <small>{formatDate(item.date)}</small>
+                {policyWatch.map((item) => {
+                  let status = item.status;
+                  if (crawlStatus === "success" && status === "Chờ đồng bộ (Mới)") {
+                    status = "Đã đồng bộ vào RAG";
+                  }
+                  return (
+                    <article key={`${item.date}-${item.title}`}>
+                      <div className="timeline-date">
+                        <strong>{item.date.slice(8, 10)}</strong>
+                        <span>THÁNG {item.date.slice(5, 7)}</span>
                       </div>
-                      <h3>{item.title}</h3>
-                      <p>{item.impact}</p>
-                      <a href={item.source} target="_blank" rel="noopener noreferrer">Kiểm tra nguồn chính thức →</a>
-                    </div>
-                  </article>
-                ))}
+                      <div className={`timeline-dot ${statusClass(status)}`} />
+                      <div className="timeline-content">
+                        <div>
+                          <span className={`badge ${statusClass(status)}`}>{status}</span>
+                          <small>{formatDate(item.date)}</small>
+                        </div>
+                        <h3>{item.title}</h3>
+                        <p>{item.impact}</p>
+                        <a href={item.source} target="_blank" rel="noopener noreferrer">Kiểm tra nguồn chính thức →</a>
+                      </div>
+                    </article>
+                  );
+                })}
               </div>
             </section>
           </section>
