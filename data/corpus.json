@@ -540,5 +540,23 @@
       "simulated"
     ],
     "text": "Nghị định 99/2026/NĐ-CP quy định miễn thuế thu nhập doanh nghiệp (TNDN) trong 2 năm đầu tiên và giảm 50% số thuế phải nộp trong 3 năm tiếp theo đối với các doanh nghiệp khởi nghiệp sáng tạo và doanh nghiệp khoa học công nghệ mới thành lập có doanh thu dưới 10 tỷ đồng/năm."
+  },
+  {
+    "id": "nd168-dieu5",
+    "title": "Nghị định 168/2025/NĐ-CP của Chính phủ",
+    "clause": "Điều 5 - Liên thông thủ tục đăng ký doanh nghiệp và đăng ký thuế",
+    "status": "Còn hiệu lực (từ 01/07/2025)",
+    "source": "https://dangkykinhdoanh.gov.vn",
+    "tags": ["dang_ky_kinh_doanh", "thue", "lien_thong", "thu_tuc", "nd168"],
+    "text": "Nghị định 168/2025/NĐ-CP quy định cơ chế liên thông 100% giữa Cơ quan Đăng ký kinh doanh và Cơ quan Thuế. Mã số doanh nghiệp đồng thời là mã số thuế của doanh nghiệp, được hệ thống tạo tự động ngay khi cơ quan đăng ký kinh doanh chấp thuận hồ sơ thành lập hợp lệ."
+  },
+  {
+    "id": "nd168-dieu12",
+    "title": "Nghị định 168/2025/NĐ-CP của Chính phủ",
+    "clause": "Điều 12 - Thủ tục đăng ký doanh nghiệp qua mạng điện tử",
+    "status": "Còn hiệu lực (từ 01/07/2025)",
+    "source": "https://dangkykinhdoanh.gov.vn",
+    "tags": ["dang_ky_kinh_doanh", "online", "chu_ky_so", "nd168"],
+    "text": "Doanh nghiệp được thực hiện thủ tục đăng ký doanh nghiệp qua mạng điện tử sử dụng chữ ký số hoặc tài khoản đăng ký kinh doanh. Hồ sơ đăng ký kinh doanh qua mạng điện tử có giá trị pháp lý tương đương hồ sơ bản giấy và được miễn hoàn toàn lệ phí đăng ký doanh nghiệp."
   }
 ]

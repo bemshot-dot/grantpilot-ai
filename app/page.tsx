@@ -69,7 +69,13 @@ export default function Home() {
   const [docxLoading, setDocxLoading] = useState(false);
   const [message, setMessage] = useState("");
   const [error, setError] = useState("");
-  const [uploadedProfileFile, setUploadedProfileFile] = useState<File | null>(null);
+  const [uploadedProfileFile, setUploadedProfileFile] = useState<File | null>(
+    typeof window !== "undefined"
+      ? new File([""], "HoSoDeNghiVayVon_SMEDF_NovaMind.docx", {
+          type: "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+        })
+      : null
+  );
 
   interface ChatMessage {
     id: string;
@@ -146,6 +152,23 @@ export default function Home() {
     setResults([]);
     setMessage(`Đã chọn hồ sơ mẫu ${candidate.name}.`);
     setError("");
+    
+    // Gán tệp mô phỏng tương ứng để hiển thị trong Checklist
+    if (candidate.id === "tech_hanoi") {
+      setUploadedProfileFile(
+        new File([""], "HoSoDeNghiVayVon_SMEDF_NovaMind.docx", {
+          type: "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+        })
+      );
+    } else if (candidate.id === "manufacturing_binhduong") {
+      setUploadedProfileFile(
+        new File([""], "GiayDangKyDoanhNghiep_AnPhat.pdf", {
+          type: "application/pdf"
+        })
+      );
+    } else {
+      setUploadedProfileFile(null);
+    }
   }
 
   async function handleFile(file?: File) {

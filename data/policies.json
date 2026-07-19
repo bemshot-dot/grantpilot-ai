@@ -331,5 +331,36 @@
       "Hợp đồng cung cấp giải pháp hoặc hóa đơn thanh toán thuê/mua phần mềm",
       "Tờ khai xác định quy mô doanh nghiệp siêu nhỏ/nhỏ"
     ]
+  },
+  {
+    "id": "p_nd168_dangky",
+    "title": "Quy định đăng ký doanh nghiệp mới theo Nghị định 168",
+    "program": "Nghị định 168/2025/NĐ-CP",
+    "scope": "Toàn quốc",
+    "status": "Còn hiệu lực (từ 01/07/2025)",
+    "source": "https://dangkykinhdoanh.gov.vn",
+    "summary": "Quy định thống nhất về đăng ký thành lập doanh nghiệp, chi nhánh, văn phòng đại diện trực tuyến, liên thông thuế và đơn giản hóa thủ tục hành chính.",
+    "benefits": ["Đăng ký doanh nghiệp trực tuyến 100% miễn lệ phí", "Liên thông đăng ký kinh doanh và đăng ký thuế tự động", "Rút ngắn thời gian cấp giấy chứng nhận trong 3 ngày làm việc"],
+    "eligibility": {
+      "requires_sme": false,
+      "requires_startup_innovation": false,
+      "industries": ["Tất cả"],
+      "provinces": ["Tất cả"]
+    },
+    "citations": [
+      {
+        "document": "Nghị định 168/2025/NĐ-CP",
+        "clause": "Điều 5 - Liên thông thủ tục đăng ký",
+        "status": "Còn hiệu lực",
+        "source": "https://dangkykinhdoanh.gov.vn"
+      },
+      {
+        "document": "Luật Doanh nghiệp 2020",
+        "clause": "Điều 26 - Trình tự, thủ tục đăng ký doanh nghiệp",
+        "status": "Còn hiệu lực",
+        "source": "https://vanban.chinhphu.vn"
+      }
+    ],
+    "checklist": ["Đơn đề nghị đăng ký doanh nghiệp", "Điều lệ công ty", "Danh sách thành viên/cổ đông sáng lập", "Bản sao hợp lệ căn cước công dân/hộ chiếu"]
   }
 ]
