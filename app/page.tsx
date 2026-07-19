@@ -876,11 +876,34 @@ export default function Home() {
             <div style={{ display: "flex", flexDirection: "column", gap: "20px" }}>
               {/* Chat Panel (Trò chuyện tư vấn) */}
               <section className="panel-card" style={{ display: "flex", flexDirection: "column", height: "550px", paddingBottom: "15px" }}>
-                <div className="section-heading compact" style={{ flexShrink: 0 }}>
+                <div className="section-heading compact" style={{ flexShrink: 0, display: "flex", justifyContent: "space-between", alignItems: "center" }}>
                   <div>
                     <span className="eyebrow">BƯỚC 02 · TRÒ CHUYỆN TƯ VẤN</span>
                     <h3>Trò chuyện tư vấn</h3>
                   </div>
+                  {chatHistory.length > 0 && (
+                    <button 
+                      onClick={() => setChatHistory([])}
+                      style={{
+                        background: "#fff1f2",
+                        border: "1px solid #fecdd3",
+                        color: "#e11d48",
+                        padding: "6px 12px",
+                        borderRadius: "6px",
+                        fontSize: "0.75rem",
+                        fontWeight: "600",
+                        cursor: "pointer",
+                        display: "flex",
+                        alignItems: "center",
+                        gap: "4px",
+                        transition: "all 0.15s ease"
+                      }}
+                      onMouseOver={(e) => { e.currentTarget.style.background = "#ffe4e6"; }}
+                      onMouseOut={(e) => { e.currentTarget.style.background = "#fff1f2"; }}
+                    >
+                      🔄 Xoá đoạn chat
+                    </button>
+                  )}
                 </div>
                 
                 <div style={{
