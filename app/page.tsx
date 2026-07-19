@@ -1416,6 +1416,8 @@ export default function Home() {
                       setAiModel("claude-sonnet-4-5");
                     } else if (provider === "xAI Grok") {
                       setAiModel("grok-4-fast");
+                    } else if (provider === "FPT AI") {
+                      setAiModel("DeepSeek-V4-Flash");
                     }
                   }}
                   style={{ padding: "8px 12px", borderRadius: "6px", border: "1px solid #d1d5db", fontSize: "0.9rem" }}
@@ -1424,6 +1426,7 @@ export default function Home() {
                   <option value="OpenAI">OpenAI</option>
                   <option value="Anthropic">Anthropic</option>
                   <option value="xAI Grok">xAI Grok</option>
+                  <option value="FPT AI">FPT AI Marketplace</option>
                 </select>
               </label>
 

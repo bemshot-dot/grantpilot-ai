@@ -18,6 +18,8 @@ export async function POST(req: Request) {
         apiKey = process.env.ANTHROPIC_API_KEY;
       } else if (provider === "xAI Grok") {
         apiKey = process.env.GROK_API_KEY || process.env.OPENAI_API_KEY;
+      } else if (provider === "FPT AI") {
+        apiKey = process.env.FPT_API_KEY;
       }
     }
 
@@ -79,10 +81,13 @@ export async function POST(req: Request) {
         return NextResponse.json(JSON.parse(text));
       }
 
-      // 2. OpenAI
-      if (provider === "OpenAI") {
-        const model = customModel || "gpt-4o-mini";
-        const response = await fetch("https://api.openai.com/v1/chat/completions", {
+      // 2. OpenAI & FPT AI (docx)
+      if (provider === "OpenAI" || provider === "FPT AI") {
+        const model = customModel || (provider === "FPT AI" ? "DeepSeek-V4-Flash" : "gpt-4o-mini");
+        const endpoint = provider === "FPT AI" 
+          ? "https://mkp-api.fptcloud.com/v1/chat/completions" 
+          : "https://api.openai.com/v1/chat/completions";
+        const response = await fetch(endpoint, {
           method: "POST",
           headers: { "Content-Type": "application/json", "Authorization": `Bearer ${apiKey}` },
           body: JSON.stringify({
@@ -95,7 +100,7 @@ export async function POST(req: Request) {
           })
         });
         const data = await response.json();
-        if (!response.ok) throw new Error(data.error?.message || "Lỗi OpenAI API");
+        if (!response.ok) throw new Error(data.error?.message || `Lỗi gọi ${provider} API`);
         return NextResponse.json(JSON.parse(data.choices[0].message.content));
       }
 
@@ -200,14 +205,12 @@ export async function POST(req: Request) {
       return NextResponse.json(JSON.parse(resultText));
     }
 
-    // ----------------------------------------------------
-    // Xử lý bằng nhà cung cấp: OPENAI (Chỉ hỗ trợ Ảnh, PDF tự động fallback sang Gemini nếu cấu hình sẵn)
-    // ----------------------------------------------------
-    if (provider === "OpenAI") {
+    // 2. OpenAI & FPT AI (image OCR)
+    if (provider === "OpenAI" || provider === "FPT AI") {
       if (isPdf) {
         // Fallback sang Gemini nếu có cấu hình sẵn
         if (process.env.GEMINI_API_KEY) {
-          console.log("[OpenAI Fallback] Đọc file PDF chuyển hướng sang Gemini...");
+          console.log(`[${provider} Fallback] Đọc file PDF chuyển hướng sang Gemini...`);
           const geminiApiKey = process.env.GEMINI_API_KEY;
           const endpoint = `https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent?key=${geminiApiKey}`;
           const response = await fetch(endpoint, {
@@ -243,15 +246,18 @@ export async function POST(req: Request) {
           }
         }
         return NextResponse.json(
-          { error: "OpenAI không hỗ trợ đọc file PDF trực tiếp. Vui lòng chuyển sang nhà cung cấp Google Gemini hoặc tải lên file ảnh (PNG/JPG)." },
+          { error: `${provider} không hỗ trợ đọc file PDF trực tiếp. Vui lòng chuyển sang nhà cung cấp Google Gemini hoặc tải lên file ảnh (PNG/JPG).` },
           { status: 400 }
         );
       }
 
-      const model = customModel || "gpt-4o";
-      console.log(`[OpenAI Vision OCR] Đang phân tích ảnh ${file.name} bằng ${model}...`);
+      const model = customModel || (provider === "FPT AI" ? "Qwen2.5-VL-7B-Instruct" : "gpt-4o");
+      const endpoint = provider === "FPT AI" 
+        ? "https://mkp-api.fptcloud.com/v1/chat/completions" 
+        : "https://api.openai.com/v1/chat/completions";
+      console.log(`[${provider} Vision OCR] Đang phân tích ảnh ${file.name} bằng ${model}...`);
       
-      const response = await fetch("https://api.openai.com/v1/chat/completions", {
+      const response = await fetch(endpoint, {
         method: "POST",
         headers: {
           "Content-Type": "application/json",
@@ -282,7 +288,7 @@ export async function POST(req: Request) {
       });
 
       const data = await response.json();
-      if (!response.ok) throw new Error(data.error?.message || "Lỗi gọi OpenAI API");
+      if (!response.ok) throw new Error(data.error?.message || `Lỗi gọi ${provider} API`);
       return NextResponse.json(JSON.parse(data.choices[0].message.content));
     }
 

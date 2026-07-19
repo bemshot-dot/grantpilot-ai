@@ -17,6 +17,8 @@ export async function POST(req: Request) {
         apiKey = process.env.ANTHROPIC_API_KEY;
       } else if (provider === "xAI Grok") {
         apiKey = process.env.GROK_API_KEY || process.env.OPENAI_API_KEY;
+      } else if (provider === "FPT AI") {
+        apiKey = process.env.FPT_API_KEY;
       }
     }
 
@@ -151,11 +153,16 @@ ${textDocumentsContext}`;
       return NextResponse.json(JSON.parse(text));
     }
 
-    // 2. OpenAI & xAI Grok (Tương thích)
-    if (provider === "OpenAI" || provider === "xAI Grok") {
+    // 2. OpenAI & xAI Grok & FPT AI (Tương thích)
+    if (provider === "OpenAI" || provider === "xAI Grok" || provider === "FPT AI") {
       const isGrok = provider === "xAI Grok";
-      const endpoint = isGrok ? "https://api.x.ai/v1/chat/completions" : "https://api.openai.com/v1/chat/completions";
-      const model = customModel || (isGrok ? "grok-4-fast" : "gpt-4o-mini");
+      const isFpt = provider === "FPT AI";
+      const endpoint = isGrok 
+        ? "https://api.x.ai/v1/chat/completions" 
+        : isFpt 
+          ? "https://mkp-api.fptcloud.com/v1/chat/completions" 
+          : "https://api.openai.com/v1/chat/completions";
+      const model = customModel || (isGrok ? "grok-4-fast" : isFpt ? "DeepSeek-V4-Flash" : "gpt-4o-mini");
 
       const imageContentBlocks = documentsData.filter(doc => !doc.isTxt).map(doc => ({
         type: "image_url",

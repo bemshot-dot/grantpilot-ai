@@ -17,6 +17,8 @@ export async function POST(req: Request) {
         apiKey = process.env.ANTHROPIC_API_KEY;
       } else if (provider === "xAI Grok") {
         apiKey = process.env.GROK_API_KEY || process.env.OPENAI_API_KEY;
+      } else if (provider === "FPT AI") {
+        apiKey = process.env.FPT_API_KEY;
       }
     }
 
@@ -63,10 +65,13 @@ Khoảng thiếu hụt cần bổ sung: ${gaps.length ? gaps.join(" · ") : "Kh�
       return NextResponse.json({ explanation: replyText || "Không thể khởi tạo phân tích." });
     }
 
-    // 2. OpenAI
-    if (provider === "OpenAI") {
-      const model = customModel || "gpt-4o-mini";
-      const response = await fetch("https://api.openai.com/v1/chat/completions", {
+    // 2. OpenAI & FPT AI (recommendation)
+    if (provider === "OpenAI" || provider === "FPT AI") {
+      const model = customModel || (provider === "FPT AI" ? "DeepSeek-V4-Flash" : "gpt-4o-mini");
+      const endpoint = provider === "FPT AI" 
+        ? "https://mkp-api.fptcloud.com/v1/chat/completions" 
+        : "https://api.openai.com/v1/chat/completions";
+      const response = await fetch(endpoint, {
         method: "POST",
         headers: {
           "Content-Type": "application/json",
@@ -82,7 +87,7 @@ Khoảng thiếu hụt cần bổ sung: ${gaps.length ? gaps.join(" · ") : "Kh�
         })
       });
       const data = await response.json();
-      if (!response.ok) throw new Error(data.error?.message || "Lỗi gọi OpenAI API");
+      if (!response.ok) throw new Error(data.error?.message || `Lỗi gọi ${provider} API`);
       return NextResponse.json({ explanation: data.choices[0].message.content.trim() });
     }
 
