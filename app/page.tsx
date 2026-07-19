@@ -360,7 +360,8 @@ export default function Home() {
           "Content-Type": "application/json",
           "x-ai-provider": aiProvider,
           "x-ai-api-key": aiApiKey,
-          "x-ai-model": aiModel
+          "x-ai-model": aiModel,
+          "x-crawled-active": crawlStatus === "success" ? "true" : "false"
         },
         body: JSON.stringify({ 
           question: nextQuestion, 

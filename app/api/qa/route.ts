@@ -59,8 +59,9 @@ export async function POST(request: Request) {
     }
   }
 
-  let { chunks, mode } = await hybridRetrieve(searchQuery, 5);
-  console.log(`[/api/qa] retrieval mode=${mode} chunks=${chunks.length} searchQuery="${searchQuery}"`);
+  const includeCrawled = request.headers.get("x-crawled-active") === "true";
+  let { chunks, mode } = await hybridRetrieve(searchQuery, 5, includeCrawled);
+  console.log(`[/api/qa] retrieval mode=${mode} chunks=${chunks.length} includeCrawled=${includeCrawled} searchQuery="${searchQuery}"`);
 
   // Tự động chèn bối cảnh phân loại doanh nghiệp (Nghị định 80 Điều 5) nếu hỏi về quy mô của mình
   const lowerQ = question.toLowerCase();

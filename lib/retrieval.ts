@@ -8,16 +8,58 @@ import corpusData from "@/data/corpus.json";
 import embeddingsData from "@/data/corpus_embeddings.json";
 import { normalizeText, type CorpusChunk } from "@/lib/grantpilot";
 
-function getCorpus(): CorpusChunk[] {
+export const crawledChunksGlobal = [
+  {
+    id: "tt12-btttt",
+    title: "Thông tư 12/2026/TT-BTTTT của Bộ Thông tin và Truyền thông",
+    clause: "Khoản 1 Điều 3 - Hỗ trợ an toàn thông tin AI",
+    status: "Còn hiệu lực (từ 01/12/2026)",
+    source: "https://mic.gov.vn",
+    tags: ["AI", "an_toan_thong_tin", "bo_tttt", "simulated"],
+    text: "Thông tư 12/2026/TT-BTTTT quy định hỗ trợ 100% chi phí đánh giá, kiểm thử bảo mật và cấp chứng nhận tiêu chuẩn an toàn thông tin cho các sản phẩm, giải pháp Trí tuệ nhân tạo (AI) của các doanh nghiệp khởi nghiệp đổi mới sáng tạo, mức hỗ trợ tối đa không quá 80 triệu đồng trên mỗi sản phẩm ứng dụng."
+  },
+  {
+    "id": "qd88-ttg",
+    "title": "Quyết định 88/QĐ-TTg của Thủ tướng Chính phủ",
+    "clause": "Mục II Điều 2 - Gói đào tạo nguồn nhân lực",
+    "status": "Còn hiệu lực (từ 10/10/2026)",
+    "source": "https://chinhphu.vn",
+    "tags": ["ban_dan", "vi_mach", "nhan_luc", "tai_tro", "simulated"],
+    "text": "Quyết định 88/QĐ-TTg phê duyệt chương trình hỗ trợ phát triển nguồn nhân lực chất lượng cao, tài trợ 70% kinh phí đào tạo chuyên sâu và thực hành thiết kế vi mạch, bán dẫn cho nhân sự của các startup công nghệ và doanh nghiệp khoa học công nghệ mới thành lập, mức hỗ trợ tối đa 200 triệu đồng trên mỗi doanh nghiệp."
+  },
+  {
+    "id": "nq05-hcm",
+    "title": "Nghị quyết 05/NQ-HĐND của HĐND TP. Hồ Chí Minh",
+    "clause": "Điều 5 - Ưu đãi lãi suất R&D",
+    "status": "Còn hiệu lực (từ 01/11/2026)",
+    "source": "https://tphcm.gov.vn",
+    "tags": ["hcm", "lai_suat", "R_D", "cong_nghe_cao", "simulated"],
+    "text": "Nghị quyết 05/NQ-HĐND TP.HCM quy định chính sách hỗ trợ 100% lãi suất vay vốn ngân hàng trong thời gian tối đa 3 năm đầu cho các dự án đầu tư nghiên cứu phát triển (R&D) công nghệ và sản xuất sản phẩm công nghệ cao trên địa bàn Thành phố, hạn mức dư nợ vay được hỗ trợ tối đa không quá 10 tỷ đồng."
+  }
+];
+
+function getCorpus(includeCrawled = false): CorpusChunk[] {
+  let list: CorpusChunk[] = [];
   try {
     const corpusPath = path.join(process.cwd(), "data", "corpus.json");
     if (fs.existsSync(corpusPath)) {
-      return JSON.parse(fs.readFileSync(corpusPath, "utf8")) as CorpusChunk[];
+      list = JSON.parse(fs.readFileSync(corpusPath, "utf8")) as CorpusChunk[];
+    } else {
+      list = [...corpusData] as CorpusChunk[];
     }
   } catch (e) {
     console.error("Lỗi đọc corpus.json động:", e);
+    list = [...corpusData] as CorpusChunk[];
   }
-  return corpusData as CorpusChunk[];
+
+  if (includeCrawled) {
+    crawledChunksGlobal.forEach(chunk => {
+      if (!list.some(c => c.id === chunk.id)) {
+        list.push(chunk);
+      }
+    });
+  }
+  return list;
 }
 
 const embeddings = embeddingsData as { model: string; dimensions: number; chunks: { id: string; embedding: number[] }[] };
@@ -56,11 +98,11 @@ function chunkHaystack(chunk: CorpusChunk): string {
 }
 
 // BM25 (Okapi), k1=1.5, b=0.75 — standard defaults, tuned for short legal-clause chunks.
-function bm25Rank(query: string): Map<string, number> {
+function bm25Rank(query: string, includeCrawled = false): Map<string, number> {
   const k1 = 1.5;
   const b = 0.75;
   const queryTokens = tokenize(query);
-  const corpus = getCorpus();
+  const corpus = getCorpus(includeCrawled);
   const docs = corpus.map((chunk) => ({ id: chunk.id, tokens: tokenize(chunkHaystack(chunk)) }));
   const N = docs.length;
   const avgdl = docs.reduce((sum, d) => sum + d.tokens.length, 0) / Math.max(N, 1);
@@ -102,7 +144,7 @@ function cosineSimilarity(a: number[], b: number[]): number {
   return dot / (Math.sqrt(normA) * Math.sqrt(normB));
 }
 
-async function denseRank(query: string, apiKey: string): Promise<Map<string, number>> {
+async function denseRank(query: string, apiKey: string, includeCrawled = false): Promise<Map<string, number>> {
   const ai = new GoogleGenAI({ apiKey });
   const response = await ai.models.embedContent({
     model: embeddings.model || "gemini-embedding-001",
@@ -112,7 +154,7 @@ async function denseRank(query: string, apiKey: string): Promise<Map<string, num
   const scores = new Map<string, number>();
   if (!queryVector) return scores;
 
-  const corpus = getCorpus();
+  const corpus = getCorpus(includeCrawled);
   for (const chunk of corpus) {
     const vector = embeddingById.get(chunk.id);
     if (!vector) continue;
@@ -145,8 +187,8 @@ export type RetrievalResult = {
 // match — catches paraphrases/synonyms BM25 misses), fused with RRF.
 // Falls back to BM25-only if embeddings are unavailable (missing API key,
 // stale/incomplete data/corpus_embeddings.json, or a network error).
-export async function hybridRetrieve(query: string, limit = 5): Promise<RetrievalResult> {
-  const bm25Scores = bm25Rank(query);
+export async function hybridRetrieve(query: string, limit = 5, includeCrawled = false): Promise<RetrievalResult> {
+  const bm25Scores = bm25Rank(query, includeCrawled);
   const apiKey = process.env.GEMINI_API_KEY;
 
   let fused = bm25Scores;
@@ -154,7 +196,7 @@ export async function hybridRetrieve(query: string, limit = 5): Promise<Retrieva
 
   if (apiKey && embeddingById.size > 0) {
     try {
-      const dense = await denseRank(query, apiKey);
+      const dense = await denseRank(query, apiKey, includeCrawled);
       if (dense.size > 0) {
         fused = reciprocalRankFusion([bm25Scores, dense]);
         mode = "hybrid";
@@ -164,7 +206,7 @@ export async function hybridRetrieve(query: string, limit = 5): Promise<Retrieva
     }
   }
 
-  const corpus = getCorpus();
+  const corpus = getCorpus(includeCrawled);
   const byId = new Map(corpus.map((chunk) => [chunk.id, chunk]));
   
   // Lấy top 2 của BM25 trước (đặc biệt hữu dụng cho các chunk mới cào chưa có embedding)
