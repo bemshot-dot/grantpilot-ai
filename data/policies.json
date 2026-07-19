@@ -231,5 +231,105 @@
       "Thuyết minh dự án công nghệ",
       "Bảng kê khai chi phí R&D"
     ]
+  },
+  {
+    "id": "p_qd456_btttt",
+    "title": "Hỗ trợ đo lường, kiểm thử AI và IoT (QĐ 456/QĐ-BTTTT)",
+    "program": "Quyết định 456/QĐ-BTTTT",
+    "scope": "Toàn quốc",
+    "status": "Còn hiệu lực",
+    "source": "https://mic.gov.vn",
+    "summary": "Hỗ trợ 50% chi phí kiểm thử, đo lường và thử nghiệm hiệu năng phần mềm AI hoặc thiết bị IoT tại các phòng thí nghiệm quốc gia cho các doanh nghiệp khởi nghiệp đổi mới sáng tạo, mức tối đa không quá 150 triệu đồng trên mỗi dự án thử nghiệm.",
+    "benefits": [
+      "Hỗ trợ 50% chi phí đo lường, kiểm thử hiệu năng sản phẩm",
+      "Mức hỗ trợ tối đa lên đến 150 triệu đồng cho mỗi dự án thử nghiệm",
+      "Được thực hiện trực tiếp tại các phòng thí nghiệm trọng điểm quốc gia"
+    ],
+    "eligibility": {
+      "requires_sme": true,
+      "requires_startup_innovation": true,
+      "industries": ["Phần mềm / AI", "Công nghệ cao"],
+      "provinces": ["Tất cả"]
+    },
+    "citations": [
+      {
+        "document": "Quyết định 456/QĐ-BTTTT",
+        "clause": "Khoản 2 Điều 1 (Chương trình AI và IoT)",
+        "status": "Còn hiệu lực",
+        "source": "https://mic.gov.vn"
+      }
+    ],
+    "checklist": [
+      "Giấy chứng nhận đăng ký doanh nghiệp",
+      "Đề xuất dự án kiểm thử đo lường",
+      "Tài liệu mô tả thông số kỹ thuật sản phẩm AI/IoT",
+      "Hợp đồng thử nghiệm với phòng thí nghiệm quốc gia"
+    ]
+  },
+  {
+    "id": "p_nd99_thue",
+    "title": "Miễn giảm thuế TNDN cho Startup đổi mới sáng tạo (NĐ 99/2026/NĐ-CP)",
+    "program": "Nghị định 99/2026/NĐ-CP",
+    "scope": "Toàn quốc",
+    "status": "Còn hiệu lực",
+    "source": "https://chinhphu.vn",
+    "summary": "Miễn thuế thu nhập doanh nghiệp (TNDN) trong 2 năm đầu tiên và giảm 50% số thuế phải nộp trong 3 năm tiếp theo đối với các doanh nghiệp khởi nghiệp sáng tạo và doanh nghiệp khoa học công nghệ mới thành lập có doanh thu dưới 10 tỷ đồng/năm.",
+    "benefits": [
+      "Miễn 100% thuế Thu nhập Doanh nghiệp (TNDN) trong 2 năm đầu hoạt động",
+      "Giảm 50% số thuế TNDN phải nộp trong 3 năm tiếp theo",
+      "Tối ưu hóa dòng tiền và chi phí vận hành ban đầu cho doanh nghiệp"
+    ],
+    "eligibility": {
+      "requires_sme": true,
+      "requires_startup_innovation": true,
+      "industries": ["Phần mềm / AI", "Công nghệ cao", "Phân tích dữ liệu", "Dịch vụ đổi mới sáng tạo"],
+      "provinces": ["Tất cả"]
+    },
+    "citations": [
+      {
+        "document": "Nghị định 99/2026/NĐ-CP",
+        "clause": "Điều 8 (Miễn giảm thuế TNDN)",
+        "status": "Còn hiệu lực",
+        "source": "https://chinhphu.vn"
+      }
+    ],
+    "checklist": [
+      "Giấy chứng nhận Doanh nghiệp Khoa học & Công nghệ hoặc Startup đổi mới sáng tạo",
+      "Tờ khai thuế thu nhập doanh nghiệp tự quyết toán",
+      "Báo cáo tài chính hoặc báo cáo doanh thu năm gần nhất dưới 10 tỷ đồng"
+    ]
+  },
+  {
+    "id": "p_nq12_hanoi",
+    "title": "Tài trợ 100% kinh phí giải pháp Chuyển đổi số (NQ 12/2026/NQ-HĐND)",
+    "program": "Nghị quyết 12/2026/NQ-HĐND Hà Nội",
+    "scope": "Hà Nội",
+    "status": "Còn hiệu lực",
+    "source": "https://vanban.hanoi.gov.vn",
+    "summary": "Hỗ trợ 100% kinh phí thuê, mua các giải pháp chuyển đổi số, phần mềm quản trị doanh nghiệp cho các startup công nghệ và DNNVV trên địa bàn thành phố Hà Nội, mức tối đa không quá 50 triệu đồng/năm đối với doanh nghiệp siêu nhỏ và 100 triệu đồng/năm đối với doanh nghiệp nhỏ.",
+    "benefits": [
+      "Hỗ trợ 100% kinh phí thuê/mua giải pháp chuyển đổi số, ERP, quản trị",
+      "Tối đa 50 triệu đồng/năm cho doanh nghiệp quy mô siêu nhỏ tại Hà Nội",
+      "Tối đa 100 triệu đồng/năm cho doanh nghiệp quy mô nhỏ tại Hà Nội"
+    ],
+    "eligibility": {
+      "requires_sme": true,
+      "requires_startup_innovation": false,
+      "industries": ["Phần mềm / AI", "Sản xuất", "Nông nghiệp", "Dịch vụ đổi mới sáng tạo", "Khác"],
+      "provinces": ["Hà Nội"]
+    },
+    "citations": [
+      {
+        "document": "Nghị quyết 12/2026/NQ-HĐND Hà Nội",
+        "clause": "Điều 3 (Mức hỗ trợ chuyển đổi số)",
+        "status": "Còn hiệu lực",
+        "source": "https://vanban.hanoi.gov.vn"
+      }
+    ],
+    "checklist": [
+      "Giấy chứng nhận đăng ký doanh nghiệp hoạt động trên địa bàn Hà Nội",
+      "Hợp đồng cung cấp giải pháp hoặc hóa đơn thanh toán thuê/mua phần mềm",
+      "Tờ khai xác định quy mô doanh nghiệp siêu nhỏ/nhỏ"
+    ]
   }
 ]
